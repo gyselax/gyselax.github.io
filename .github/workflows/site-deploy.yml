@@ -23,9 +23,12 @@ jobs:
         run: |
           rm -rf public/*
           hugo
+          ls -R .
       - name: Deploy site
         run: |
           cd public
+          git config user.email "github-commit-hook@example.com"
+          git config user.name "Github Commit Hook"
           git add -A .
           git commit -a -m "Update to match ${GITHUB_SHA}"
           git push -f
