@@ -1,0 +1,23 @@
+name: site-deploy
+on:
+  push:
+    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          ref: data
+          path: public
+      - name: Run a multi-line script
+        run: |
+          rm -rf public/*
+          hugo
+          cd public
+          git add -A .
+          git commit -a -m "Update to match ${GITHUB_SHA}"
+          git push -f
