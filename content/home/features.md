@@ -1,20 +1,20 @@
 ---
 widget: featurette
 headless: true
-weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+weight: 30
+title: Built
+subtitle: For the future ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
-    description: For users
+    name: Gyrokinetic
+#    description: For users
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
+    name: Semi-lagrangian
+#    description: For teams
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: For the future
+#    description: For yourself
 ---
