@@ -11,7 +11,7 @@ design:
     text_color_light: true
 cta:
   url: https://gitlab.maisondelasimulation.fr/gysela-developpers/gysela
-  label: Get Started
+  label: GITLAB repository
   icon_pack: fas
   icon: download
 #cta_alt:
