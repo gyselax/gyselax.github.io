@@ -13,7 +13,7 @@ jobs:
         with:
           ref: data
           path: public
-      - name Install deps
+      - name: Install deps
         run: |
           wget https://github.com/gohugoio/hugo/releases/download/v0.81.0/hugo_0.81.0_Linux-64bit.deb
           sudo apt install golang-go
