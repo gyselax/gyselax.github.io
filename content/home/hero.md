@@ -2,18 +2,20 @@
 widget: hero
 headless: true
 weight: 10
-title: GyselaX
+title: GYSELA-X
 hero_media: tokamak.png
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#0489B1'
+    gradient_end: '#0B2F3A'
+    #gradient_start: '#4bb4e3'
+    #gradient_end: '#2b94c3'
     text_color_light: true
 cta:
   url: https://gitlab.maisondelasimulation.fr/gysela-developpers/gysela
   label: GITLAB repository
-  icon_pack: fas
-  icon: download
+  icon_pack: fab
+  icon: gitlab
 #cta_alt:
 #  url: docs/
 #  label: View Documentation
@@ -24,5 +26,4 @@ cta:
 #    </span>
 ---
 
-The GyselaX code models the electrostatic branch of the Ion Temperature Gradient turbulence in tokamak plasmas.
-Gysela is a 5D full-f and flux-driven gyrokinetic code.
+The GYSELA-X code models turbulence in tokamak plasmas.
