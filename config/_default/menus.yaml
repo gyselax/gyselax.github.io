@@ -8,7 +8,7 @@ main:
     url: 'publication'
     weight: 10
   - name: People
-    url: 'people'
+    url: 'author'
     weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
