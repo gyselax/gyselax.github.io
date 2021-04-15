@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: GYSELA-X
-hero_media: tokamak.png
+hero_media: GYSELA_simu.png
 design:
   background:
     gradient_start: '#0489B1'
