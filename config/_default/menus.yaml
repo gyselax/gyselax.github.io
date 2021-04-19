@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Team
+    url: '#team'
+    weight: 10
   - name: Publications
     url: 'publication'
-    weight: 10
-  - name: People
-    url: 'authors'
     weight: 20
 
 # Link to a PDF of your resume/CV from the menu.

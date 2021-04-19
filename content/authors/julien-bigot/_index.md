@@ -2,11 +2,20 @@
 authors: [ julien-bigot ]
 name: Julien Bigot
 email: julien.bigot@cea.fr
-title: Julien Bigot
-role: People
-user_groups: [ People ]
----
+title: Dr. Julien Bigot
+role: PDI developer
+user_groups: [ Team ]
+organizations:
+- name: CEA
+  url: https://www.cea.fr/
+- name: Maison de la Simulation
+  url: http://www.maisondelasimulation.fr/
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:julien.bigot@cea.fr
 
+---
 Dr. Julien Bigot is a CEA Researcher at Maison de la Simulation.
 His main research interest is related to programming models and software engineering issues for HPC applications.
 During his Ph.D. Thesis (2007-2010) at IRISA Rennes and ENS Lyon, he proposed a HPC-dedicated software component model based on assembly compilation for hardware adaptation.
