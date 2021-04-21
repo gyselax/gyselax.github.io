@@ -4,13 +4,13 @@ name: Virginie Grandgirard
 email: virginie.grandgirard@cea.fr
 title: Dr. Virginie Grandgirard
 role: Main developer
+user_groups: [ Team ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: IRFM
   url: http://irfm.cea.fr
 highlight_name: false
-user_groups: [ Team ]
 social:
 - icon: envelope
   icon_pack: fas

@@ -1,0 +1,32 @@
+---
+authors: [ xavier-garbet ]
+name: Xavier Garbet
+email: xavier.garbet@cea.fr
+title: Dr. Xavier Garbet
+role: Researcher
+user_groups: [ Team ]
+organizations:
+- name: CEA
+  url: https://www.cea.fr/
+- name: IRFM
+  url: http://irfm.cea.fr
+highlight_name: false
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:xavier.garbet@cea.fr
+
+---
+After being admitted at the Ecole Normale Supérieure de Cachan, France, Philippe Ghendrih got the Agrégation in Physics. In 1983, he obtained his PhD in Theoretical Physics on Chaos (advisor P. Manneville). In 1987, he defended a State PhD in Theoretical Physics (Advisors R. Balescu, J. Misguich, A. Samain). He is actually Physicist and Research director at CEA-IRFM and also chairman of the internal scientific council of IRFM. He was research advisor of more than 10 PhD students. His domains of expertise cover a wide range of topics: Theory and experiment, plasma turbulent transport, neoclassical transport, plasma-wall interaction, stochastic boundaries. He has published more than 200 publications in peer-reviewed journals (H factor = 28), and led several French and European projects.
+Chantal Passeron - (F.) She graduated with a technological university diploma (DUT) of computer science
+in 1980. Chantal Passeron has been developer in two companies (SIMINEX and CISI) before integrating her
+current position at CEA starting in 1987. Since then, she is developing, maintaining and porting several HPC
+codes on Tier-2, Tier-1 and Tier-0 supercomputers.
+Dr. Guilhem Dif-Pradalier - (M.) After having been graduated from one of the top French high level schools
+(ISAE-SUPAERO), Guilhem Dif-Pradalier earned a PhD in Radiation, Plasmas and Astrophysics from Aix-
+Marseille University (2009). He awarded the best PhD thesis from the European Physical Society Plasma
+Physics Division. As a postdoctoral fellow, he spent two years at University of California San Diego (Advisor:
+Prof. P.H. Diamond). He is researcher with CEA, France since 2011. He has active interest in many theoretical
+problems pertaining to turbulence, transport and self-organisation in magnetised plasmas, geophysical fluids
+and in non-equilibrium systems, in general. He is involved with several aspects of the Magnetic Fusion Energy
+Program.

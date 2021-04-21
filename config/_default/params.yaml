@@ -40,7 +40,7 @@ address_format: en-us
 highlight: true
 #highlight_languages:
 #  - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -53,7 +53,7 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
