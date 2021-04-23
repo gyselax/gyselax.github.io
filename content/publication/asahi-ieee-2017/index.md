@@ -12,14 +12,6 @@ authors:
 - Y. Idomura
 - V. Grandgirard
 - X. Garbet
-tags:
-- '"cache storage;finite difference methods;optimisation;optimization;fusion kernels;accelerators;indirect
-  memory access patterns;strided memory access patterns;high-dimensional stencil computations;five
-  dimensional fusion plasma turbulence codes;GYSELA;GT5D;semiLagrangian scheme;finite-difference
-  scheme;GPGPU;Xeon Phi coprocessors;array of structure of array;AoSoA data layout;cache
-  usage;spatial data locality;temporal data locality;texture memory usage;Finite difference
-  methods;Kernel;Instruction sets;Optimization;Plasma accelerators;Coprocessors;GPU;Xeon
-  Phi;semi-lagrangian;finite-difference"'
 categories: []
 date: '2017-07-01'
 lastmod: 2021-03-18T23:38:56+01:00
