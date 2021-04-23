@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: projects
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,14 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: French Projects
-    tag: French Projects
-  - name: European Projects
-    tag: European Projects
-
+  - name: French Grants
+    tag: French Grants
+  - name: European Grants
+    tag: European Grants
+  - name: Hpc Programs
+    tag: Hpc Programs
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List

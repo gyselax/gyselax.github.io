@@ -3,7 +3,7 @@ authors: [ virginie-grandgirard ]
 name: Virginie Grandgirard
 email: virginie.grandgirard@cea.fr
 title: Dr. Virginie Grandgirard
-role: Main developer
+role: Lead developer
 user_groups: [ Team ]
 organizations:
 - name: CEA
