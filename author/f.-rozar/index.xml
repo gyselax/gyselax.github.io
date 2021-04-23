@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Rozar | GyselaX</title>
+    <link>https://gyselax.github.io/author/f.-rozar/</link>
+      <atom:link href="https://gyselax.github.io/author/f.-rozar/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Rozar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>F. Rozar</title>
+      <link>https://gyselax.github.io/author/f.-rozar/</link>
+    </image>
+    
+    <item>
+      <title>A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion turbulence simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-cpc-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-cpc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to increase reliability of HPC simulation, application to the GYSELA5D code</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of the gyroaverage operator based on Hermite interpolation</title>
+      <link>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward memory scalability of GYSELA code for extreme scale computers</title>
+      <link>https://gyselax.github.io/publication/rozar-cpe-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-cpe-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving Memory Scalability in the GYSELA Code to Fit Exascale Constraints</title>
+      <link>https://gyselax.github.io/publication/rozar-ppam-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-ppam-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous writing method for restart files in the GYSELA code in prevision of exascale systems</title>
+      <link>https://gyselax.github.io/publication/thomine-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/thomine-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling gysela code beyond 32K-cores on bluegene/Q</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

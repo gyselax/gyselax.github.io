@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Zarzoso | GyselaX</title>
+    <link>https://gyselax.github.io/author/d.-zarzoso/</link>
+      <atom:link href="https://gyselax.github.io/author/d.-zarzoso/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Zarzoso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>D. Zarzoso</title>
+      <link>https://gyselax.github.io/author/d.-zarzoso/</link>
+    </image>
+    
+    <item>
+      <title>Linear collisionless dynamics of the GAM with kinetic electrons: Comparison simulations/theory</title>
+      <link>https://gyselax.github.io/publication/grandgirard-pop-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-pop-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of kinetic electrons to GAM damping</title>
+      <link>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle transport due to energetic-particle-driven geodesic acoustic modes</title>
+      <link>https://gyselax.github.io/publication/zarzoso-nf-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-nf-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-code gyrokinetic verification and benchmark on the linear collisionless dynamics of the geodesic acoustic mode</title>
+      <link>https://gyselax.github.io/publication/biancalani-po-p-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/biancalani-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion turbulence simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-cpc-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-cpc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling Quasiperiodic Relaxations of Transport Barriers with Gyrokinetic Simulations of Tokamak Plasmas</title>
+      <link>https://gyselax.github.io/publication/strugarek-prl-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/strugarek-prl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Energetic-Particle-Driven Geodesic Acoustic Modes on Turbulence</title>
+      <link>https://gyselax.github.io/publication/zarzoso-prl-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-prl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between fast ions and turbulence in magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/dumont-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dumont-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion transport barriers triggered by plasma polarization in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/strugarek-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/strugarek-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent momentum transport in core tokamak plasmas and penetration of scrape-off layer flows</title>
+      <link>https://gyselax.github.io/publication/abiteboul-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/abiteboul-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy of unperturbed motion of particles in a gyrokinetic semi-Lagrangian code</title>
+      <link>https://gyselax.github.io/publication/latu-inria-8054-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-8054-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully kinetic description of the linear excitation and nonlinear saturation of fast-ion-driven geodesic acoustic mode instability</title>
+      <link>https://gyselax.github.io/publication/zarzoso-po-p-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-po-p-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production and collisionless fluid closure</title>
+      <link>https://gyselax.github.io/publication/sarazin-ppcf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-ppcf-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

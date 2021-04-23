@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Thomine | GyselaX</title>
+    <link>https://gyselax.github.io/author/o.-thomine/</link>
+      <atom:link href="https://gyselax.github.io/author/o.-thomine/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Thomine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>O. Thomine</title>
+      <link>https://gyselax.github.io/author/o.-thomine/</link>
+    </image>
+    
+    <item>
+      <title>Unraveling Quasiperiodic Relaxations of Transport Barriers with Gyrokinetic Simulations of Tokamak Plasmas</title>
+      <link>https://gyselax.github.io/publication/strugarek-prl-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/strugarek-prl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Energetic-Particle-Driven Geodesic Acoustic Modes on Turbulence</title>
+      <link>https://gyselax.github.io/publication/zarzoso-prl-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-prl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous writing method for restart files in the GYSELA code in prevision of exascale systems</title>
+      <link>https://gyselax.github.io/publication/thomine-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/thomine-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between fast ions and turbulence in magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/dumont-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dumont-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion transport barriers triggered by plasma polarization in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/strugarek-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/strugarek-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling gysela code beyond 32K-cores on bluegene/Q</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent momentum transport in core tokamak plasmas and penetration of scrape-off layer flows</title>
+      <link>https://gyselax.github.io/publication/abiteboul-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/abiteboul-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

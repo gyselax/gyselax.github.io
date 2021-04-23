@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the Tore Supra Team | GyselaX</title>
+    <link>https://gyselax.github.io/author/the-tore-supra-team/</link>
+      <atom:link href="https://gyselax.github.io/author/the-tore-supra-team/index.xml" rel="self" type="application/rss+xml" />
+    <description>the Tore Supra Team</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>the Tore Supra Team</title>
+      <link>https://gyselax.github.io/author/the-tore-supra-team/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive comparisons of GAM characteristics and dynamics between Tore Supra experiments and gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/storelli-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/storelli-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of nonlocality of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/guercan-nf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/guercan-nf-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

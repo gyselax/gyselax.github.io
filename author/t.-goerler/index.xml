@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Goerler | GyselaX</title>
+    <link>https://gyselax.github.io/author/t.-goerler/</link>
+      <atom:link href="https://gyselax.github.io/author/t.-goerler/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Goerler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>T. Goerler</title>
+      <link>https://gyselax.github.io/author/t.-goerler/</link>
+    </image>
+    
+    <item>
+      <title>Cross-code gyrokinetic verification and benchmark on the linear collisionless dynamics of the geodesic acoustic mode</title>
+      <link>https://gyselax.github.io/publication/biancalani-po-p-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/biancalani-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercode comparison of gyrokinetic global electromagnetic modes</title>
+      <link>https://gyselax.github.io/publication/goerler-po-p-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/goerler-po-p-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

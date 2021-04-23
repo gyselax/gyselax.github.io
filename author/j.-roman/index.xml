@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Roman | GyselaX</title>
+    <link>https://gyselax.github.io/author/j.-roman/</link>
+      <atom:link href="https://gyselax.github.io/author/j.-roman/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Roman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>J. Roman</title>
+      <link>https://gyselax.github.io/author/j.-roman/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of the gyroaverage operator based on Hermite interpolation</title>
+      <link>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward memory scalability of GYSELA code for extreme scale computers</title>
+      <link>https://gyselax.github.io/publication/rozar-cpe-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-cpe-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Ottaviani | GyselaX</title>
+    <link>https://gyselax.github.io/author/m.-ottaviani/</link>
+      <atom:link href="https://gyselax.github.io/author/m.-ottaviani/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Ottaviani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>M. Ottaviani</title>
+      <link>https://gyselax.github.io/author/m.-ottaviani/</link>
+    </image>
+    
+    <item>
+      <title>Validating a quasi-linear transport model versus nonlinear simulations</title>
+      <link>https://gyselax.github.io/publication/casati-nf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-nf-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The European turbulence code benchmarking effort: turbulence driven by thermal gradients in magnetically confined plasmas</title>
+      <link>https://gyselax.github.io/publication/falchetto-ppcf-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/falchetto-ppcf-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical understanding of turbulent transport in the SOL </title>
+      <link>https://gyselax.github.io/publication/sarazin-jnm-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-jnm-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

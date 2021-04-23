@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. H. Diamond | GyselaX</title>
+    <link>https://gyselax.github.io/author/p.-h.-diamond/</link>
+      <atom:link href="https://gyselax.github.io/author/p.-h.-diamond/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. H. Diamond</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>P. H. Diamond</title>
+      <link>https://gyselax.github.io/author/p.-h.-diamond/</link>
+    </image>
+    
+    <item>
+      <title>Finding the Elusive ExB Staircase in Magnetised Plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of nonlocality of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/guercan-nf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/guercan-nf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics of intrinsic rotation in flux-driven ITG turbulence</title>
+      <link>https://gyselax.github.io/publication/ku-nf-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/ku-nf-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoclassical physics in full distribution function gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-po-p-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-po-p-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictions on heat transport and plasma rotation from global gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/sarazin-nf-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-nf-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the validity of the local diffusive paradigm in turbulent plasma transport</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-pre-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-pre-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

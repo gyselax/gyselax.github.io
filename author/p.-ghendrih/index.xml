@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Ghendrih | GyselaX</title>
+    <link>https://gyselax.github.io/author/p.-ghendrih/</link>
+      <atom:link href="https://gyselax.github.io/author/p.-ghendrih/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Ghendrih</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>P. Ghendrih</title>
+      <link>https://gyselax.github.io/author/p.-ghendrih/</link>
+    </image>
+    
+    <item>
+      <title>Turbulent generation of poloidal asymmetries of the electric potential in a tokamak</title>
+      <link>https://gyselax.github.io/publication/donnel-ppcf-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-ppcf-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of kinetic electrons to GAM damping</title>
+      <link>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent gyrokinetic modeling of neoclassical and turbulent impurity transport</title>
+      <link>https://gyselax.github.io/publication/esteve-nf-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-nf-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-species collisional operator for full-F gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/esteve-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shear flow instabilities induced by trapped ion modes in collisionless temperature gradient turbulence</title>
+      <link>https://gyselax.github.io/publication/palermo-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/palermo-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving conservation properties of a 5D gyrokinetic semi-Lagrangian code</title>
+      <link>https://gyselax.github.io/publication/latu-epjd-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-epjd-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of nonlocality of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/guercan-nf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/guercan-nf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent acceleration and heating in toroidal magnetized plasmas</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production rate in tokamaks with nonaxisymmetric magnetic fields</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic modeling: A multi-water-bag approach</title>
+      <link>https://gyselax.github.io/publication/morel-po-p-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/morel-po-p-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A drift-kinetic Semi-Lagrangian 4D code for ion turbulence simulation </title>
+      <link>https://gyselax.github.io/publication/grandgirard-jocp-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-jocp-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

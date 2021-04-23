@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Lesur | GyselaX</title>
+    <link>https://gyselax.github.io/author/m.-lesur/</link>
+      <atom:link href="https://gyselax.github.io/author/m.-lesur/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Lesur</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>M. Lesur</title>
+      <link>https://gyselax.github.io/author/m.-lesur/</link>
+    </image>
+    
+    <item>
+      <title>Existence of Metastable Kinetic Modes</title>
+      <link>https://gyselax.github.io/publication/nguyen-prl-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/nguyen-prl-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,750 @@
     <link>https://gyselax.github.io/</link>
       <atom:link href="https://gyselax.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>GyselaX</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gyselax.github.io/images/logo_hu77b945441e929445a1dede7724f45b3a_24436_300x300_fit_lanczos_2.png</url>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>GyselaX</title>
       <link>https://gyselax.github.io/</link>
     </image>
+    
+    <item>
+      <title>European Grants</title>
+      <link>https://gyselax.github.io/projects/european-grants/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/projects/european-grants/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;EUROfusion Enabling Research grants:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Years 2014:
+&lt;ul&gt;
+&lt;li&gt;WP14-ER-01/CEA-10 (PI Y. Sarazin, CEA Cadarache)&lt;/li&gt;
+&lt;li&gt;WP14-ER-01/IPP-01 (PI E. Sonnendrücker, IPP Garching)&lt;/li&gt;
+&lt;li&gt;WP14-ER-01/IPP-02 (PI G. Conway, IPP Garching)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Years 2015-2018:
+&lt;ul&gt;
+&lt;li&gt;WP15-ER-01/IPP-01 (PI E. Sonnendrücker, IPP Garching)&lt;/li&gt;
+&lt;li&gt;WP15-ER-01/IPP-02 (PI G. Conway, IPP Garching)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Years 2017-2018:
+&lt;ul&gt;
+&lt;li&gt;WP17-ENR-CEA-01 (PI X. Garbet, CEA Cadarache)&lt;/li&gt;
+&lt;li&gt;WP17-ENR-CEA-02 (PI Ph. Ghendrih, CEA Cadarache)&lt;/li&gt;
+&lt;li&gt;WP17-ER/ENEA-10 (PI F. Zonca, ENEA Frascati)&lt;/li&gt;
+&lt;li&gt;WP17-ER/ENEA-10 (PI A. Milovanov, ENEA Frascati)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H2020 grant:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EoCoE: Energy oriented Centre of Excellence for Computing Applications, (2015-2019) (PI E. Audit, Maison de la Simulation)&lt;/li&gt;
+&lt;li&gt;EoCoE-II: Energy oriented Centre of Excellence for Computing Applications  (2019-2022) (PI E. Audit, Maison de la Simulation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>French Grants</title>
+      <link>https://gyselax.github.io/projects/french-grants/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/projects/french-grants/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;French research agency ANR:
+&lt;ul&gt;
+&lt;li&gt;2007-2010: EGYPT &amp;ldquo;Etude GYrocinétique des Plasmas Turbulents&amp;rdquo; (PI Ph. Ghendrih, CEA Cadarache).&lt;/li&gt;
+&lt;li&gt;2010-2014: GYPSI &amp;ldquo;GYrokinetic high Performance Simulations for Iter&amp;rdquo; (PI Ph. Ghendrih, CEA Cadarache).&lt;/li&gt;
+&lt;li&gt;2011-2014: NuFuSE &amp;ldquo;Nuclear Fusion Simulations at Exascale&amp;rdquo;, G8 Research Councils Initiative on Multilateral Research Funding.&lt;/li&gt;
+&lt;li&gt;2016-2017: AAP FR-FCM (PI X. Leoncini, AMU ; PI P. Morel, Ecole Polytechnique ; PI M. Lesur, Université de Lorraine)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>National &amp; International HPC programs</title>
+      <link>https://gyselax.github.io/projects/hpc-programs/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/projects/hpc-programs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2006 : Lighthouse Project on CEA military machine – Tera10&lt;/li&gt;
+&lt;li&gt;2007 : Lighthouse Project on CEA civilian machine – Platine&lt;/li&gt;
+&lt;li&gt;2008 : Lighthouse Project on CINES machine – Jade&lt;/li&gt;
+&lt;li&gt;2011 : INCITE US DOE on ORNL machine – Jaguar (PI P.H. Diamond)&lt;/li&gt;
+&lt;li&gt;2010 : Lighthouse Project on CINES machine – Jade2&lt;/li&gt;
+&lt;li&gt;2011 : ERCAP US DOE on NERSC machine – Cray XT5 (PI P.H. Diamond)&lt;/li&gt;
+&lt;li&gt;2012 : ERCAP US DOE on NERSC machine – Cray XT5 (PI G. Dif-Pradalier)&lt;/li&gt;
+&lt;li&gt;2012 : Lighthouse Project on TGCC machine – Curie &amp;amp; on IDRIS machine – Turing&lt;/li&gt;
+&lt;li&gt;2016 : Lighthouse Project on TGCC machine – Cobalt (PI G. Dif-Pradalier)&lt;/li&gt;
+&lt;li&gt;2017 : Lighthouse Project on CINES machine Occigen2 (PI Ph. Ghendrih)&lt;/li&gt;
+&lt;li&gt;2017 : PRACE project (P.I. G. Dif-Pradalier, 14th call “GYSELA-near-critical”) on Curie&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear collisionless dynamics of the GAM with kinetic electrons: Comparison simulations/theory</title>
+      <link>https://gyselax.github.io/publication/grandgirard-pop-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-pop-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent generation of poloidal asymmetries of the electric potential in a tokamak</title>
+      <link>https://gyselax.github.io/publication/donnel-ppcf-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-ppcf-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-species collisional operator for full-F global gyrokinetics codes : Numerical aspects and validation with the GYSELA code</title>
+      <link>https://gyselax.github.io/publication/donnel-cpc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-cpc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of kinetic electrons to GAM damping</title>
+      <link>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle transport due to energetic-particle-driven geodesic acoustic modes</title>
+      <link>https://gyselax.github.io/publication/zarzoso-nf-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-nf-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy of turbulent and neoclassical transport through poloidal convective cells</title>
+      <link>https://gyselax.github.io/publication/asahi-ppcf-2018-submitted/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/asahi-ppcf-2018-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of Fusion Kernels on Accelerators with Indirect or Strided Memory Access Patterns</title>
+      <link>https://gyselax.github.io/publication/asahi-ieee-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/asahi-ieee-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking of flux-driven full-F gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/asahi-po-p-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/asahi-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-code gyrokinetic verification and benchmark on the linear collisionless dynamics of the geodesic acoustic mode</title>
+      <link>https://gyselax.github.io/publication/biancalani-po-p-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/biancalani-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for Global Edge-Core Interplay in Fusion Plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-pfr-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-pfr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of poloidal convective cells on momentum flux in tokamaks</title>
+      <link>https://gyselax.github.io/publication/garbet-njp-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-njp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent gyrokinetic modeling of neoclassical and turbulent impurity transport</title>
+      <link>https://gyselax.github.io/publication/esteve-nf-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-nf-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The EXB staircase of magnetised plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-nf-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-nf-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion turbulence simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-cpc-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-cpc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic investigation of the linear GAM dynamics</title>
+      <link>https://gyselax.github.io/publication/biancalani-po-p-2016-inprep/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/biancalani-po-p-2016-inprep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercode comparison of gyrokinetic global electromagnetic modes</title>
+      <link>https://gyselax.github.io/publication/goerler-po-p-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/goerler-po-p-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-species collisional operator for full-F gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/esteve-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to increase reliability of HPC simulation, application to the GYSELA5D code</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive comparisons of GAM characteristics and dynamics between Tore Supra experiments and gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/storelli-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/storelli-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the Elusive ExB Staircase in Magnetised Plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyroaverage operator for a polar mesh</title>
+      <link>https://gyselax.github.io/publication/steiner-epjd-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/steiner-epjd-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of the gyroaverage operator based on Hermite interpolation</title>
+      <link>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shear flow instabilities induced by trapped ion modes in collisionless temperature gradient turbulence</title>
+      <link>https://gyselax.github.io/publication/palermo-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/palermo-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward memory scalability of GYSELA code for extreme scale computers</title>
+      <link>https://gyselax.github.io/publication/rozar-cpe-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-cpe-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving Memory Scalability in the GYSELA Code to Fit Exascale Constraints</title>
+      <link>https://gyselax.github.io/publication/rozar-ppam-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-ppam-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving conservation properties of a 5D gyrokinetic semi-Lagrangian code</title>
+      <link>https://gyselax.github.io/publication/latu-epjd-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-epjd-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling Quasiperiodic Relaxations of Transport Barriers with Gyrokinetic Simulations of Tokamak Plasmas</title>
+      <link>https://gyselax.github.io/publication/strugarek-prl-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/strugarek-prl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Energetic-Particle-Driven Geodesic Acoustic Modes on Turbulence</title>
+      <link>https://gyselax.github.io/publication/zarzoso-prl-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-prl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous writing method for restart files in the GYSELA code in prevision of exascale systems</title>
+      <link>https://gyselax.github.io/publication/thomine-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/thomine-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic simulations of magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/grandgirard-ps-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-ps-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between fast ions and turbulence in magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/dumont-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dumont-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion transport barriers triggered by plasma polarization in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/strugarek-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/strugarek-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling gysela code beyond 32K-cores on bluegene/Q</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of nonlocality of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/guercan-nf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/guercan-nf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent acceleration and heating in toroidal magnetized plasmas</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent momentum transport in core tokamak plasmas and penetration of scrape-off layer flows</title>
+      <link>https://gyselax.github.io/publication/abiteboul-ppcf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/abiteboul-ppcf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy of unperturbed motion of particles in a gyrokinetic semi-Lagrangian code</title>
+      <link>https://gyselax.github.io/publication/latu-inria-8054-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-8054-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Quasineutral solver for gyrokinetic simulation</title>
+      <link>https://gyselax.github.io/publication/latu-ppam-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-ppam-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully kinetic description of the linear excitation and nonlinear saturation of fast-ion-driven geodesic acoustic mode instability</title>
+      <link>https://gyselax.github.io/publication/zarzoso-po-p-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/zarzoso-po-p-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics of intrinsic rotation in flux-driven ITG turbulence</title>
+      <link>https://gyselax.github.io/publication/ku-nf-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/ku-nf-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of neoclassical and turbulent transport</title>
+      <link>https://gyselax.github.io/publication/garbet-ppcf-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-ppcf-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some numerical aspects of the conservative PSM scheme in a 4D drift-kinetic code.</title>
+      <link>https://gyselax.github.io/publication/braeunig-hal-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/braeunig-hal-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel bottleneck in the Quasineutrality solver embedded in GYSELA</title>
+      <link>https://gyselax.github.io/publication/latu-inria-7595-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-7595-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some parallel algorithms for the Quasineutrality solver of GYSELA</title>
+      <link>https://gyselax.github.io/publication/latu-inria-7591-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-7591-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation equations and calculation of mean flows in gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/abiteboul-po-p-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/abiteboul-po-p-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoclassical physics in full distribution function gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-po-p-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-po-p-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictions on heat transport and plasma rotation from global gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/sarazin-nf-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-nf-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the Vlasov equation in complex geometries</title>
+      <link>https://gyselax.github.io/publication/abiteboul-esaim-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/abiteboul-esaim-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Existence of Metastable Kinetic Modes</title>
+      <link>https://gyselax.github.io/publication/nguyen-prl-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/nguyen-prl-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the validity of the local diffusive paradigm in turbulent plasma transport</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-pre-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-pre-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production rate in tokamak plasmas with helical magnetic perturbations</title>
+      <link>https://gyselax.github.io/publication/garbet-jpcs-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-jpcs-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production rate in tokamaks with nonaxisymmetric magnetic fields</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flux-driven gyrokinetic simulations of ion turbulent transport at low magnetic shear</title>
+      <link>https://gyselax.github.io/publication/sarazin-jpcs-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-jpcs-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic simulations of turbulent transport: size scaling and chaotic behaviour</title>
+      <link>https://gyselax.github.io/publication/villard-ppcf-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/villard-ppcf-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale dynamics in flux driven gyrokinetic turbulence</title>
+      <link>https://gyselax.github.io/publication/sarazin-nf-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-nf-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurements and Modeling of Turbulent Transport in the Tore Supra Tokamak</title>
+      <link>https://gyselax.github.io/publication/garbet-aip-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-aip-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear modification of the stability of fast particle driven modes in tokamaks</title>
+      <link>https://gyselax.github.io/publication/nguyen-ppcf-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/nguyen-ppcf-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between Gyrokinetic Turbulence, Flows, and Collisions: Perspectives on Transport and Poloidal Rotation</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-prl-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of Plasma Elongation on Turbulent Transport in Magnetically Confined Plasmas</title>
+      <link>https://gyselax.github.io/publication/angelino-prl-2009/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/angelino-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence in the TORE SUPRA Tokamak: Measurements and Validation of Nonlinear Simulations</title>
+      <link>https://gyselax.github.io/publication/casati-prl-2009/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production and collisionless fluid closure</title>
+      <link>https://gyselax.github.io/publication/sarazin-ppcf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-ppcf-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoclassical equilibrium in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating a quasi-linear transport model versus nonlinear simulations</title>
+      <link>https://gyselax.github.io/publication/casati-nf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-nf-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing ITG turbulence with a full-f semi-Lagrangian code </title>
+      <link>https://gyselax.github.io/publication/grandgirard-cnsns-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-cnsns-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining an equilibrium state in global full-f gyrokinetic models </title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-cnsns-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-cnsns-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic simulations of neoclassical transport using a minimal collision operator</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-aip-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-aip-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intermittency in flux driven kinetic simulations of trapped ion turbulence </title>
+      <link>https://gyselax.github.io/publication/darmet-cnsns-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/darmet-cnsns-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the influence of initial state on gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-po-p-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-po-p-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The European turbulence code benchmarking effort: turbulence driven by thermal gradients in magnetically confined plasmas</title>
+      <link>https://gyselax.github.io/publication/falchetto-ppcf-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/falchetto-ppcf-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of plasma elongation on the linear damping of zonal flows</title>
+      <link>https://gyselax.github.io/publication/angelino-po-p-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/angelino-po-p-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence spectra and transport barriers in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/sarazin-aip-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-aip-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond scale separation in gyrokinetic turbulence</title>
+      <link>https://gyselax.github.io/publication/garbet-nf-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-nf-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global full-f gyrokinetic simulations of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/grandgirard-ppcf-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-ppcf-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic modeling: A multi-water-bag approach</title>
+      <link>https://gyselax.github.io/publication/morel-po-p-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/morel-po-p-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic Semi-Lagrangian Parallel Simulation using a Hybrid OpenMP/MPI programming</title>
+      <link>https://gyselax.github.io/publication/latu-rapvm-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-rapvm-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A drift-kinetic Semi-Lagrangian 4D code for ion turbulence simulation </title>
+      <link>https://gyselax.github.io/publication/grandgirard-jocp-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-jocp-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GYSELA, a full-f global gyrokinetic Semi-Lagrangian code for ITG turbulence simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-aip-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-aip-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of large scale flows on turbulent transport</title>
+      <link>https://gyselax.github.io/publication/sarazin-ppcf-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-ppcf-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplay between transport barriers and density gradient</title>
+      <link>https://gyselax.github.io/publication/sarazin-po-p-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-po-p-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetic features of interchange turbulence</title>
+      <link>https://gyselax.github.io/publication/sarazin-ppcf-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-ppcf-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of large scale flows on turbulent transport</title>
+      <link>https://gyselax.github.io/publication/sarazin-aip-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-aip-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical understanding of turbulent transport in the SOL </title>
+      <link>https://gyselax.github.io/publication/sarazin-jnm-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-jnm-2003/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

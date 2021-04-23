@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | GyselaX</title>
+    <link>https://gyselax.github.io/publication-type/1/</link>
+      <atom:link href="https://gyselax.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>1</title>
+      <link>https://gyselax.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Contribution of kinetic electrons to GAM damping</title>
+      <link>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/ehrlacher-jpcs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to increase reliability of HPC simulation, application to the GYSELA5D code</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of the gyroaverage operator based on Hermite interpolation</title>
+      <link>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asynchronous writing method for restart files in the GYSELA code in prevision of exascale systems</title>
+      <link>https://gyselax.github.io/publication/thomine-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/thomine-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling gysela code beyond 32K-cores on bluegene/Q</title>
+      <link>https://gyselax.github.io/publication/bigot-esaim-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bigot-esaim-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the Vlasov equation in complex geometries</title>
+      <link>https://gyselax.github.io/publication/abiteboul-esaim-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/abiteboul-esaim-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic Semi-Lagrangian Parallel Simulation using a Hybrid OpenMP/MPI programming</title>
+      <link>https://gyselax.github.io/publication/latu-rapvm-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-rapvm-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

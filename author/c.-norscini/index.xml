@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Norscini | GyselaX</title>
+    <link>https://gyselax.github.io/author/c.-norscini/</link>
+      <atom:link href="https://gyselax.github.io/author/c.-norscini/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Norscini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>C. Norscini</title>
+      <link>https://gyselax.github.io/author/c.-norscini/</link>
+    </image>
+    
+    <item>
+      <title>A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion turbulence simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-cpc-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-cpc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercode comparison of gyrokinetic global electromagnetic modes</title>
+      <link>https://gyselax.github.io/publication/goerler-po-p-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/goerler-po-p-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-species collisional operator for full-F gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/esteve-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the Elusive ExB Staircase in Magnetised Plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ch. Latu, G. Steiner | GyselaX</title>
+    <link>https://gyselax.github.io/author/ch.-latu-g.-steiner/</link>
+      <atom:link href="https://gyselax.github.io/author/ch.-latu-g.-steiner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ch. Latu, G. Steiner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>Ch. Latu, G. Steiner</title>
+      <link>https://gyselax.github.io/author/ch.-latu-g.-steiner/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of the gyroaverage operator based on Hermite interpolation</title>
+      <link>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rozar-esaim-2015-submitted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Bourdelle | GyselaX</title>
+    <link>https://gyselax.github.io/author/c.-bourdelle/</link>
+      <atom:link href="https://gyselax.github.io/author/c.-bourdelle/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Bourdelle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>C. Bourdelle</title>
+      <link>https://gyselax.github.io/author/c.-bourdelle/</link>
+    </image>
+    
+    <item>
+      <title>Self-consistent gyrokinetic modeling of neoclassical and turbulent impurity transport</title>
+      <link>https://gyselax.github.io/publication/esteve-nf-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-nf-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of nonlocality of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/guercan-nf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/guercan-nf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent acceleration and heating in toroidal magnetized plasmas</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of neoclassical and turbulent transport</title>
+      <link>https://gyselax.github.io/publication/garbet-ppcf-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-ppcf-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production rate in tokamaks with nonaxisymmetric magnetic fields</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurements and Modeling of Turbulent Transport in the Tore Supra Tokamak</title>
+      <link>https://gyselax.github.io/publication/garbet-aip-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-aip-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence in the TORE SUPRA Tokamak: Measurements and Validation of Nonlinear Simulations</title>
+      <link>https://gyselax.github.io/publication/casati-prl-2009/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating a quasi-linear transport model versus nonlinear simulations</title>
+      <link>https://gyselax.github.io/publication/casati-nf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-nf-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

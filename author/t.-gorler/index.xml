@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Görler | GyselaX</title>
+    <link>https://gyselax.github.io/author/t.-gorler/</link>
+      <atom:link href="https://gyselax.github.io/author/t.-gorler/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Görler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>T. Görler</title>
+      <link>https://gyselax.github.io/author/t.-gorler/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive comparisons of GAM characteristics and dynamics between Tore Supra experiments and gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/storelli-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/storelli-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic simulations of turbulent transport: size scaling and chaotic behaviour</title>
+      <link>https://gyselax.github.io/publication/villard-ppcf-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/villard-ppcf-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

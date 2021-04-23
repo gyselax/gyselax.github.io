@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hpc Programs | GyselaX</title>
+    <link>https://gyselax.github.io/tag/hpc-programs/</link>
+      <atom:link href="https://gyselax.github.io/tag/hpc-programs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hpc Programs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>Hpc Programs</title>
+      <link>https://gyselax.github.io/tag/hpc-programs/</link>
+    </image>
+    
+    <item>
+      <title>National &amp; International HPC programs</title>
+      <link>https://gyselax.github.io/projects/hpc-programs/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/projects/hpc-programs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2006 : Lighthouse Project on CEA military machine – Tera10&lt;/li&gt;
+&lt;li&gt;2007 : Lighthouse Project on CEA civilian machine – Platine&lt;/li&gt;
+&lt;li&gt;2008 : Lighthouse Project on CINES machine – Jade&lt;/li&gt;
+&lt;li&gt;2011 : INCITE US DOE on ORNL machine – Jaguar (PI P.H. Diamond)&lt;/li&gt;
+&lt;li&gt;2010 : Lighthouse Project on CINES machine – Jade2&lt;/li&gt;
+&lt;li&gt;2011 : ERCAP US DOE on NERSC machine – Cray XT5 (PI P.H. Diamond)&lt;/li&gt;
+&lt;li&gt;2012 : ERCAP US DOE on NERSC machine – Cray XT5 (PI G. Dif-Pradalier)&lt;/li&gt;
+&lt;li&gt;2012 : Lighthouse Project on TGCC machine – Curie &amp;amp; on IDRIS machine – Turing&lt;/li&gt;
+&lt;li&gt;2016 : Lighthouse Project on TGCC machine – Cobalt (PI G. Dif-Pradalier)&lt;/li&gt;
+&lt;li&gt;2017 : Lighthouse Project on CINES machine Occigen2 (PI Ph. Ghendrih)&lt;/li&gt;
+&lt;li&gt;2017 : PRACE project (P.I. G. Dif-Pradalier, 14th call “GYSELA-near-critical”) on Curie&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

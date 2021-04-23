@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Bergot | GyselaX</title>
+    <link>https://gyselax.github.io/author/m.-bergot/</link>
+      <atom:link href="https://gyselax.github.io/author/m.-bergot/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Bergot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>M. Bergot</title>
+      <link>https://gyselax.github.io/author/m.-bergot/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of unperturbed motion of particles in a gyrokinetic semi-Lagrangian code</title>
+      <link>https://gyselax.github.io/publication/latu-inria-8054-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-8054-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

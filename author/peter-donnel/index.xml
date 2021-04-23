@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Donnel | GyselaX</title>
+    <link>https://gyselax.github.io/author/peter-donnel/</link>
+      <atom:link href="https://gyselax.github.io/author/peter-donnel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Donnel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>Peter Donnel</title>
+      <link>https://gyselax.github.io/author/peter-donnel/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking of flux-driven full-F gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/asahi-po-p-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/asahi-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

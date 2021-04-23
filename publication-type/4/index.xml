@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | GyselaX</title>
+    <link>https://gyselax.github.io/publication-type/4/</link>
+      <atom:link href="https://gyselax.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>4</title>
+      <link>https://gyselax.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of unperturbed motion of particles in a gyrokinetic semi-Lagrangian code</title>
+      <link>https://gyselax.github.io/publication/latu-inria-8054-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-8054-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Quasineutral solver for gyrokinetic simulation</title>
+      <link>https://gyselax.github.io/publication/latu-ppam-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-ppam-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some numerical aspects of the conservative PSM scheme in a 4D drift-kinetic code.</title>
+      <link>https://gyselax.github.io/publication/braeunig-hal-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/braeunig-hal-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel bottleneck in the Quasineutrality solver embedded in GYSELA</title>
+      <link>https://gyselax.github.io/publication/latu-inria-7595-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-7595-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some parallel algorithms for the Quasineutrality solver of GYSELA</title>
+      <link>https://gyselax.github.io/publication/latu-inria-7591-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/latu-inria-7591-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

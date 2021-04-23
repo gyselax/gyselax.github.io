@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Villard | GyselaX</title>
+    <link>https://gyselax.github.io/author/l.-villard/</link>
+      <atom:link href="https://gyselax.github.io/author/l.-villard/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Villard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>L. Villard</title>
+      <link>https://gyselax.github.io/author/l.-villard/</link>
+    </image>
+    
+    <item>
+      <title>Predictions on heat transport and plasma rotation from global gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/sarazin-nf-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-nf-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic simulations of turbulent transport: size scaling and chaotic behaviour</title>
+      <link>https://gyselax.github.io/publication/villard-ppcf-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/villard-ppcf-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of Plasma Elongation on Turbulent Transport in Magnetically Confined Plasmas</title>
+      <link>https://gyselax.github.io/publication/angelino-prl-2009/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/angelino-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of plasma elongation on the linear damping of zonal flows</title>
+      <link>https://gyselax.github.io/publication/angelino-po-p-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/angelino-po-p-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond scale separation in gyrokinetic turbulence</title>
+      <link>https://gyselax.github.io/publication/garbet-nf-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-nf-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global full-f gyrokinetic simulations of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/grandgirard-ppcf-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-ppcf-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A drift-kinetic Semi-Lagrangian 4D code for ion turbulence simulation </title>
+      <link>https://gyselax.github.io/publication/grandgirard-jocp-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-jocp-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

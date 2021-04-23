@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Casati | GyselaX</title>
+    <link>https://gyselax.github.io/author/a.-casati/</link>
+      <atom:link href="https://gyselax.github.io/author/a.-casati/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Casati</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>A. Casati</title>
+      <link>https://gyselax.github.io/author/a.-casati/</link>
+    </image>
+    
+    <item>
+      <title>Gyrokinetic simulations of turbulent transport: size scaling and chaotic behaviour</title>
+      <link>https://gyselax.github.io/publication/villard-ppcf-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/villard-ppcf-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurements and Modeling of Turbulent Transport in the Tore Supra Tokamak</title>
+      <link>https://gyselax.github.io/publication/garbet-aip-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-aip-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence in the TORE SUPRA Tokamak: Measurements and Validation of Nonlinear Simulations</title>
+      <link>https://gyselax.github.io/publication/casati-prl-2009/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating a quasi-linear transport model versus nonlinear simulations</title>
+      <link>https://gyselax.github.io/publication/casati-nf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-nf-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence spectra and transport barriers in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/sarazin-aip-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-aip-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

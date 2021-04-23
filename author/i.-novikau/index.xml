@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Novikau | GyselaX</title>
+    <link>https://gyselax.github.io/author/i.-novikau/</link>
+      <atom:link href="https://gyselax.github.io/author/i.-novikau/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Novikau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>I. Novikau</title>
+      <link>https://gyselax.github.io/author/i.-novikau/</link>
+    </image>
+    
+    <item>
+      <title>Linear collisionless dynamics of the GAM with kinetic electrons: Comparison simulations/theory</title>
+      <link>https://gyselax.github.io/publication/grandgirard-pop-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-pop-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-code gyrokinetic verification and benchmark on the linear collisionless dynamics of the geodesic acoustic mode</title>
+      <link>https://gyselax.github.io/publication/biancalani-po-p-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/biancalani-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

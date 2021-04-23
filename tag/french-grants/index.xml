@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>French Grants | GyselaX</title>
+    <link>https://gyselax.github.io/tag/french-grants/</link>
+      <atom:link href="https://gyselax.github.io/tag/french-grants/index.xml" rel="self" type="application/rss+xml" />
+    <description>French Grants</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>French Grants</title>
+      <link>https://gyselax.github.io/tag/french-grants/</link>
+    </image>
+    
+    <item>
+      <title>French Grants</title>
+      <link>https://gyselax.github.io/projects/french-grants/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/projects/french-grants/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;French research agency ANR:
+&lt;ul&gt;
+&lt;li&gt;2007-2010: EGYPT &amp;ldquo;Etude GYrocinétique des Plasmas Turbulents&amp;rdquo; (PI Ph. Ghendrih, CEA Cadarache).&lt;/li&gt;
+&lt;li&gt;2010-2014: GYPSI &amp;ldquo;GYrokinetic high Performance Simulations for Iter&amp;rdquo; (PI Ph. Ghendrih, CEA Cadarache).&lt;/li&gt;
+&lt;li&gt;2011-2014: NuFuSE &amp;ldquo;Nuclear Fusion Simulations at Exascale&amp;rdquo;, G8 Research Councils Initiative on Multilateral Research Funding.&lt;/li&gt;
+&lt;li&gt;2016-2017: AAP FR-FCM (PI X. Leoncini, AMU ; PI P. Morel, Ecole Polytechnique ; PI M. Lesur, Université de Lorraine)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
