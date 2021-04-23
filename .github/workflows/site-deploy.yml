@@ -17,6 +17,7 @@ jobs:
         run: |
           rm -rf public/*
           docker run -i -v "$(pwd):/src" klakegg/hugo:0.81.0-ext-alpine-ci
+          echo 'google-site-verification: googleb7e4372583e95220.html' > public/googleb7e4372583e95220.html
       - name: Deploy site
         run: |
           cd public
