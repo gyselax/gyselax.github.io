@@ -1,6 +1,6 @@
 ---
 title: National & International HPC programs
-summary: GYSELA-X participated to more than 10 HPC programs in the fifteen last years.
+summary: GYSELA-X was supported by more than 10 HPC programs in the last fifteen years.
 tags:
 - Hpc Programs
 date: "2021-04-23T00:00:00Z"

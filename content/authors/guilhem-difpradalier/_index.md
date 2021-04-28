@@ -4,7 +4,7 @@ name: Guilhem Dif-Pradalier
 email: guilhem.dif-pradalier@cea.fr
 title: Dr. Guilhem Dif-Pradalier
 role: Senior Researcher
-user_groups: [ Team ]
+user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

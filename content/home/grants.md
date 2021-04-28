@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Grants
 subtitle: ''
 
 content:
@@ -27,12 +27,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: French Grants
-    tag: French Grants
-  - name: European Grants
-    tag: European Grants
-  - name: Hpc Programs
-    tag: Hpc Programs
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'

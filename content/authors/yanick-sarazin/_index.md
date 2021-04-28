@@ -4,7 +4,7 @@ name: Yanick Sarazin
 email: yanick.sarazin@cea.fr
 title: Dr. Yanick Sarazin
 role: Senior Researcher
-user_groups: [ Team ]
+user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

@@ -4,7 +4,7 @@ name: Chantal Passeron
 email: chantal.passeron@cea.fr
 title: Mrs Chantal Passeron
 role: Developer
-user_groups: [ Team ]
+user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

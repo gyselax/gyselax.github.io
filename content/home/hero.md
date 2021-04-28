@@ -13,7 +13,7 @@ design:
     text_color_light: true
 cta:
   url: https://gitlab.maisondelasimulation.fr/gysela-developpers/gysela
-  label: GITLAB repository
+  label: Git repository
   icon_pack: fab
   icon: gitlab
 #cta_alt:

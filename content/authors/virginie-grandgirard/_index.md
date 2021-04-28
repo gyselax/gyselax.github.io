@@ -4,7 +4,7 @@ name: Virginie Grandgirard
 email: virginie.grandgirard@cea.fr
 title: Dr. Virginie Grandgirard
 role: Lead developer
-user_groups: [ Team ]
+user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

@@ -4,7 +4,7 @@ name: Julien Bigot
 email: julien.bigot@cea.fr
 title: Dr. Julien Bigot
 role: PDI developer
-user_groups: [ Team ]
+user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

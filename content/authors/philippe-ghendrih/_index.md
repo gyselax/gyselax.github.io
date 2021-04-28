@@ -4,7 +4,7 @@ name: Philippe Ghendrih
 email: philippe.ghendrih@cea.fr
 title: Dr. Philippe Ghendrih
 role: Research Director
-user_groups: [ Team ]
+user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/
