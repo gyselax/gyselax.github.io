@@ -12,10 +12,10 @@ design:
     #gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: https://gitlab.maisondelasimulation.fr/gysela-developpers/gysela
+  url: https://github.com/gyselax/gyselalibxx
   label: Git repository
   icon_pack: fab
-  icon: gitlab
+  icon: github
 #cta_alt:
 #  url: docs/
 #  label: View Documentation
