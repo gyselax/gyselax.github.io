@@ -16,9 +16,9 @@ cta:
   label: Git repository
   icon_pack: fab
   icon: github
-#cta_alt:
-#  url: docs/
-#  label: View Documentation
+cta_alt:
+  url: https://gyselax.github.io/gyselalibxx/
+  label: View Documentation
 #cta_note:
 #  label: >-
 #    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
