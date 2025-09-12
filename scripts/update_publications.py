@@ -11,7 +11,7 @@ PROJECT_NAME = "gysela"     # change to your project keyword
 AUTHOR_DIR = Path(__file__).parent.parent / "content" / "authors"
 PUBLICATION_DIR = Path(__file__).parent.parent / "content" / "publication"
 VENUE_ABBREVIATIONS_FILE = Path("venue_abbreviations.yml")
-LAST_RUN=os.environ['LAST_RUN']
+CHECK_FROM=os.environ['CHECK_FROM']
 
 existing_slugs = {p.stem for p in PUBLICATION_DIR.iterdir() if p.is_dir()}
 
@@ -24,7 +24,7 @@ def load_abbrev_map():
 
 def load_key_authors():
     key_authors = []
-    for md_file in Path(AUTHOR_DIR).rglob("*.md"):
+    for md_file in AUTHOR_DIR.rglob("*.md"):
         with open(md_file, encoding="utf-8") as f:
             content = f.read()
         if content.startswith("---"):
@@ -37,6 +37,18 @@ def load_key_authors():
                     "organizations": orgs
                 })
     return key_authors
+
+def load_known_dois():
+    dois = set()
+    for md_file in PUBLICATION_DIR.rglob("*.md"):
+        with open(md_file, encoding="utf-8") as f:
+            content = f.read()
+        if content.startswith("---"):
+            front_matter = content.split("---", 2)[1]
+            data = yaml.safe_load(front_matter)
+            if "doi" in data:
+                dois.add(data["doi"])
+    return dois
 
 def get_first_author_surname(authorships):
     if authorships:
@@ -159,27 +171,26 @@ def write_index_md(folder, meta):
         "doi": meta["doi"] or ""
     }
     index_md = "---\n" + yaml.dump(front_matter, sort_keys=False) + "---\n"
-    (folder / "_index.md").write_text(index_md, encoding="utf-8")
+    (folder / "index.md").write_text(index_md, encoding="utf-8")
 
 # === Main ===
 def main():
     abbrev_map = load_abbrev_map()
     key_authors = load_key_authors()
-
-    found_doi = set()
+    dois = load_known_dois()
 
     for PROJECT_NAME in ('gysela', 'gyselax', 'gyselalib'):
         url = "https://api.openalex.org/works"
         params = {
             "search": PROJECT_NAME,
-            "filter": f"from_indexed_date:{LAST_RUN}",
+            "filter": f"from_publication_date:{CHECK_FROM}",
             "per-page": 100
         }
         response = requests.get(url, params=params)
         response.raise_for_status()
         data = response.json()
         results = data.get("results", [])
-        print(f"Found {len(results)} results for {PROJECT_NAME} since {LAST_RUN}")
+        print(f"Found {len(results)} results for {PROJECT_NAME} since {CHECK_FROM}")
 
         for work in results:
             # Discard preprints
@@ -202,9 +213,9 @@ def main():
                 continue
 
             # Discard if already found
-            if meta["doi"] in found_doi:
+            if meta["doi"] in dois:
                 continue
-            found_doi.add(meta["doi"])
+            dois.add(meta["doi"])
 
             print("Saving :")
             print("    ", meta["title"])

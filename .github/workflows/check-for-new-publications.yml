@@ -30,9 +30,10 @@ jobs:
             echo "No last run found"
             last_run_iso="2019-01-01T00:00:00Z"   # fallback default
           fi
-          last_run=$(date -u -d "$last_run_iso" +"%Y-%m-%d")
-          echo "LAST_RUN=$last_run"
-          echo "LAST_RUN=$last_run" >> $GITHUB_ENV
+          # Remove 2 months to allow lots of time for indexing
+          CHECK_FROM=$(date -u -d "$last_run_iso -2 months" +"%Y-%m-%d")
+          echo "CHECK_FROM=$CHECK_FROM"
+          echo "CHECK_FROM=$CHECK_FROM" >> $GITHUB_ENV
       - name: Create branch
         run: |
           branch_name="update-publications-$(date +'%Y%m%d')"
@@ -66,7 +67,7 @@ jobs:
           branch_name=$(git rev-parse --abbrev-ref HEAD)
           gh pr create \
             --title "Update publications" \
-            --body "Automated update of publications since ${LAST_RUN}." \
+            --body "Automated update of publications since ${CHECK_FROM}." \
             --base main \
             --head $branch_name
         env:
