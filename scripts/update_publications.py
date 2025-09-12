@@ -175,7 +175,7 @@ def main():
         params = {
             "search": PROJECT_NAME,
             "filter": f"from_publication_date:{last_run}",
-            "per-page": 50
+            "per-page": 100
         }
         response = requests.get(url, params=params)
         response.raise_for_status()
