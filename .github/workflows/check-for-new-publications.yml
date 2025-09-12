@@ -43,7 +43,7 @@ jobs:
       - name: Push branch
         run: git push origin HEAD
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
       - name: Create Pull Request
         run: |
           branch_name=$(git rev-parse --abbrev-ref HEAD)
@@ -52,4 +52,5 @@ jobs:
             --body "Automated update of publications since ${LAST_RUN}." \
             --base main \
             --head $branch_name
-
+        env:
+          GH_TOKEN: ${{ github.token }}
