@@ -10,9 +10,8 @@ import unidecode
 PROJECT_NAME = "gysela"     # change to your project keyword
 AUTHOR_DIR = Path(__file__).parent.parent / "content" / "authors"
 PUBLICATION_DIR = Path(__file__).parent.parent / "content" / "publication"
-last_run=os.environ['LAST_RUN']
-#LAST_RUN_FILE = Path("last_run.txt")
 VENUE_ABBREVIATIONS_FILE = Path("venue_abbreviations.yml")
+LAST_RUN=os.environ['LAST_RUN']
 
 existing_slugs = {p.stem for p in PUBLICATION_DIR.iterdir() if p.is_dir()}
 
@@ -164,7 +163,6 @@ def write_index_md(folder, meta):
 
 # === Main ===
 def main():
-    #last_run = load_last_run()
     abbrev_map = load_abbrev_map()
     key_authors = load_key_authors()
 
@@ -174,22 +172,27 @@ def main():
         url = "https://api.openalex.org/works"
         params = {
             "search": PROJECT_NAME,
-            "filter": f"from_publication_date:{last_run}",
+            "filter": f"from_publication_date:{LAST_RUN}",
             "per-page": 100
         }
         response = requests.get(url, params=params)
         response.raise_for_status()
         data = response.json()
         results = data.get("results", [])
-        print(f"Found {len(results)} results for {PROJECT_NAME} since {last_run}")
+        print(f"Found {len(results)} results for {PROJECT_NAME} since {LAST_RUN}")
 
         for work in results:
+            # Discard preprints
             if work.get("type") == "preprint":
                 continue
+
             meta = extract_metadata(work, abbrev_map)
+
+            # Discard preprints
             if "arxiv" in meta["venue_full"].lower():
-                print("Discarding preprint : ", meta["title"])
                 continue
+
+            # Check relevance
             gysela_in_title = PROJECT_NAME in meta["title"].lower()
             gysela_in_abstract = PROJECT_NAME in meta["abstract"].lower()
             written_by_key_author = author_matches(meta["authorships"], key_authors)
@@ -198,6 +201,7 @@ def main():
                 print("Discarding citation : ", meta["title"], meta["authors_list"])
                 continue
 
+            # Discard if already found
             if meta["doi"] in found_doi:
                 continue
             found_doi.add(meta["doi"])
@@ -221,10 +225,6 @@ def main():
             # Write cite.bib
             bibtex = to_bibtex(meta, slug, abbrev_map)
             (folder / "cite.bib").write_text(bibtex, encoding="utf-8")
-
-    #today = datetime.date.today().isoformat()
-    #save_last_run(today)
-    #print(f"Updated last run date to {today}")
 
 if __name__ == "__main__":
     main()
