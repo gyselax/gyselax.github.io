@@ -1,0 +1,36 @@
+Journal of Computational Physics:
+  slug: jcp
+  bibtex: "J. Comput. Phys."
+Journal of Plasma Physics:
+  slug: jpp
+  bibtex: "J. Plasma Phys."
+Computer Physics Communications:
+  slug: cpc
+  bibtex: "Comput. Phys. Commun."
+Concurrency and Computation Practice and Experience:
+  slug: ccpe
+  bibtex: "Concurrency and Computation Practice and Experience"
+Plasma Physics and Controlled Fusion:
+  slug: ppcf
+  bibtex: "Plasma Phys. Controlled Fusion"
+SMAI Journal of Computational Mathematics:
+  slug: smai
+  bibtex: "SMAI Journal of Computational Mathematics"
+Communications Physics:
+  slug: cp
+  bibtex: "Commun. Phys."
+The International Journal of High Performance Computing Applications:
+  slug: ijhpca
+  bibtex: "Int. J. High Perform. Comput. Appl."
+Physics of Plasmas:
+  slug: po-p
+  bibtex: "Phys. Plasmas"
+Nuclear Fusion:
+  slug: nf
+  bibtex: "Nucl. Fusion"
+Physical review. E:
+  slug: pre
+  bibtex: "Phys. Rev. E"
+Physical Review Letters:
+  slug: prl
+  bibtex: "Phys. Rev. Lett."
