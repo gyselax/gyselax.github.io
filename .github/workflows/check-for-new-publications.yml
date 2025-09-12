@@ -13,6 +13,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -25,26 +26,41 @@ jobs:
         run: |
           last_run_iso=$(gh run list --workflow "Update Publications" --status success --limit 1 --json createdAt --jq '.[0].createdAt'  2>/dev/null || echo "")
           if [ -z "$last_run_iso" ]; then
+            echo "No last run found"
             last_run_iso="2019-01-01T00:00:00Z"   # fallback default
           fi
           last_run=$(date -u -d "$last_run_iso" +"%Y-%m-%d")
+          echo "LAST_RUN=$last_run"
           echo "LAST_RUN=$last_run" >> $GITHUB_ENV
       - name: Create branch
         run: |
           branch_name="update-publications-$(date +'%Y%m%d')"
-          git checkout -b $branch_name
           echo "branch_name=${branch_name}" >> $GITHUB_ENV
       - name: Run publication update script
         run: python scripts/update_publications.py
-      - name: Commit changes
+      - name: Check for changes
+        id: check_changes
         run: |
+          if git diff --quiet content/publication; then
+            echo "No new publications found."
+            echo "has_new=false" >> $GITHUB_ENV
+          else
+            echo "has_new=true" >> $GITHUB_ENV
+          fi
+      - name: Commit changes
+        if: env.has_new
+        run: |
+          git checkout main
+          git checkout -b $branch_name
           git add content/publication
           git commit -m "Automated update of publications" || echo "No changes to commit"
       - name: Push branch
+        if: env.has_new
         run: git push origin HEAD
         env:
           GH_TOKEN: ${{ github.token }}
       - name: Create Pull Request
+        if: env.has_new
         run: |
           branch_name=$(git rev-parse --abbrev-ref HEAD)
           gh pr create \
