@@ -172,7 +172,7 @@ def main():
         url = "https://api.openalex.org/works"
         params = {
             "search": PROJECT_NAME,
-            "filter": f"from_publication_date:{LAST_RUN}",
+            "filter": f"from_indexed_date:{LAST_RUN}",
             "per-page": 100
         }
         response = requests.get(url, params=params)
