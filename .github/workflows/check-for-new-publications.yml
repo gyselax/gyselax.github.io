@@ -45,24 +45,24 @@ jobs:
         run: |
           if git diff --quiet content/publication; then
             echo "No new publications found."
-            echo "has_new=false" >> $GITHUB_ENV
+            echo "has_new=false" >> $GITHUB_OUTPUT
           else
-            echo "has_new=true" >> $GITHUB_ENV
+            echo "has_new=true" >> $GITHUB_OUTPUT
           fi
       - name: Commit changes
-        if: env.has_new
+        if: steps.check_new.outputs.has_new == 'true'
         run: |
           git checkout main
           git checkout -b $branch_name
           git add content/publication
           git commit -m "Automated update of publications" || echo "No changes to commit"
       - name: Push branch
-        if: env.has_new
+        if: steps.check_new.outputs.has_new == 'true'
         run: git push origin HEAD
         env:
           GH_TOKEN: ${{ github.token }}
       - name: Create Pull Request
-        if: env.has_new
+        if: steps.check_new.outputs.has_new == 'true'
         run: |
           branch_name=$(git rev-parse --abbrev-ref HEAD)
           gh pr create \
