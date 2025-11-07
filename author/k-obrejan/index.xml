@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Obrejan | GyselaX</title>
+    <link>https://gyselax.github.io/author/k-obrejan/</link>
+      <atom:link href="https://gyselax.github.io/author/k-obrejan/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Obrejan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>K Obrejan</title>
+      <link>https://gyselax.github.io/author/k-obrejan/</link>
+    </image>
+    
+    <item>
+      <title>How to prepare the GYSELA-X code to future exascale edge-core simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-2021/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

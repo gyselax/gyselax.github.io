@@ -5,12 +5,20 @@
     <link>https://gyselax.github.io/author/c.-bourdelle/</link>
       <atom:link href="https://gyselax.github.io/author/c.-bourdelle/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Bourdelle</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>C. Bourdelle</title>
       <link>https://gyselax.github.io/author/c.-bourdelle/</link>
     </image>
+    
+    <item>
+      <title>The problem of capturing marginality in model reductions of turbulence</title>
+      <link>https://gyselax.github.io/publication/gillot-plasma-physics-and-controlled-fusion-2023/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/gillot-plasma-physics-and-controlled-fusion-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-consistent gyrokinetic modeling of neoclassical and turbulent impurity transport</title>

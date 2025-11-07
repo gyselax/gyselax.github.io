@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivier Panico | GyselaX</title>
+    <link>https://gyselax.github.io/author/olivier-panico/</link>
+      <atom:link href="https://gyselax.github.io/author/olivier-panico/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olivier Panico</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>Olivier Panico</title>
+      <link>https://gyselax.github.io/author/olivier-panico/</link>
+    </image>
+    
+    <item>
+      <title>Safety factor influence on the edge &lt;i&gt;E&lt;/i&gt; × &lt;i&gt;B&lt;/i&gt; velocity establishment in tokamak plasmas</title>
+      <link>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023_2/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave trapping and &lt;i&gt;E&lt;/i&gt; × &lt;i&gt;B&lt;/i&gt; staircases</title>
+      <link>https://gyselax.github.io/publication/garbet-physics-of-plasmas-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-physics-of-plasmas-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

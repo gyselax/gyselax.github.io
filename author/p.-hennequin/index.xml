@@ -5,12 +5,20 @@
     <link>https://gyselax.github.io/author/p.-hennequin/</link>
       <atom:link href="https://gyselax.github.io/author/p.-hennequin/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Hennequin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>P. Hennequin</title>
       <link>https://gyselax.github.io/author/p.-hennequin/</link>
     </image>
+    
+    <item>
+      <title>Safety factor influence on the edge &lt;i&gt;E&lt;/i&gt; × &lt;i&gt;B&lt;/i&gt; velocity establishment in tokamak plasmas</title>
+      <link>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023_2/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023_2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comprehensive comparisons of GAM characteristics and dynamics between Tore Supra experiments and gyrokinetic simulations</title>

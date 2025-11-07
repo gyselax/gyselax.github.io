@@ -5,12 +5,140 @@
     <link>https://gyselax.github.io/author/x.-garbet/</link>
       <atom:link href="https://gyselax.github.io/author/x.-garbet/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Garbet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>X. Garbet</title>
       <link>https://gyselax.github.io/author/x.-garbet/</link>
     </image>
+    
+    <item>
+      <title>Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics</title>
+      <link>https://gyselax.github.io/publication/rouyer-physics-of-plasmas-2025/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/rouyer-physics-of-plasmas-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling impurity transport in 5D gyrokinetic simulations using a transport barrier</title>
+      <link>https://gyselax.github.io/publication/lo-cascio-nuclear-fusion-2025/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/lo-cascio-nuclear-fusion-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of modulated heat source on diffusive and avalanche-like transport</title>
+      <link>https://gyselax.github.io/publication/cho-nuclear-fusion-2025/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/cho-nuclear-fusion-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety factor influence on the edge &lt;i&gt;E&lt;/i&gt; × &lt;i&gt;B&lt;/i&gt; velocity establishment in tokamak plasmas</title>
+      <link>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023_2/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas</title>
+      <link>https://gyselax.github.io/publication/lim-physics-of-plasmas-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/lim-physics-of-plasmas-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The problem of capturing marginality in model reductions of turbulence</title>
+      <link>https://gyselax.github.io/publication/gillot-plasma-physics-and-controlled-fusion-2023/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/gillot-plasma-physics-and-controlled-fusion-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport barrier in 5D gyrokinetic flux-driven simulations</title>
+      <link>https://gyselax.github.io/publication/lo-cascio-nuclear-fusion-2022/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/lo-cascio-nuclear-fusion-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport barrier onset and edge turbulence shortfall in fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-communications-physics-2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-communications-physics-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy of Turbulent Momentum Drive and Magnetic Braking</title>
+      <link>https://gyselax.github.io/publication/varennes-physical-review-letters-2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-physical-review-letters-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to prepare the GYSELA-X code to future exascale edge-core simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-2021/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key impact of phase dynamics and diamagnetic drive on Reynolds stress in magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/sarazin-plasma-physics-and-controlled-fusion-2021/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-plasma-physics-and-controlled-fusion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave trapping and &lt;i&gt;E&lt;/i&gt; × &lt;i&gt;B&lt;/i&gt; staircases</title>
+      <link>https://gyselax.github.io/publication/garbet-physics-of-plasmas-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-physics-of-plasmas-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyrokinetic modelling of light to heavy impurity transport in tokamaks</title>
+      <link>https://gyselax.github.io/publication/lim-nuclear-fusion-2021/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/lim-nuclear-fusion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy of turbulent and neoclassical transport through poloidal convective cells</title>
+      <link>https://gyselax.github.io/publication/asahi-plasma-physics-and-controlled-fusion-2019/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/asahi-plasma-physics-and-controlled-fusion-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoclassical impurity flux in presence of turbulent generated poloidal asymmetries and pressure anisotropy</title>
+      <link>https://gyselax.github.io/publication/donnel-plasma-physics-and-controlled-fusion-2019/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-plasma-physics-and-controlled-fusion-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linear collisionless dynamics of the GAM with kinetic electrons: Comparison simulations/theory</title>
@@ -25,6 +153,14 @@
       <link>https://gyselax.github.io/publication/donnel-ppcf-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://gyselax.github.io/publication/donnel-ppcf-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersed boundary conditions in global, flux-driven, gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/caschera-journal-of-physics-conference-series-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/caschera-journal-of-physics-conference-series-2018/</guid>
       <description></description>
     </item>
     

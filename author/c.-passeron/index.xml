@@ -5,12 +5,28 @@
     <link>https://gyselax.github.io/author/c.-passeron/</link>
       <atom:link href="https://gyselax.github.io/author/c.-passeron/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Passeron</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>C. Passeron</title>
       <link>https://gyselax.github.io/author/c.-passeron/</link>
     </image>
+    
+    <item>
+      <title>Neoclassical impurity flux in presence of turbulent generated poloidal asymmetries and pressure anisotropy</title>
+      <link>https://gyselax.github.io/publication/donnel-plasma-physics-and-controlled-fusion-2019/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-plasma-physics-and-controlled-fusion-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersed boundary conditions in global, flux-driven, gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/caschera-journal-of-physics-conference-series-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/caschera-journal-of-physics-conference-series-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Particle transport due to energetic-particle-driven geodesic acoustic modes</title>

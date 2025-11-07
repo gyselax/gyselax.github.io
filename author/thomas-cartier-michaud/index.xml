@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Cartier-Michaud | GyselaX</title>
+    <link>https://gyselax.github.io/author/thomas-cartier-michaud/</link>
+      <atom:link href="https://gyselax.github.io/author/thomas-cartier-michaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Cartier-Michaud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>Thomas Cartier-Michaud</title>
+      <link>https://gyselax.github.io/author/thomas-cartier-michaud/</link>
+    </image>
+    
+    <item>
+      <title>Verification and accuracy check of simulations with PoPe and iPoPe</title>
+      <link>https://gyselax.github.io/publication/cartier-michaud-journal-of-computational-physics-2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/cartier-michaud-journal-of-computational-physics-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key impact of phase dynamics and diamagnetic drive on Reynolds stress in magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/sarazin-plasma-physics-and-controlled-fusion-2021/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-plasma-physics-and-controlled-fusion-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
