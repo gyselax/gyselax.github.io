@@ -24,7 +24,7 @@ for publication_folder in (home / "content/publication").iterdir():
         elif file.name == "index.md":
             with open(file, 'r') as f:
                 text = f.read()
-            lines = [l.strip('\\') for l in text.split('\n')]
+            lines = [l.strip(' \\') for l in text.split('\n')]
             lines = [codecs.decode(codecs.encode(l, 'latin-1', 'backslashreplace'), 'unicode-escape') for l in lines]
             publication_info = frontmatter.loads(text)
             authors = publication_info['authors']
