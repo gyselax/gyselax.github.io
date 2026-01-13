@@ -21,7 +21,7 @@ authors:
 - Ö.D. Gürcan
 - P. Hennecquin
 - Y. Kosuga
-- G. Latu
+- Guillaume Latu
 - P. Maget
 - P. Morel
 - C. Norscini

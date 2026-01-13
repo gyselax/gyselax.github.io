@@ -13,7 +13,7 @@ authors:
 - Philippe Ghendrih
 - Virginie Grandgirard
 - C. Bourdelle
-- G. Latu
+- Guillaume Latu
 - A. Smolyakov
 tags: []
 categories: []

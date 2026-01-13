@@ -16,7 +16,7 @@ authors:
 - Xavier Garbet
 - Philippe Ghendrih
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - O. Thomine
 tags: []

@@ -6,11 +6,11 @@ title: Accuracy of unperturbed motion of particles in a gyrokinetic semi-Lagrang
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
+- Guillaume Latu
 - Virginie Grandgirard
 - J. Abiteboul
 - M. Bergot
-- N. Crouseilles
+- Nicolas Crouseilles
 - Xavier Garbet
 - Philippe Ghendrih
 - Michel Mehrenberger

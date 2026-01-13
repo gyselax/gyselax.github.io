@@ -5,8 +5,8 @@ title: Parallel bottleneck in the Quasineutrality solver embedded in GYSELA
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
-- N. Crouseilles
+- Guillaume Latu
+- Nicolas Crouseilles
 - Virginie Grandgirard
 tags: []
 categories: []

@@ -14,7 +14,7 @@ authors:
 - Xavier Garbet
 - Philippe Ghendrih
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 tags: []
 categories: []
 date: '2010-01-01'

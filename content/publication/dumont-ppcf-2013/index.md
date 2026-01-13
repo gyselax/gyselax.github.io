@@ -16,7 +16,7 @@ authors:
 - Philippe Ghendrih
 - J-B. Girardo
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - O. Thomine
 tags: []

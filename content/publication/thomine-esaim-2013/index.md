@@ -9,7 +9,7 @@ authors:
 - O. Thomine
 - Julien Bigot
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - F. Rozar
 tags: []

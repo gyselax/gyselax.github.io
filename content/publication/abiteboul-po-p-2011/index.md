@@ -10,7 +10,7 @@ authors:
 - Virginie Grandgirard
 - S. J. Allfrey
 - Philippe Ghendrih
-- G. Latu
+- Guillaume Latu
 - Yanick Sarazin
 - A. Strugarek
 tags: []

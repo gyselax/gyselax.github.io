@@ -5,10 +5,10 @@ title: Improving conservation properties of a 5D gyrokinetic semi-Lagrangian cod
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
+- Guillaume Latu
 - Virginie Grandgirard
 - J. Abiteboul
-- N. Crouseilles
+- Nicolas Crouseilles
 - Guilhem Dif-Pradalier
 - Xavier Garbet
 - Philippe Ghendrih

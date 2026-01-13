@@ -19,7 +19,7 @@ authors:
 - C. Emeriau
 - Philippe Ghendrih
 - Camille Gillot
-- G. Latu
+- Guillaume Latu
 - C. Passeron
 tags: []
 categories: []

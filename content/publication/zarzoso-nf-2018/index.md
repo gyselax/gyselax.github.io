@@ -12,7 +12,7 @@ authors:
 - Xavier Garbet
 - Virginie Grandgirard
 - C. Passeron
-- G. Latu
+- Guillaume Latu
 - S. Benkadda
 tags: []
 categories: []

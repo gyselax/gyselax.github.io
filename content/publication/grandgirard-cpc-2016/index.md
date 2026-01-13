@@ -10,13 +10,13 @@ authors:
 - J. Abiteboul
 - Julien Bigot
 - T. Cartier-Michaud
-- N. Crouseilles
+- Nicolas Crouseilles
 - Guilhem Dif-Pradalier
 - Ch. Ehrlacher
 - D. Esteve
 - Xavier Garbet
 - Philippe Ghendrih
-- G. Latu
+- Guillaume Latu
 - Michel Mehrenberger
 - C. Norscini
 - Ch. Passeron

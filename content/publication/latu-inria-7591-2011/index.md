@@ -5,9 +5,9 @@ title: Some parallel algorithms for the Quasineutrality solver of GYSELA
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
+- Guillaume Latu
 - Virginie Grandgirard
-- N. Crouseilles
+- Nicolas Crouseilles
 - R. Belaouar
 - Eric Sonnendrücker
 tags: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. Abiteboul
-- G. Latu
+- Guillaume Latu
 - Virginie Grandgirard
 - A. Ratnani
 - ' Sonnendrücker'

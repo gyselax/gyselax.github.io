@@ -11,7 +11,7 @@ authors:
 - S. Allfrey
 - Xavier Garbet
 - Philippe Ghendrih
-- G. Latu
+- Guillaume Latu
 - A. Strugarek
 - Guilhem Dif-Pradalier
 - P. H. Diamond

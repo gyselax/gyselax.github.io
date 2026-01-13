@@ -9,13 +9,13 @@ authors:
 - Yanick Sarazin
 - P. Angelino
 - A. Bottino
-- N. Crouseilles
+- Nicolas Crouseilles
 - G. Darmet
 - Guilhem Dif-Pradalier
 - Xavier Garbet
 - Philippe Ghendrih
 - S. Jolliet
-- G. Latu
+- Guillaume Latu
 - Eric Sonnendrücker
 - L. Villard
 tags: []

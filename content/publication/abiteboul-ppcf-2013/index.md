@@ -12,7 +12,7 @@ authors:
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - Yanick Sarazin
 - A. Strugarek

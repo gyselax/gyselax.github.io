@@ -14,7 +14,7 @@ authors:
 - T. S. Hahm
 - Xavier Garbet
 - C. S. Chang
-- G. Latu
+- Guillaume Latu
 - E. S. Yoon
 - Philippe Ghendrih
 - S. Yi

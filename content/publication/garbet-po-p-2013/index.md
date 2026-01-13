@@ -13,7 +13,7 @@ authors:
 - Guilhem Dif-Pradalier
 - Philippe Ghendrih
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - A. Smolyakov
 tags: []
 categories: []

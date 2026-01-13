@@ -10,8 +10,8 @@ authors:
 - Xavier Garbet
 - Guilhem Dif-Pradalier
 - Philippe Ghendrih
-- N. Crouseilles
-- G. Latu
+- Nicolas Crouseilles
+- Guillaume Latu
 - Eric Sonnendrücker
 - N. Besse
 - P. Bertrand

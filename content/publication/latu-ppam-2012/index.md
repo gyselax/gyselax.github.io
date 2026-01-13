@@ -5,9 +5,9 @@ title: Scalable Quasineutral solver for gyrokinetic simulation
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
+- Guillaume Latu
 - Virginie Grandgirard
-- N. Crouseilles
+- Nicolas Crouseilles
 - Guilhem Dif-Pradalier
 tags:
 - '"Quasineutrality solver"'

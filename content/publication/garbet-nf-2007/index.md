@@ -17,9 +17,9 @@ authors:
 - E. Gravier
 - P. Morel
 - Eric Sonnendrücker
-- N. Crouseilles
+- Nicolas Crouseilles
 - J. -M. Dischler
-- G. Latu
+- Guillaume Latu
 - E. Violard
 - M. Brunetti
 - S. Brunner

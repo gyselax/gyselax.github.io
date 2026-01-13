@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Y. Asahi
-- G. Latu
+- Guillaume Latu
 - T. Ina
 - Y. Idomura
 - Virginie Grandgirard

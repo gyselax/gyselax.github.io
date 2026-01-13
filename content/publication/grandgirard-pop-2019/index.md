@@ -18,7 +18,7 @@ authors:
 - P. Donnel
 - Philippe Ghendrih
 - Camille Gillot
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - Yanick Sarazin
 - D. Zarzoso

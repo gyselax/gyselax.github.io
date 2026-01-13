@@ -9,7 +9,7 @@ authors:
 - Julien Bigot
 - T Cartier-Michaud
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - F. Rozar
 tags: []

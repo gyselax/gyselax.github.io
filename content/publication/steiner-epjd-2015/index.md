@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Ch. Steiner
 - Michel Mehrenberger
-- N. Crouseilles
+- Nicolas Crouseilles
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - F Rozar
 tags: []
 categories: []

@@ -12,7 +12,7 @@ authors:
 - S. Allfrey
 - Virginie Grandgirard
 - Philippe Ghendrih
-- G. Latu
+- Guillaume Latu
 - A. Strugarek
 tags: []
 categories: []

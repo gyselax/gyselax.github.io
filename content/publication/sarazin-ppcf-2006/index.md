@@ -13,9 +13,9 @@ authors:
 - Philippe Ghendrih
 - P Bertrand
 - N Besse
-- N Crouseilles
+- Nicolas Crouseilles
 - Eric Sonnendrücker
-- G Latu
+- Guillaume Latu
 - E Violard
 tags: []
 categories: []

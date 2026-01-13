@@ -10,7 +10,7 @@ authors:
 - Xavier Garbet
 - Philippe Ghendrih
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Yanick Sarazin
 tags: []
 categories: []

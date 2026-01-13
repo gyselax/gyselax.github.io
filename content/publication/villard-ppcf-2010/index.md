@@ -21,7 +21,7 @@ authors:
 - S. Jolliet
 - S. Khosh Aghdam
 - X. Lapillonne
-- G. Latu
+- Guillaume Latu
 - B. F. McMillan
 - F. Merz
 - Yanick Sarazin

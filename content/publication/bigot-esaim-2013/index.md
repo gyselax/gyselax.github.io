@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Julien Bigot
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Ch. Passeron
 - F. Rozar
 - O. Thomine

@@ -12,7 +12,7 @@ authors:
 - J. Abiteboul
 - Xavier Garbet
 - Philippe Ghendrih
-- G. Latu
+- Guillaume Latu
 - A. Strugarek
 - S. Ku
 - C. S. Chang

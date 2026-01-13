@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - F. Rozar
-- G. Latu
+- Guillaume Latu
 - J. Roman
 - Virginie Grandgirard
 tags: []

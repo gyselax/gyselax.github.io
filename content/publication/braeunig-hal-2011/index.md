@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - J-Ph. Braeunig
-- N. Crouseilles
+- Nicolas Crouseilles
 - Virginie Grandgirard
-- G. Latu
+- Guillaume Latu
 - Michel Mehrenberger
 - Eric Sonnendrücker
 tags:
