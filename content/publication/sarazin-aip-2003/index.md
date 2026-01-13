@@ -12,7 +12,7 @@ authors:
 - G. Falchetto
 - C. Figarella
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2003-01-01'

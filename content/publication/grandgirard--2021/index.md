@@ -3,7 +3,7 @@ title: How to prepare the GYSELA-X code to future exascale edge-core simulations
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - Yuuichi Asahi
 - Julien Bigot
 - E. Bourne

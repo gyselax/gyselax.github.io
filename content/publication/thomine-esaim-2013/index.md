@@ -8,7 +8,7 @@ summary: ''
 authors:
 - O. Thomine
 - J. Bigot
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - Ch. Passeron
 - F. Rozar

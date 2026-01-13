@@ -10,7 +10,7 @@ authors:
 - X. Garbet
 - Y. Sarazin
 - R. Dumont
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2012-01-01'

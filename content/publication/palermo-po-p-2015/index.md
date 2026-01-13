@@ -11,7 +11,7 @@ authors:
 - A. Ghizzo
 - T. Cartier-Michaud
 - P. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 tags: []
 categories: []

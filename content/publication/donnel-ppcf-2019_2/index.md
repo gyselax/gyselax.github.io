@@ -7,7 +7,7 @@ authors:
 - Peter Donnel
 - X. Garbet
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - Nicolas Bouzat
 - E. Caschera
 - "G. Dif\u2010Pradalier"

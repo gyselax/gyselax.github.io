@@ -6,7 +6,7 @@ authors:
 - Kyungtak Lim
 - X. Garbet
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - Kevin Obrejan
 - M. Lesur
 - E. Gravier

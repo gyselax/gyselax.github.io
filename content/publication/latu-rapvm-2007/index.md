@@ -7,7 +7,7 @@ summary: ''
 authors:
 - G. Latu
 - N. Crouseilles
-- V. Grandgirard
+- Virginie Grandgirard
 - E. Sonnendrücker
 tags: []
 categories: []

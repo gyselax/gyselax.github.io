@@ -8,7 +8,7 @@ authors:
 - Guillaume Latu
 - Julien Bigot
 - S. Maeyama
-- V. Grandgirard
+- Virginie Grandgirard
 - Yasuhiro Idomura
 tags: []
 categories: []

@@ -8,7 +8,7 @@ authors:
 - F. Rozar
 - Ch. Latu, G. Steiner
 - M. Mehrenberger
-- V. Grandgirard
+- Virginie Grandgirard
 - J. Bigot
 - T. Cartier-Michaud
 - J. Roman

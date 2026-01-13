@@ -8,7 +8,7 @@ authors:
 - C. Nguyen
 - H. Lütjens
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - M. Lesur
 tags: []
 categories: []

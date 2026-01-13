@@ -8,7 +8,7 @@ summary: ''
 authors:
 - J. Bigot
 - T Cartier-Michaud
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - Ch. Passeron
 - F. Rozar

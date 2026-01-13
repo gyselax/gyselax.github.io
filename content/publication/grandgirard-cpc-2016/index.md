@@ -6,7 +6,7 @@ title: A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion t
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - J. Abiteboul
 - J. Bigot
 - T. Cartier-Michaud

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - J-Ph. Braeunig
 - N. Crouseilles
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - M. Mehrenberger
 - E. Sonnendrücker

@@ -11,7 +11,7 @@ authors:
 - Y. Sarazin
 - G. Dif-Pradalier
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - C. Bourdelle
 - G. Latu
 - A. Smolyakov

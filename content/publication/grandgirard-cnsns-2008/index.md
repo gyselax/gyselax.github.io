@@ -5,7 +5,7 @@ title: 'Computing ITG turbulence with a full-f semi-Lagrangian code '
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 - X. Garbet
 - G. Dif-Pradalier

@@ -5,7 +5,7 @@ subtitle: ''
 summary: ''
 authors:
 - Emily Bourne
-- V. Grandgirard
+- Virginie Grandgirard
 - Yuuichi Asahi
 - Julien Bigot
 - Peter Donnel

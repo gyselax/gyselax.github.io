@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - P. Angelino
 - A. Casati
 - G. Dif-Pradalier

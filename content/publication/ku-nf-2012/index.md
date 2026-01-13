@@ -20,7 +20,7 @@ authors:
 - S. Yi
 - A. Strugarek
 - W. Solomon
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2012-01-01'

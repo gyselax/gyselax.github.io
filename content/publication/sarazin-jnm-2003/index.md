@@ -10,7 +10,7 @@ authors:
 - G. Attuel
 - C. Clément
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - M. Ottaviani
 - S. Benkadda
 - P. Beyer

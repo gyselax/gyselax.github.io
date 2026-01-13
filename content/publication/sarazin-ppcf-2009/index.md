@@ -10,7 +10,7 @@ authors:
 - D. Zarzoso
 - X. Garbet
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2009-01-01'

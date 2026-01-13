@@ -10,7 +10,7 @@ authors:
 - G. Latu
 - T. Ina
 - Y. Idomura
-- V. Grandgirard
+- Virginie Grandgirard
 - X. Garbet
 categories: []
 date: '2017-07-01'

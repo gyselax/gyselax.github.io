@@ -7,7 +7,7 @@ summary: ''
 authors:
 - G. Latu
 - N. Crouseilles
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2011-04-01'

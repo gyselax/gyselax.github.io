@@ -13,7 +13,7 @@ authors:
 - J. Candy
 - F. Clairet
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - \.̈ D. Gürcan
 - S. Heuraux
 - G. T. Hoang

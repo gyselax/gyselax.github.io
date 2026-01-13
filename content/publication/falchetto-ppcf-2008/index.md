@@ -11,7 +11,7 @@ authors:
 - P. Angelino
 - A. Bottino
 - T. Dannert
-- V. Grandgirard
+- Virginie Grandgirard
 - S. Janhunen
 - F. Jenko
 - S. Jolliet

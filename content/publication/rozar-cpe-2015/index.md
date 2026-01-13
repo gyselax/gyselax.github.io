@@ -8,7 +8,7 @@ authors:
 - F. Rozar
 - G. Latu
 - J. Roman
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2015-01-01'

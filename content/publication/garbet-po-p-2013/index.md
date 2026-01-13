@@ -12,7 +12,7 @@ authors:
 - C. Bourdelle
 - G. Dif-Pradalier
 - P. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - A. Smolyakov
 tags: []

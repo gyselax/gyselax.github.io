@@ -11,7 +11,7 @@ authors:
 - A. Bottino
 - S. Jolliet
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - B. F. McMillan
 - Y. Sarazin
 - G. Dif-Pradalier

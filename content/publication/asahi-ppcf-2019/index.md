@@ -5,7 +5,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yuuichi Asahi
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 - Peter Donnel
 - X. Garbet

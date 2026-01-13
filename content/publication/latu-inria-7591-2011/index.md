@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - G. Latu
-- V. Grandgirard
+- Virginie Grandgirard
 - N. Crouseilles
 - R. Belaouar
 - E. Sonnendrücker

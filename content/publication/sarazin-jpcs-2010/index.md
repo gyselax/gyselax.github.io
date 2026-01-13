@@ -13,7 +13,7 @@ authors:
 - S. Allfrey
 - X. Garbet
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 tags: []
 categories: []

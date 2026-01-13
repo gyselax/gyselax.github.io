@@ -6,7 +6,7 @@ title: 'Linear collisionless dynamics of the GAM with kinetic electrons: Compari
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - X. Garbet
 - Ch. Ehrlacher
 - A. Biancalani

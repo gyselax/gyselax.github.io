@@ -10,7 +10,7 @@ authors:
 - W.A Hornsby
 - R. Kleiber
 - C. Norscini
-- V. Grandgirard
+- Virginie Grandgirard
 - F. Jenko
 - E. Sonnendrücker
 tags: []

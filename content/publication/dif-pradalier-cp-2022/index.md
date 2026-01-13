@@ -11,7 +11,7 @@ authors:
 - Y. Camenen
 - Peter Donnel
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - Yann Munschy
 - L. Vermare
 - Fabien Widmer

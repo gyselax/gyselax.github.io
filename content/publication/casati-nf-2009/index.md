@@ -14,7 +14,7 @@ authors:
 - G. Dif-Pradalier
 - G. Falchetto
 - T. Gerbaud
-- V. Grandgirard
+- Virginie Grandgirard
 - Ö. D. Gürcan
 - P. Hennequin
 - J. Kinsey

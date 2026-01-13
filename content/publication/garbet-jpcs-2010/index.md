@@ -10,7 +10,7 @@ authors:
 - Y. Sarazin
 - A. Smolyakov
 - S. Allfrey
-- V. Grandgirard
+- Virginie Grandgirard
 - Ph. Ghendrih
 - G. Latu
 - A. Strugarek

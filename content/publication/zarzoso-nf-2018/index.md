@@ -10,7 +10,7 @@ authors:
 - D. F. Escande
 - Y. Sarazin
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - C. Passeron
 - G. Latu
 - S. Benkadda

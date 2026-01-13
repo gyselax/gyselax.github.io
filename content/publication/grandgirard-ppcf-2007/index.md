@@ -5,7 +5,7 @@ title: Global full-f gyrokinetic simulations of plasma turbulence
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 - P. Angelino
 - A. Bottino

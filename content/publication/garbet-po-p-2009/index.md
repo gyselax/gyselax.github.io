@@ -9,7 +9,7 @@ authors:
 - G. Dif-Pradalier
 - C. Nguyen
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - Ph. Ghendrih
 tags: []
 categories: []

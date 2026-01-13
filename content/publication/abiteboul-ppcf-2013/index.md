@@ -8,7 +8,7 @@ summary: ''
 authors:
 - J. Abiteboul
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - T. Cartier-Michaud
 - G. Dif-Pradalier
 - X. Garbet

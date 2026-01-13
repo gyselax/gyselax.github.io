@@ -7,7 +7,7 @@ authors:
 - Philippe Leleux
 - Katharina Kormann
 - Carola Kruse
-- V. Grandgirard
+- Virginie Grandgirard
 - "Yaman G\xFC\xE7l\xFC"
 - "Martin J. K\xFChn"
 - "Ulrich R\xFCde"

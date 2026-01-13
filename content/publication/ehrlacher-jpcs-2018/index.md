@@ -7,7 +7,7 @@ summary: ''
 authors:
 - C. Ehrlacher
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 - P. Donnel
 - E. Caschera

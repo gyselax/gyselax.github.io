@@ -15,7 +15,7 @@ authors:
 - G. Falchetto
 - C. Fenzi
 - S. Futatani
-- V. Grandgirard
+- Virginie Grandgirard
 - R. Guirlet
 - Ö. D. Gürcan
 - P. Hennequin

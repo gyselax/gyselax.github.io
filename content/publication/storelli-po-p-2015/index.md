@@ -16,7 +16,7 @@ authors:
 - T. Görler
 - R. Singh
 - P. Morel
-- V. Grandgirard
+- Virginie Grandgirard
 - Ph. Ghendrih
 - the Tore Supra team
 tags: []

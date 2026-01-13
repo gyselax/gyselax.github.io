@@ -10,7 +10,7 @@ authors:
 - P. Hennequin
 - "G. Dif\u2010Pradalier"
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - Olivier Panico
 - Peter Donnel
 - Kevin Obrejan

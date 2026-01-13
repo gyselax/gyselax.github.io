@@ -8,7 +8,7 @@ authors:
 - D. Estève
 - X. Garbet
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - T. Cartier-Michaud
 - G. Dif-Pradalier
 - P. Ghendrih

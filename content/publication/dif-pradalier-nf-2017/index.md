@@ -9,7 +9,7 @@ authors:
 - G. Hornung
 - X. Garbet
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - Y. Sarazin
 tags: []

@@ -9,7 +9,7 @@ authors:
 - Zhisong Qu
 - Peter Donnel
 - Kevin Obrejan
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2025-02-05'

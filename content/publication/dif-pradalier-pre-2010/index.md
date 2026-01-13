@@ -7,7 +7,7 @@ summary: ''
 authors:
 - G. Dif-Pradalier
 - P. H. Diamond
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 - J. Abiteboul
 - X. Garbet

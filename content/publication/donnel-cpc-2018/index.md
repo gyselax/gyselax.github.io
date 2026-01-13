@@ -9,7 +9,7 @@ authors:
 - P. Donnel
 - X. Garbet
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Asahi
 - N. Bouzat
 - E. Caschera

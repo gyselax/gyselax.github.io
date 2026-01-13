@@ -7,7 +7,7 @@ summary: ''
 authors:
 - J. Abiteboul
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - S. J. Allfrey
 - Ph. Ghendrih
 - G. Latu

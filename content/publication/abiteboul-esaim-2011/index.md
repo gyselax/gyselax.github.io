@@ -7,7 +7,7 @@ summary: ''
 authors:
 - J. Abiteboul
 - G. Latu
-- V. Grandgirard
+- Virginie Grandgirard
 - A. Ratnani
 - ' Sonnendrücker'
 - A. Strugarek

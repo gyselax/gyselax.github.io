@@ -8,7 +8,7 @@ authors:
 - L. Vermare
 - Y. Sarazin
 - "G. Dif\u2010Pradalier"
-- V. Grandgirard
+- Virginie Grandgirard
 - Ph. Ghendrih
 - Peter Donnel
 - M. Peret

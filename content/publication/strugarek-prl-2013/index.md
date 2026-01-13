@@ -15,7 +15,7 @@ authors:
 - G. Dif-Pradalier
 - X. Garbet
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - Ch. Passeron
 - O. Thomine

@@ -13,7 +13,7 @@ authors:
 - P. Bertrand
 - X. Garbet
 - P. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - Y. Sarazin
 tags: []
 categories: []

@@ -14,7 +14,7 @@ authors:
 - R. Ganesh
 - X. Garbet
 - T. Görler
-- V. Grandgirard
+- Virginie Grandgirard
 - R. Hatzky
 - Y. Idomura
 - F. Jenko

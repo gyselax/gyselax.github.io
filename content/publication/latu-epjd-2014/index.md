@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - G. Latu
-- V. Grandgirard
+- Virginie Grandgirard
 - J. Abiteboul
 - N. Crouseilles
 - G. Dif-Pradalier

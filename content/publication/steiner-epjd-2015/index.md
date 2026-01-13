@@ -8,7 +8,7 @@ authors:
 - Ch. Steiner
 - M. Mehrenberger
 - N. Crouseilles
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Latu
 - F Rozar
 tags: []

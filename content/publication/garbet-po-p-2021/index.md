@@ -9,7 +9,7 @@ authors:
 - C. Gillot
 - "G. Dif\u2010Pradalier"
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - Ph. Ghendrih
 - L. Vermare
 tags: []

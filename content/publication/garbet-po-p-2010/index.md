@@ -14,7 +14,7 @@ authors:
 - S. Allfrey
 - C. Bourdelle
 - C. Fenzi
-- V. Grandgirard
+- Virginie Grandgirard
 - P. Ghendrih
 - P. Hennequin
 tags: []

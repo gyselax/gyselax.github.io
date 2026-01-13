@@ -13,7 +13,7 @@ authors:
 - A. Di Siena
 - X. Garbet
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - P. Manas
 - Fabien Widmer
 tags: []

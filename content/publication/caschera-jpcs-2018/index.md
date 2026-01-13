@@ -6,7 +6,7 @@ authors:
 - E. Caschera
 - "G. Dif\u2010Pradalier"
 - Ph. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - Yuuichi Asahi
 - Nicolas Bouzat
 - Peter Donnel

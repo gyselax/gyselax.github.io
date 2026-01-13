@@ -13,7 +13,7 @@ authors:
 - G. Dif-Pradalier
 - X. Garbet
 - P. Ghendrih
-- V. Grandgirard
+- Virginie Grandgirard
 - C. J. McDevitt
 - P. Morel
 - Y. Sarazin

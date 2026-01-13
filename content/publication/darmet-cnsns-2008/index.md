@@ -9,7 +9,7 @@ authors:
 - Ph. Ghendrih
 - Y. Sarazin
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 tags:
 - '"Gyrokinetics"'
 categories: []

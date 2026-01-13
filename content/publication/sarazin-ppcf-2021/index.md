@@ -10,7 +10,7 @@ authors:
 - Ph. Ghendrih
 - Alexandre R. Berger
 - C. Gillot
-- V. Grandgirard
+- Virginie Grandgirard
 - Kevin Obrejan
 - R Varennes
 - L. Vermare

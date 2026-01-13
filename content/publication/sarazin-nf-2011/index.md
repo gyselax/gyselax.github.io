@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - J. Abiteboul
 - S. Allfrey
 - X. Garbet

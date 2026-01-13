@@ -7,7 +7,7 @@ summary: ''
 authors:
 - X. Garbet
 - Y. Sarazin
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Dif-Pradalier
 - G. Darmet
 - Ph. Ghendrih

@@ -17,7 +17,7 @@ authors:
 - C. Ehrlacher
 - D. Esteve
 - X. Garbet
-- V. Grandgirard
+- Virginie Grandgirard
 - Ö.D. Gürcan
 - P. Hennecquin
 - Y. Kosuga

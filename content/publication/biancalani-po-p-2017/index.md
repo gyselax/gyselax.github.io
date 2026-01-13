@@ -9,7 +9,7 @@ authors:
 - A. Biancalani
 - A. Bottino
 - C. Ehrlacher
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Merlo
 - I. Novikau
 - Z. Qiu

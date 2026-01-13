@@ -12,7 +12,7 @@ authors:
 - L. Vermare
 - Kyungtak Lim
 - Alejandro Guillevic
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2022-09-23'
