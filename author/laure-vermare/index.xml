@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laure Vermare | GyselaX</title>
+    <link>https://gyselax.github.io/author/laure-vermare/</link>
+      <atom:link href="https://gyselax.github.io/author/laure-vermare/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laure Vermare</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
+      <title>Laure Vermare</title>
+      <link>https://gyselax.github.io/author/laure-vermare/</link>
+    </image>
+    
+    <item>
+      <title>Safety factor influence on the edge E × B velocity establishment in tokamak plasmas</title>
+      <link>https://gyselax.github.io/publication/varennes-ppcf-2023_2/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-ppcf-2023_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/varennes-ppcf-2023/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-ppcf-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport barrier in 5D gyrokinetic flux-driven simulations</title>
+      <link>https://gyselax.github.io/publication/lo-cascio-nf-2022/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/lo-cascio-nf-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport barrier onset and edge turbulence shortfall in fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-cp-2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-cp-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergy of Turbulent Momentum Drive and Magnetic Braking</title>
+      <link>https://gyselax.github.io/publication/varennes-prl-2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/varennes-prl-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key impact of phase dynamics and diamagnetic drive on Reynolds stress in magnetic fusion plasmas</title>
+      <link>https://gyselax.github.io/publication/sarazin-ppcf-2021/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/sarazin-ppcf-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave trapping and &lt;i&gt;E&lt;/i&gt; × &lt;i&gt;B&lt;/i&gt; staircases</title>
+      <link>https://gyselax.github.io/publication/garbet-po-p-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-po-p-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive comparisons of GAM characteristics and dynamics between Tore Supra experiments and gyrokinetic simulations</title>
+      <link>https://gyselax.github.io/publication/storelli-po-p-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/storelli-po-p-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the Elusive ExB Staircase in Magnetised Plasmas</title>
+      <link>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/dif-pradalier-prl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of nonlocality of plasma turbulence</title>
+      <link>https://gyselax.github.io/publication/guercan-nf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/guercan-nf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurements and Modeling of Turbulent Transport in the Tore Supra Tokamak</title>
+      <link>https://gyselax.github.io/publication/garbet-aip-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-aip-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence in the TORE SUPRA Tokamak: Measurements and Validation of Nonlinear Simulations</title>
+      <link>https://gyselax.github.io/publication/casati-prl-2009/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-prl-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating a quasi-linear transport model versus nonlinear simulations</title>
+      <link>https://gyselax.github.io/publication/casati-nf-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/casati-nf-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

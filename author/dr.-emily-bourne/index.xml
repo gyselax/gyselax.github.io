@@ -14,33 +14,41 @@
     
     <item>
       <title>Gyselalib&#43;&#43;: A Portable C&#43;&#43; Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations</title>
-      <link>https://gyselax.github.io/publication/bourne-the-journal-of-open-source-software-2025/</link>
+      <link>https://gyselax.github.io/publication/bourne-joss-2025/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/bourne-the-journal-of-open-source-software-2025/</guid>
+      <guid>https://gyselax.github.io/publication/bourne-joss-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solver comparison for Poisson-like equations on tokamak geometries</title>
-      <link>https://gyselax.github.io/publication/bourne-journal-of-computational-physics-2023/</link>
+      <link>https://gyselax.github.io/publication/bourne-jcp-2023/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/bourne-journal-of-computational-physics-2023/</guid>
+      <guid>https://gyselax.github.io/publication/bourne-jcp-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simulations</title>
-      <link>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023/</link>
+      <link>https://gyselax.github.io/publication/varennes-ppcf-2023/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/varennes-plasma-physics-and-controlled-fusion-2023/</guid>
+      <guid>https://gyselax.github.io/publication/varennes-ppcf-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergy of Turbulent Momentum Drive and Magnetic Braking</title>
-      <link>https://gyselax.github.io/publication/varennes-physical-review-letters-2022/</link>
+      <link>https://gyselax.github.io/publication/varennes-prl-2022/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/varennes-physical-review-letters-2022/</guid>
+      <guid>https://gyselax.github.io/publication/varennes-prl-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to prepare the GYSELA-X code to future exascale edge-core simulations</title>
+      <link>https://gyselax.github.io/publication/grandgirard-2021/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-2021/</guid>
       <description></description>
     </item>
     

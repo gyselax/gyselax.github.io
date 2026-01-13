@@ -14,9 +14,9 @@
     
     <item>
       <title>Gyselalib&#43;&#43;: A Portable C&#43;&#43; Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations</title>
-      <link>https://gyselax.github.io/publication/bourne-the-journal-of-open-source-software-2025/</link>
+      <link>https://gyselax.github.io/publication/bourne-joss-2025/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/bourne-the-journal-of-open-source-software-2025/</guid>
+      <guid>https://gyselax.github.io/publication/bourne-joss-2025/</guid>
       <description></description>
     </item>
     
@@ -29,26 +29,58 @@
     </item>
     
     <item>
-      <title>Overlapping communications in gyrokinetic codes on accelerator‐based platforms</title>
-      <link>https://gyselax.github.io/publication/asahi-concurrency-and-computation-practice-and-experience-2019/</link>
+      <title>Overlapping communications in gyrokinetic codes on accelerator-based platforms</title>
+      <link>https://gyselax.github.io/publication/asahi-ccpe-2019/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/asahi-concurrency-and-computation-practice-and-experience-2019/</guid>
+      <guid>https://gyselax.github.io/publication/asahi-ccpe-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergy of turbulent and neoclassical transport through poloidal convective cells</title>
-      <link>https://gyselax.github.io/publication/asahi-plasma-physics-and-controlled-fusion-2019/</link>
+      <link>https://gyselax.github.io/publication/asahi-ppcf-2019/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/asahi-plasma-physics-and-controlled-fusion-2019/</guid>
+      <guid>https://gyselax.github.io/publication/asahi-ppcf-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear collisionless dynamics of the GAM with kinetic electrons: Comparison simulations/theory</title>
+      <link>https://gyselax.github.io/publication/grandgirard-pop-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/grandgirard-pop-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulent generation of poloidal asymmetries of the electric potential in a tokamak</title>
+      <link>https://gyselax.github.io/publication/donnel-ppcf-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-ppcf-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immersed boundary conditions in global, flux-driven, gyrokinetic simulations</title>
-      <link>https://gyselax.github.io/publication/caschera-journal-of-physics-conference-series-2018/</link>
+      <link>https://gyselax.github.io/publication/caschera-jpcs-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/caschera-journal-of-physics-conference-series-2018/</guid>
+      <guid>https://gyselax.github.io/publication/caschera-jpcs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-species collisional operator for full-F global gyrokinetics codes : Numerical aspects and validation with the GYSELA code</title>
+      <link>https://gyselax.github.io/publication/donnel-cpc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/donnel-cpc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of Fusion Kernels on Accelerators with Indirect or Strided Memory Access Patterns</title>
+      <link>https://gyselax.github.io/publication/asahi-ieee-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/asahi-ieee-2017/</guid>
       <description></description>
     </item>
     
@@ -57,6 +89,22 @@
       <link>https://gyselax.github.io/publication/asahi-po-p-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://gyselax.github.io/publication/asahi-po-p-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of poloidal convective cells on momentum flux in tokamaks</title>
+      <link>https://gyselax.github.io/publication/garbet-njp-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/garbet-njp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent gyrokinetic modeling of neoclassical and turbulent impurity transport</title>
+      <link>https://gyselax.github.io/publication/esteve-nf-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/esteve-nf-2017/</guid>
       <description></description>
     </item>
     
