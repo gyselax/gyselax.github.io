@@ -8,7 +8,7 @@ authors:
 - G. Latu
 - N. Crouseilles
 - Virginie Grandgirard
-- E. Sonnendrücker
+- Eric Sonnendrücker
 tags: []
 categories: []
 date: '2007-01-01'

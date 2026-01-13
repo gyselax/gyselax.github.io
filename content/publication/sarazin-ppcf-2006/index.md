@@ -14,7 +14,7 @@ authors:
 - P Bertrand
 - N Besse
 - N Crouseilles
-- E Sonnendrücker
+- Eric Sonnendrücker
 - G Latu
 - E Violard
 tags: []

@@ -16,7 +16,7 @@ authors:
 - Philippe Ghendrih
 - S. Jolliet
 - G. Latu
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - L. Villard
 tags: []
 categories: []

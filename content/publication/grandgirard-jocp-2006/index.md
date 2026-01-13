@@ -14,7 +14,7 @@ authors:
 - G. Manfredi
 - Yanick Sarazin
 - O. Sauter
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - J. Vaclavik
 - L. Villard
 tags:

@@ -11,7 +11,7 @@ authors:
 - Virginie Grandgirard
 - G. Latu
 - Michel Mehrenberger
-- E. Sonnendrücker
+- Eric Sonnendrücker
 tags:
 - '"plasma turbulence ; maximum principle ; conservative scheme ; numerical simulation"'
 categories: []

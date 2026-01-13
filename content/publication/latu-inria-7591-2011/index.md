@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - N. Crouseilles
 - R. Belaouar
-- E. Sonnendrücker
+- Eric Sonnendrücker
 tags: []
 categories: []
 date: '2011-04-01'

@@ -16,7 +16,7 @@ authors:
 - N. Besse
 - E. Gravier
 - P. Morel
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - N. Crouseilles
 - J. -M. Dischler
 - G. Latu

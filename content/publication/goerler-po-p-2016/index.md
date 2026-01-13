@@ -12,7 +12,7 @@ authors:
 - C. Norscini
 - Virginie Grandgirard
 - F. Jenko
-- E. Sonnendrücker
+- Eric Sonnendrücker
 tags: []
 categories: []
 date: '2016-01-01'

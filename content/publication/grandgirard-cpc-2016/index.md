@@ -22,7 +22,7 @@ authors:
 - Ch. Passeron
 - F. Rozar
 - Yanick Sarazin
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - A. Strugarek
 - D. Zarzoso
 tags: []

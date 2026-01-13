@@ -13,7 +13,7 @@ authors:
 - G. Merlo
 - I. Novikau
 - Z. Qiu
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - Xavier Garbet
 - T. Goerler
 - S. Leerink

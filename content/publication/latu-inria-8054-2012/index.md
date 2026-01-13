@@ -16,7 +16,7 @@ authors:
 - Michel Mehrenberger
 - Yanick Sarazin
 - H. Sellama
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - D. Zarzoso
 tags:
 - '"gyrokinetic ; conservation laws ; FSL"'

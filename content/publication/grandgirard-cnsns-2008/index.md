@@ -12,7 +12,7 @@ authors:
 - Philippe Ghendrih
 - N. Crouseilles
 - G. Latu
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - N. Besse
 - P. Bertrand
 tags:

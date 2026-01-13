@@ -13,7 +13,7 @@ authors:
 - Xavier Garbet
 - Philippe Ghendrih
 - Michel Mehrenberger
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - Yanick Sarazin
 tags: []
 categories: []
