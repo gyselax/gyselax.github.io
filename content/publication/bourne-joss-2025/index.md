@@ -18,7 +18,7 @@ authors:
 - Kevin Obrejan
 - Thomas Padioleau
 - Matthieu Protais
-- Pedro Vidal
+- Pauline Vidal
 tags: []
 categories: []
 date: '2025-09-09'
