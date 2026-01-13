@@ -8,7 +8,7 @@ summary: ''
 authors:
 - P. Donnel
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - Y. Asahi
 - N. Bouzat

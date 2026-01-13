@@ -7,7 +7,7 @@ summary: ''
 authors:
 - X. Garbet
 - J. Abiteboul
-- Y. Sarazin
+- Yanick Sarazin
 - A. Smolyakov
 - S. Allfrey
 - Virginie Grandgirard

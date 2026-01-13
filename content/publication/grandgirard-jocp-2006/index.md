@@ -12,7 +12,7 @@ authors:
 - X. Garbet
 - P. Ghendrih
 - G. Manfredi
-- Y. Sarazin
+- Yanick Sarazin
 - O. Sauter
 - E. Sonnendrücker
 - J. Vaclavik

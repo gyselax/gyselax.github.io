@@ -18,7 +18,7 @@ authors:
 - K Obrejan
 - Ch. Passeron
 - R Varennes
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2021-07-05'

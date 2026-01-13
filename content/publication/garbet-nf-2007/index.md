@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - G. Dif-Pradalier
 - G. Darmet

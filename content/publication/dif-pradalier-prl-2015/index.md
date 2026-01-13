@@ -8,7 +8,7 @@ authors:
 - G. Dif-Pradalier
 - G. Hornung
 - Ph. Ghendrih
-- Y. Sarazin
+- Yanick Sarazin
 - F. Clairet
 - L. Vermare
 - P. H. Diamond

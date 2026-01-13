@@ -9,7 +9,7 @@ authors:
 - X. Garbet
 - P. Hennequin
 - "G. Dif\u2010Pradalier"
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - Olivier Panico
 - Peter Donnel

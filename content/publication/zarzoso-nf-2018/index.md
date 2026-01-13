@@ -8,7 +8,7 @@ authors:
 - D. Zarzoso
 - D. del-Castillo-Negrete
 - D. F. Escande
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - Virginie Grandgirard
 - C. Passeron

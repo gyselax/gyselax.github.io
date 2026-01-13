@@ -8,7 +8,7 @@ summary: ''
 authors:
 - D. Zarzoso
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - R. Dumont
 - Virginie Grandgirard
 tags: []

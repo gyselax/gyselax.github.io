@@ -23,7 +23,7 @@ authors:
 - G. T. Hoang
 - C. Honoré
 - R. Sabot
-- Y. Sarazin
+- Yanick Sarazin
 - J. L. Segui
 - A. Smolyakov
 - E. Trier

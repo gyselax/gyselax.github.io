@@ -13,7 +13,7 @@ authors:
 - X. Garbet
 - Guillaume Latu
 - C. Passeron
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2018-11-01'

@@ -6,7 +6,7 @@ summary: ''
 authors:
 - Kyungtak Lim
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - E. Gravier
 - M. Lesur
 - Guillaume Lo-Cascio

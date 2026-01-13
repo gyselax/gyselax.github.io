@@ -16,7 +16,7 @@ authors:
 - Virginie Grandgirard
 - C. J. McDevitt
 - P. Morel
-- Y. Sarazin
+- Yanick Sarazin
 - A. Storelli
 - C. Bourdelle
 - the Tore Supra Team

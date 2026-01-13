@@ -7,7 +7,7 @@ summary: ''
 authors:
 - X. Garbet
 - D. Esteve
-- Y. Sarazin
+- Yanick Sarazin
 - J. Abiteboul
 - C. Bourdelle
 - G. Dif-Pradalier

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Strugarek
-- Y. Sarazin
+- Yanick Sarazin
 - D. Zarzoso
 - J. Abiteboul
 - A. S. Brun

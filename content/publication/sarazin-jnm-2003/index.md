@@ -5,7 +5,7 @@ title: 'Theoretical understanding of turbulent transport in the SOL '
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - Ph. Ghendrih
 - G. Attuel
 - C. Clément

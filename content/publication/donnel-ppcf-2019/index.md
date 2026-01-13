@@ -8,7 +8,7 @@ summary: ''
 authors:
 - P. Donnel
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Y. Asahi
 - ' F.Wilczynsky'
 - E. Caschera

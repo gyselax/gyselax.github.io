@@ -5,7 +5,7 @@ title: Entropy production and collisionless fluid closure
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - G. Dif-Pradalier
 - D. Zarzoso
 - X. Garbet

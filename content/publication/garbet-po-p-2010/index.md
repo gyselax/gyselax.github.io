@@ -9,7 +9,7 @@ authors:
 - J. Abiteboul
 - E. Trier
 - Ö. Gürcan
-- Y. Sarazin
+- Yanick Sarazin
 - A. Smolyakov
 - S. Allfrey
 - C. Bourdelle

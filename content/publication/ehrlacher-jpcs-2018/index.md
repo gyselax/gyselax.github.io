@@ -8,7 +8,7 @@ authors:
 - C. Ehrlacher
 - X. Garbet
 - Virginie Grandgirard
-- Y. Sarazin
+- Yanick Sarazin
 - P. Donnel
 - E. Caschera
 - P. Ghendrih

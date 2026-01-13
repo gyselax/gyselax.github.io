@@ -7,7 +7,7 @@ authors:
 - E. Gravier
 - "T. R\xE9veill\xE9"
 - M. Lesur
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - L. Vermare
 - Kyungtak Lim

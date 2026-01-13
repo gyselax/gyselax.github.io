@@ -5,7 +5,7 @@ summary: ''
 authors:
 - "G. Dif\u2010Pradalier"
 - Ph. Ghendrih
-- Y. Sarazin
+- Yanick Sarazin
 - E. Caschera
 - F. Clairet
 - Y. Camenen

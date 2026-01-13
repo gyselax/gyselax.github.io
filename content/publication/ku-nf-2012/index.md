@@ -10,7 +10,7 @@ authors:
 - P. H. Diamond
 - G. Dif-Pradalier
 - J. M. Kwon
-- Y. Sarazin
+- Yanick Sarazin
 - T. S. Hahm
 - X. Garbet
 - C. S. Chang

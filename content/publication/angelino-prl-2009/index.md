@@ -13,7 +13,7 @@ authors:
 - Ph. Ghendrih
 - Virginie Grandgirard
 - B. F. McMillan
-- Y. Sarazin
+- Yanick Sarazin
 - G. Dif-Pradalier
 - T. M. Tran
 tags: []

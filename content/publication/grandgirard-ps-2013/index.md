@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Virginie Grandgirard
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2013-01-01'

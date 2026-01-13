@@ -8,7 +8,7 @@ authors:
 - R Varennes
 - C. Gillot
 - "G. Dif\u2010Pradalier"
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - Ph. Ghendrih
 - L. Vermare

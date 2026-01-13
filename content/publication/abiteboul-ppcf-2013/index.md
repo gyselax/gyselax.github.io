@@ -14,7 +14,7 @@ authors:
 - X. Garbet
 - G. Latu
 - Ch. Passeron
-- Y. Sarazin
+- Yanick Sarazin
 - A. Strugarek
 - O. Thomine
 - D. Zarzoso

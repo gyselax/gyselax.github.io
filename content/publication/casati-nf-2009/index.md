@@ -20,7 +20,7 @@ authors:
 - J. Kinsey
 - M. Ottaviani
 - R. Sabot
-- Y. Sarazin
+- Yanick Sarazin
 - L. Vermare
 - R. E. Waltz
 tags: []

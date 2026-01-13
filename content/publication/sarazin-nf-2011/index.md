@@ -5,7 +5,7 @@ title: Predictions on heat transport and plasma rotation from global gyrokinetic
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - J. Abiteboul
 - S. Allfrey

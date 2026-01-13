@@ -12,7 +12,7 @@ authors:
 - T. Cartier-Michaud
 - P. Ghendrih
 - Virginie Grandgirard
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2015-01-01'

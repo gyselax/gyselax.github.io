@@ -8,7 +8,7 @@ authors:
 - X. Garbet
 - J. Abiteboul
 - A. Strugarek
-- Y. Sarazin
+- Yanick Sarazin
 - G. Dif-Pradalier
 - Ph. Ghendrih
 - Virginie Grandgirard

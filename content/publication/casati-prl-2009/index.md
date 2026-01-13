@@ -20,7 +20,7 @@ authors:
 - C. Honoré
 - F. Imbeaux
 - R. Sabot
-- Y. Sarazin
+- Yanick Sarazin
 - L. Vermare
 - R. E. Waltz
 tags: []

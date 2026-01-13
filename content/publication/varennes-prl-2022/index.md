@@ -6,7 +6,7 @@ authors:
 - R Varennes
 - X. Garbet
 - L. Vermare
-- Y. Sarazin
+- Yanick Sarazin
 - "G. Dif\u2010Pradalier"
 - Virginie Grandgirard
 - Ph. Ghendrih

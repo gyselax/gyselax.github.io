@@ -11,7 +11,7 @@ authors:
 - P. Hennequin
 - Ö. Gürcan
 - G. Dif-Pradalier
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - T. Görler
 - R. Singh

@@ -8,7 +8,7 @@ authors:
 - X. Garbet
 - G. Dif-Pradalier
 - C. Nguyen
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - Ph. Ghendrih
 tags: []

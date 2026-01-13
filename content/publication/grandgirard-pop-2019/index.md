@@ -20,7 +20,7 @@ authors:
 - C. Gillot
 - G. Latu
 - Ch. Passeron
-- Y. Sarazin
+- Yanick Sarazin
 - D. Zarzoso
 tags: []
 categories: []

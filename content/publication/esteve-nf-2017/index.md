@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Estève
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - Virginie Grandgirard
 - S. Breton

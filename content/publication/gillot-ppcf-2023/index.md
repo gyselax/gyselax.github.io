@@ -5,7 +5,7 @@ summary: ''
 authors:
 - C. Gillot
 - "G. Dif\u2010Pradalier"
-- Y. Sarazin
+- Yanick Sarazin
 - C. Bourdelle
 - "A. Ba\xF1\xF3n Navarro"
 - Y. Camenen

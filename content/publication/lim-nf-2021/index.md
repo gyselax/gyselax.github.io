@@ -5,7 +5,7 @@ summary: ''
 authors:
 - Kyungtak Lim
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - Kevin Obrejan
 - M. Lesur

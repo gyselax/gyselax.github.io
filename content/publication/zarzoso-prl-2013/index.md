@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Zarzoso
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - R. Dumont
 - A. Strugarek

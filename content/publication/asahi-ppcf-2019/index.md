@@ -6,7 +6,7 @@ summary: ''
 authors:
 - Yuuichi Asahi
 - Virginie Grandgirard
-- Y. Sarazin
+- Yanick Sarazin
 - Peter Donnel
 - X. Garbet
 - Yasuhiro Idomura

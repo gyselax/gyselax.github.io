@@ -8,7 +8,7 @@ authors:
 - M. Lesur
 - E. Gravier
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Kyungtak Lim
 - Guillaume Lo-Cascio
 tags: []

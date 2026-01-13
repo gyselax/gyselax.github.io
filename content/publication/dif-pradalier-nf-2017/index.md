@@ -11,7 +11,7 @@ authors:
 - Ph. Ghendrih
 - Virginie Grandgirard
 - G. Latu
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2017-01-01'

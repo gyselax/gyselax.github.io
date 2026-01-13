@@ -14,7 +14,7 @@ authors:
 - P. Ghendrih
 - M. Mehrenberger
 - E. Sonnendrücker
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2014-01-01'

@@ -4,7 +4,7 @@ title: Key impact of phase dynamics and diamagnetic drive on Reynolds stress in 
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - "G. Dif\u2010Pradalier"
 - X. Garbet
 - Ph. Ghendrih

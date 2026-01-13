@@ -24,7 +24,7 @@ authors:
 - G. Latu
 - B. F. McMillan
 - F. Merz
-- Y. Sarazin
+- Yanick Sarazin
 - T. M. Tran
 - T. Vernay
 tags: []

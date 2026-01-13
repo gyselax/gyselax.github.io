@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Virginie Grandgirard
-- Y. Sarazin
+- Yanick Sarazin
 - P. Angelino
 - A. Bottino
 - N. Crouseilles

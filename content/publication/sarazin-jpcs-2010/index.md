@@ -6,7 +6,7 @@ title: Flux-driven gyrokinetic simulations of ion turbulent transport at low mag
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - A. Strugarek
 - G. Dif-Pradalier
 - J. Abiteboul

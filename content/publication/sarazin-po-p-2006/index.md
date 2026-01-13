@@ -5,7 +5,7 @@ title: Interplay between transport barriers and density gradient
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - G. Dif-Pradalier
 - X. Garbet

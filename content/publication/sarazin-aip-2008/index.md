@@ -5,7 +5,7 @@ title: Turbulence spectra and transport barriers in gyrokinetic simulations
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - P. Angelino
 - A. Casati

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - R. J. Dumont
 - D. Zarzoso
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - A. Strugarek
 - J. Abiteboul

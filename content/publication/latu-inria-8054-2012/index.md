@@ -14,7 +14,7 @@ authors:
 - X. Garbet
 - Ph. Ghendrih
 - M. Mehrenberger
-- Y. Sarazin
+- Yanick Sarazin
 - H. Sellama
 - E. Sonnendrücker
 - D. Zarzoso

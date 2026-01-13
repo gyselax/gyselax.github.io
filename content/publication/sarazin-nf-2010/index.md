@@ -5,7 +5,7 @@ title: Large scale dynamics in flux driven gyrokinetic turbulence
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - J. Abiteboul
 - S. Allfrey

@@ -14,7 +14,7 @@ authors:
 - X. Garbet
 - P. Ghendrih
 - Virginie Grandgirard
-- Y. Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2007-01-01'

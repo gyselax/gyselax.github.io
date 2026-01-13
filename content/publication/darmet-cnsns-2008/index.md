@@ -7,7 +7,7 @@ summary: ''
 authors:
 - G. Darmet
 - Ph. Ghendrih
-- Y. Sarazin
+- Yanick Sarazin
 - X. Garbet
 - Virginie Grandgirard
 tags:

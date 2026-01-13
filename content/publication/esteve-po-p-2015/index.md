@@ -7,7 +7,7 @@ summary: ''
 authors:
 - D. Estève
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - T. Cartier-Michaud
 - G. Dif-Pradalier

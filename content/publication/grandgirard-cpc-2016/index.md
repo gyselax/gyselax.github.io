@@ -21,7 +21,7 @@ authors:
 - C. Norscini
 - Ch. Passeron
 - F. Rozar
-- Y. Sarazin
+- Yanick Sarazin
 - E. Sonnendrücker
 - A. Strugarek
 - D. Zarzoso

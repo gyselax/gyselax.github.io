@@ -11,7 +11,7 @@ authors:
 - S. J. Allfrey
 - Ph. Ghendrih
 - G. Latu
-- Y. Sarazin
+- Yanick Sarazin
 - A. Strugarek
 tags: []
 categories: []

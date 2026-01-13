@@ -6,7 +6,7 @@ summary: ''
 authors:
 - Peter Donnel
 - X. Garbet
-- Y. Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - Nicolas Bouzat
 - E. Caschera
