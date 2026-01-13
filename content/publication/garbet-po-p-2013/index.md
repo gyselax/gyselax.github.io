@@ -5,7 +5,7 @@ title: Turbulent acceleration and heating in toroidal magnetized plasmas
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - D. Esteve
 - Yanick Sarazin
 - J. Abiteboul

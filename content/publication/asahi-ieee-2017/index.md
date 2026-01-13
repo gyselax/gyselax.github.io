@@ -11,7 +11,7 @@ authors:
 - T. Ina
 - Y. Idomura
 - Virginie Grandgirard
-- X. Garbet
+- Xavier Garbet
 categories: []
 date: '2017-07-01'
 lastmod: 2021-03-18T23:38:56+01:00

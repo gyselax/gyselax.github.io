@@ -9,7 +9,7 @@ authors:
 - M. Brunetti
 - P. Bertrand
 - N. Besse
-- X. Garbet
+- Xavier Garbet
 - P. Ghendrih
 - G. Manfredi
 - Yanick Sarazin

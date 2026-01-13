@@ -12,7 +12,7 @@ authors:
 - Ö. Gürcan
 - Guilhem Dif-Pradalier
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - T. Görler
 - R. Singh
 - P. Morel

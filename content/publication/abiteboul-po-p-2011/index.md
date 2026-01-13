@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. Abiteboul
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - S. J. Allfrey
 - Ph. Ghendrih

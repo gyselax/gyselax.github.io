@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - J. Abiteboul
 - S. Allfrey
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - G. Latu
 - A. Strugarek

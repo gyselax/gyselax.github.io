@@ -11,7 +11,7 @@ authors:
 - Virginie Grandgirard
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier
-- X. Garbet
+- Xavier Garbet
 - G. Latu
 - Ch. Passeron
 - Yanick Sarazin

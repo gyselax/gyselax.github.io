@@ -6,7 +6,7 @@ summary: ''
 authors:
 - R Varennes
 - L. Vermare
-- X. Garbet
+- Xavier Garbet
 - P. Hennequin
 - "G. Dif\u2010Pradalier"
 - Yanick Sarazin

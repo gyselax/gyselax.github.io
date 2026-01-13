@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - P. Donnel
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - Virginie Grandgirard
 - Y. Asahi

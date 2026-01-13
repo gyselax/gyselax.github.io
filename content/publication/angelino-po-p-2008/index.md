@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - P. Angelino
-- X. Garbet
+- Xavier Garbet
 - L. Villard
 - A. Bottino
 - S. Jolliet

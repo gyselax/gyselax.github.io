@@ -10,7 +10,7 @@ authors:
 - P. Angelino
 - A. Casati
 - Guilhem Dif-Pradalier
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - O. Gürcan
 - P. Hennequin

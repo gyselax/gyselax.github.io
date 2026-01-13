@@ -11,7 +11,7 @@ authors:
 - R. Klein
 - A. Ghizzo
 - P. Bertrand
-- X. Garbet
+- Xavier Garbet
 - P. Ghendrih
 - Virginie Grandgirard
 - Yanick Sarazin

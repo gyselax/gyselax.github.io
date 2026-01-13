@@ -8,7 +8,7 @@ summary: ''
 authors:
 - D. Estève
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - S. Breton
 - P. Donnel

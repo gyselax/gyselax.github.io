@@ -5,7 +5,7 @@ title: Thermodynamics of neoclassical and turbulent transport
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - J. Abiteboul
 - A. Strugarek
 - Yanick Sarazin

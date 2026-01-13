@@ -10,7 +10,7 @@ authors:
 - J. Abiteboul
 - N. Crouseilles
 - Guilhem Dif-Pradalier
-- X. Garbet
+- Xavier Garbet
 - P. Ghendrih
 - M. Mehrenberger
 - E. Sonnendrücker

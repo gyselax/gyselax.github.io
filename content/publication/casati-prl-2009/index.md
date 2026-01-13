@@ -12,7 +12,7 @@ authors:
 - C. Bourdelle
 - J. Candy
 - F. Clairet
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - \.̈ D. Gürcan
 - S. Heuraux

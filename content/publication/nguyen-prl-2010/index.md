@@ -7,7 +7,7 @@ summary: ''
 authors:
 - C. Nguyen
 - H. Lütjens
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - M. Lesur
 tags: []

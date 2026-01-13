@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - F. Palermo
-- X. Garbet
+- Xavier Garbet
 - A. Ghizzo
 - T. Cartier-Michaud
 - P. Ghendrih

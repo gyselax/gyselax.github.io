@@ -9,7 +9,7 @@ authors:
 - E. Bourne
 - "G. Dif\u2010Pradalier"
 - Peter Donnel
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - "Yaman G\xFC\xE7l\xFC"
 - Katharina Kormann

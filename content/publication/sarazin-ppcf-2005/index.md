@@ -8,7 +8,7 @@ authors:
 - Yanick Sarazin
 - Virginie Grandgirard
 - E. Fleurence
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - P. Bertrand
 - G. Depret

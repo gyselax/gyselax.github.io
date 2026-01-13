@@ -7,7 +7,7 @@ summary: ''
 authors:
 - A. Casati
 - C. Bourdelle
-- X. Garbet
+- Xavier Garbet
 - F. Imbeaux
 - J. Candy
 - F. Clairet

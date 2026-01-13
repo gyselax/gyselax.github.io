@@ -5,7 +5,7 @@ title: Neoclassical equilibrium in gyrokinetic simulations
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - Guilhem Dif-Pradalier
 - C. Nguyen
 - Yanick Sarazin

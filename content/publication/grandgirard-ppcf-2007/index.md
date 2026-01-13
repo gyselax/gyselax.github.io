@@ -12,7 +12,7 @@ authors:
 - N. Crouseilles
 - G. Darmet
 - Guilhem Dif-Pradalier
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - S. Jolliet
 - G. Latu

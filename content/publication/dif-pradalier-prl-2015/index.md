@@ -16,7 +16,7 @@ authors:
 - T. Cartier-Michaud
 - C. Ehrlacher
 - D. Esteve
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - Ö.D. Gürcan
 - P. Hennecquin

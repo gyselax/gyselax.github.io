@@ -10,7 +10,7 @@ authors:
 - Yuuichi Asahi
 - Nicolas Bouzat
 - Peter Donnel
-- X. Garbet
+- Xavier Garbet
 - Guillaume Latu
 - C. Passeron
 - Yanick Sarazin

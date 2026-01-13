@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Virginie Grandgirard
-- X. Garbet
+- Xavier Garbet
 - Ch. Ehrlacher
 - A. Biancalani
 - A. Bottino

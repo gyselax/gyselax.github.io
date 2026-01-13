@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Zarzoso
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - R. Dumont
 - Virginie Grandgirard

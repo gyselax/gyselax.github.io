@@ -8,7 +8,7 @@ authors:
 - R. J. Dumont
 - D. Zarzoso
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - A. Strugarek
 - J. Abiteboul
 - T. Cartier-Michaud

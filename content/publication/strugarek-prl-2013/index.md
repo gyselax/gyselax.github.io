@@ -13,7 +13,7 @@ authors:
 - A. S. Brun
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - Virginie Grandgirard
 - G. Latu

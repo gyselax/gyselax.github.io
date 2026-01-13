@@ -6,7 +6,7 @@ summary: ''
 authors:
 - Yanick Sarazin
 - "G. Dif\u2010Pradalier"
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - Alexandre R. Berger
 - C. Gillot

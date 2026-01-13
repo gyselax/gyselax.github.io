@@ -8,7 +8,7 @@ authors:
 - Yanick Sarazin
 - Guilhem Dif-Pradalier
 - D. Zarzoso
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - Virginie Grandgirard
 tags: []

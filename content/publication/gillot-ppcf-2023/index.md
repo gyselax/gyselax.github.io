@@ -11,7 +11,7 @@ authors:
 - Y. Camenen
 - J. Citrin
 - A. Di Siena
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - Virginie Grandgirard
 - P. Manas

@@ -9,7 +9,7 @@ authors:
 - D. del-Castillo-Negrete
 - D. F. Escande
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - C. Passeron
 - G. Latu

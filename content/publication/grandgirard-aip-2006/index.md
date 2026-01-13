@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Virginie Grandgirard
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - Guilhem Dif-Pradalier
 - Ph. Ghendrih
 - N. Crouseilles

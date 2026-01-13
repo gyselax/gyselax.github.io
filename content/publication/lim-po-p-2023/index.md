@@ -5,7 +5,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kyungtak Lim
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - E. Gravier
 - M. Lesur

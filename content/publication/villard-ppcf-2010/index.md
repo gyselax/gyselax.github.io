@@ -12,7 +12,7 @@ authors:
 - J. Chowdhury
 - T. Dannert
 - R. Ganesh
-- X. Garbet
+- Xavier Garbet
 - T. Görler
 - Virginie Grandgirard
 - R. Hatzky

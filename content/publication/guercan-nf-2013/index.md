@@ -11,7 +11,7 @@ authors:
 - V. Berionni
 - P. H. Diamond
 - Guilhem Dif-Pradalier
-- X. Garbet
+- Xavier Garbet
 - P. Ghendrih
 - Virginie Grandgirard
 - C. J. McDevitt

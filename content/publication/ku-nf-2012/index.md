@@ -12,7 +12,7 @@ authors:
 - J. M. Kwon
 - Yanick Sarazin
 - T. S. Hahm
-- X. Garbet
+- Xavier Garbet
 - C. S. Chang
 - G. Latu
 - E. S. Yoon

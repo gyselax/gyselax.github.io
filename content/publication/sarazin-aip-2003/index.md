@@ -11,7 +11,7 @@ authors:
 - P. Beyer
 - G. Falchetto
 - C. Figarella
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 tags: []
 categories: []

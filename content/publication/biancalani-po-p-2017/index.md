@@ -14,7 +14,7 @@ authors:
 - I. Novikau
 - Z. Qiu
 - E. Sonnendrücker
-- X. Garbet
+- Xavier Garbet
 - T. Goerler
 - S. Leerink
 - F. Palermo

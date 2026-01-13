@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Y.W. Cho
-- X. Garbet
+- Xavier Garbet
 - R Varennes
 - Zhisong Qu
 - Peter Donnel

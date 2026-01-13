@@ -10,7 +10,7 @@ authors:
 - Virginie Grandgirard
 - Yanick Sarazin
 - J. Abiteboul
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - G. Latu
 - A. Strugarek

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Estève
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - Virginie Grandgirard
 - T. Cartier-Michaud

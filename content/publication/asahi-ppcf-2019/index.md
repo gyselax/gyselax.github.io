@@ -8,7 +8,7 @@ authors:
 - Virginie Grandgirard
 - Yanick Sarazin
 - Peter Donnel
-- X. Garbet
+- Xavier Garbet
 - Yasuhiro Idomura
 - "G. Dif\u2010Pradalier"
 - Guillaume Latu

@@ -11,7 +11,7 @@ authors:
 - Guilhem Dif-Pradalier
 - J. Abiteboul
 - S. Allfrey
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - Virginie Grandgirard
 - G. Latu

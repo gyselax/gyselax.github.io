@@ -8,7 +8,7 @@ authors:
 - G. Darmet
 - Ph. Ghendrih
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 tags:
 - '"Gyrokinetics"'

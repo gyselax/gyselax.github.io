@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - R Varennes
-- X. Garbet
+- Xavier Garbet
 - L. Vermare
 - Yanick Sarazin
 - "G. Dif\u2010Pradalier"

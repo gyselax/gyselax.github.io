@@ -9,7 +9,7 @@ authors:
 - M. Lesur
 - "T. R\xE9veill\xE9"
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - Kyungtak Lim
 - T. Rouyer
 - Alejandro Guillevic

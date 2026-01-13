@@ -8,7 +8,7 @@ authors:
 - "T. R\xE9veill\xE9"
 - M. Lesur
 - Yanick Sarazin
-- X. Garbet
+- Xavier Garbet
 - L. Vermare
 - Kyungtak Lim
 - Alejandro Guillevic

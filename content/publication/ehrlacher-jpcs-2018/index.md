@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - C. Ehrlacher
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - Yanick Sarazin
 - P. Donnel

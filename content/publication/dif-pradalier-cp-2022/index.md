@@ -10,7 +10,7 @@ authors:
 - F. Clairet
 - Y. Camenen
 - Peter Donnel
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - Yann Munschy
 - L. Vermare

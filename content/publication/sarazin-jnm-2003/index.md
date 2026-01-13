@@ -9,7 +9,7 @@ authors:
 - Ph. Ghendrih
 - G. Attuel
 - C. Clément
-- X. Garbet
+- Xavier Garbet
 - Virginie Grandgirard
 - M. Ottaviani
 - S. Benkadda

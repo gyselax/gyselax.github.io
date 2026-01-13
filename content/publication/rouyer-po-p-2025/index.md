@@ -7,7 +7,7 @@ authors:
 - T. Rouyer
 - M. Lesur
 - E. Gravier
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - Kyungtak Lim
 - Guillaume Lo-Cascio

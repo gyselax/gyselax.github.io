@@ -5,7 +5,7 @@ subtitle: ''
 summary: ''
 authors:
 - Peter Donnel
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - Virginie Grandgirard
 - Nicolas Bouzat

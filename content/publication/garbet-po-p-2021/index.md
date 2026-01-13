@@ -3,7 +3,7 @@ title: "Wave trapping and <i>E</i> \xD7 <i>B</i> staircases"
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - Olivier Panico
 - R Varennes
 - C. Gillot

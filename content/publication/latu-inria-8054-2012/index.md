@@ -11,7 +11,7 @@ authors:
 - J. Abiteboul
 - M. Bergot
 - N. Crouseilles
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - M. Mehrenberger
 - Yanick Sarazin

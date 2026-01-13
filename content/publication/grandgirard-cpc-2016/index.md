@@ -14,7 +14,7 @@ authors:
 - Guilhem Dif-Pradalier
 - Ch. Ehrlacher
 - D. Esteve
-- X. Garbet
+- Xavier Garbet
 - Ph. Ghendrih
 - G. Latu
 - M. Mehrenberger

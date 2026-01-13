@@ -5,7 +5,7 @@ title: Measurements and Modeling of Turbulent Transport in the Tore Supra Tokama
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - J. Abiteboul
 - S. Benkadda
 - C. Bourdelle
