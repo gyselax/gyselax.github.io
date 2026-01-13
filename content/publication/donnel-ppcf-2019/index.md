@@ -13,7 +13,7 @@ authors:
 - ' F.Wilczynsky'
 - E. Caschera
 - Guilhem Dif-Pradalier
-- P. Ghendrih
+- Philippe Ghendrih
 - Camille Gillot
 tags: []
 categories: []

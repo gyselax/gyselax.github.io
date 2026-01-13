@@ -5,7 +5,7 @@ title: Scaling gysela code beyond 32K-cores on bluegene/Q
 subtitle: ''
 summary: ''
 authors:
-- J. Bigot
+- Julien Bigot
 - Virginie Grandgirard
 - G. Latu
 - Ch. Passeron

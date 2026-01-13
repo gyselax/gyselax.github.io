@@ -10,7 +10,7 @@ authors:
 - P. Bertrand
 - N. Besse
 - Xavier Garbet
-- P. Ghendrih
+- Philippe Ghendrih
 - G. Manfredi
 - Yanick Sarazin
 - O. Sauter

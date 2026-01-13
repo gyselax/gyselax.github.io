@@ -11,7 +11,7 @@ authors:
 - Yanick Sarazin
 - P. Donnel
 - E. Caschera
-- P. Ghendrih
+- Philippe Ghendrih
 - D. Zarzoso
 tags: []
 categories: []

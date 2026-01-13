@@ -12,7 +12,7 @@ authors:
 - A. Ghizzo
 - P. Bertrand
 - Xavier Garbet
-- P. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - Yanick Sarazin
 tags: []

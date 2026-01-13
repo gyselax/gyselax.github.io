@@ -9,7 +9,7 @@ authors:
 - Ch. Latu, G. Steiner
 - M. Mehrenberger
 - Virginie Grandgirard
-- J. Bigot
+- Julien Bigot
 - T. Cartier-Michaud
 - J. Roman
 tags: []

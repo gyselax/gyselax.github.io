@@ -11,7 +11,7 @@ authors:
 - Virginie Grandgirard
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier
-- P. Ghendrih
+- Philippe Ghendrih
 - ' G.Latu'
 - C. Norscini
 tags: []

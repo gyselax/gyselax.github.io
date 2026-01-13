@@ -12,7 +12,7 @@ authors:
 - P. H. Diamond
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- P. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - C. J. McDevitt
 - P. Morel

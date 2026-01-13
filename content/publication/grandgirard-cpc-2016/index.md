@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Virginie Grandgirard
 - J. Abiteboul
-- J. Bigot
+- Julien Bigot
 - T. Cartier-Michaud
 - N. Crouseilles
 - Guilhem Dif-Pradalier

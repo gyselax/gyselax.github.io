@@ -10,7 +10,7 @@ authors:
 - Xavier Garbet
 - A. Ghizzo
 - T. Cartier-Michaud
-- P. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - Yanick Sarazin
 tags: []

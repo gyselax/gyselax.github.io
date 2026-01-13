@@ -11,7 +11,7 @@ authors:
 - J. Abiteboul
 - C. Bourdelle
 - Guilhem Dif-Pradalier
-- P. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - G. Latu
 - A. Smolyakov

@@ -17,7 +17,7 @@ authors:
 - Guilhem Dif-Pradalier
 - C. Ehrlacher
 - C. Emeriau
-- P. Ghendrih
+- Philippe Ghendrih
 - Camille Gillot
 - G. Latu
 - C. Passeron

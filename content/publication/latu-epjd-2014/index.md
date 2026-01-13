@@ -11,7 +11,7 @@ authors:
 - N. Crouseilles
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- P. Ghendrih
+- Philippe Ghendrih
 - M. Mehrenberger
 - E. Sonnendrücker
 - Yanick Sarazin

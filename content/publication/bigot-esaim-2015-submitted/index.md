@@ -6,7 +6,7 @@ title: An approach to increase reliability of HPC simulation, application to the
 subtitle: ''
 summary: ''
 authors:
-- J. Bigot
+- Julien Bigot
 - T Cartier-Michaud
 - Virginie Grandgirard
 - G. Latu

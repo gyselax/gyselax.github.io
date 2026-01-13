@@ -15,7 +15,7 @@ authors:
 - C. Bourdelle
 - C. Fenzi
 - Virginie Grandgirard
-- P. Ghendrih
+- Philippe Ghendrih
 - P. Hennequin
 tags: []
 categories: []

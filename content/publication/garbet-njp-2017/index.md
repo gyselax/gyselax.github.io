@@ -10,7 +10,7 @@ authors:
 - P Donnel
 - C Ehrlacher
 - Guilhem Dif-Pradalier
-- P Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - Yanick Sarazin
 tags: []

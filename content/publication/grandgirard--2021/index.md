@@ -14,7 +14,7 @@ authors:
 - "Yaman G\xFC\xE7l\xFC"
 - Katharina Kormann
 - D. Midou
-- Y Munschy
+- Yann Munschy
 - K Obrejan
 - Ch. Passeron
 - Robin Varennes
