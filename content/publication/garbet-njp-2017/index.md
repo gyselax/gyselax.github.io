@@ -11,7 +11,7 @@ authors:
 - C Ehrlacher
 - G Dif-Pradalier
 - P Ghendrih
-- V Grandgirard
+- Virginie Grandgirard
 - Y Sarazin
 tags: []
 categories: []
