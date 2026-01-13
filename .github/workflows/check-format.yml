@@ -1,6 +1,7 @@
 name: Check format
 
 on:
+  push:
   pull-request:
     branches: [ main ]
 
