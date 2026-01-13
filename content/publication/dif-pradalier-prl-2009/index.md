@@ -6,7 +6,7 @@ title: 'Interplay between Gyrokinetic Turbulence, Flows, and Collisions: Perspec
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Virginie Grandgirard
 - Yanick Sarazin
 - X. Garbet

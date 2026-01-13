@@ -14,7 +14,7 @@ authors:
 - I. Novikau
 - Y. Asahi
 - E. Caschera
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. Donnel
 - Ph. Ghendrih
 - C. Gillot

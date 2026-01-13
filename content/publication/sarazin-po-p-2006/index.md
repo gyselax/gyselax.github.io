@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Yanick Sarazin
 - Virginie Grandgirard
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - Ph. Ghendrih
 tags: []

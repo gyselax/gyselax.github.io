@@ -5,7 +5,7 @@ title: Finding the Elusive ExB Staircase in Magnetised Plasmas
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - G. Hornung
 - Ph. Ghendrih
 - Yanick Sarazin

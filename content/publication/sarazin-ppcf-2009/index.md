@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yanick Sarazin
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - D. Zarzoso
 - X. Garbet
 - Ph. Ghendrih

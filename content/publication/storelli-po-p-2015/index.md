@@ -10,7 +10,7 @@ authors:
 - L. Vermare
 - P. Hennequin
 - Ö. Gürcan
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Yanick Sarazin
 - X. Garbet
 - T. Görler

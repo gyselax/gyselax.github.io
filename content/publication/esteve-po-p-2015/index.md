@@ -10,7 +10,7 @@ authors:
 - Yanick Sarazin
 - Virginie Grandgirard
 - T. Cartier-Michaud
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. Ghendrih
 - ' G.Latu'
 - C. Norscini

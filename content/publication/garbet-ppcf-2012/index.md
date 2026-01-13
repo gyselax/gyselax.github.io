@@ -9,7 +9,7 @@ authors:
 - J. Abiteboul
 - A. Strugarek
 - Yanick Sarazin
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Ph. Ghendrih
 - Virginie Grandgirard
 - C. Bourdelle

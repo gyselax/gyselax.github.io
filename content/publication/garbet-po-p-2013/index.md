@@ -10,7 +10,7 @@ authors:
 - Yanick Sarazin
 - J. Abiteboul
 - C. Bourdelle
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. Ghendrih
 - Virginie Grandgirard
 - G. Latu

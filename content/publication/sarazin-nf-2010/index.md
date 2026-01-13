@@ -13,7 +13,7 @@ authors:
 - Ph. Ghendrih
 - G. Latu
 - A. Strugarek
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 tags: []
 categories: []
 date: '2010-01-01'

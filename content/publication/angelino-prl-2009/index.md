@@ -14,7 +14,7 @@ authors:
 - Virginie Grandgirard
 - B. F. McMillan
 - Yanick Sarazin
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - T. M. Tran
 tags: []
 categories: []

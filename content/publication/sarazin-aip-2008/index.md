@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - P. Angelino
 - A. Casati
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - Ph. Ghendrih
 - O. Gürcan

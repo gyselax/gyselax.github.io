@@ -10,7 +10,7 @@ authors:
 - P. Hennequin
 - V. Berionni
 - P. H. Diamond
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - P. Ghendrih
 - Virginie Grandgirard

@@ -5,7 +5,7 @@ title: On the influence of initial state on gyrokinetic simulations
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Virginie Grandgirard
 - Yanick Sarazin
 - X. Garbet

@@ -14,7 +14,7 @@ authors:
 - P. Donnel
 - Y. Asahi
 - C. Bourdelle
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - C. Ehrlacher
 - C. Emeriau
 - P. Ghendrih

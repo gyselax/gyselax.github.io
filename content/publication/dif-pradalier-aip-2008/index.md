@@ -6,7 +6,7 @@ title: Gyrokinetic simulations of neoclassical transport using a minimal collisi
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Virginie Grandgirard
 - Yanick Sarazin
 - X. Garbet

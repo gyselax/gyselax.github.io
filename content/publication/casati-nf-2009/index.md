@@ -11,7 +11,7 @@ authors:
 - F. Imbeaux
 - J. Candy
 - F. Clairet
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - G. Falchetto
 - T. Gerbaud
 - Virginie Grandgirard

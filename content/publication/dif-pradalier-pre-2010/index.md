@@ -5,7 +5,7 @@ title: On the validity of the local diffusive paradigm in turbulent plasma trans
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. H. Diamond
 - Virginie Grandgirard
 - Yanick Sarazin

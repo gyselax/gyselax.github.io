@@ -12,7 +12,7 @@ authors:
 - A. Strugarek
 - J. Abiteboul
 - T. Cartier-Michaud
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Ph. Ghendrih
 - J-B. Girardo
 - Virginie Grandgirard

@@ -12,7 +12,7 @@ authors:
 - Y. Asahi
 - ' F.Wilczynsky'
 - E. Caschera
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. Ghendrih
 - C. Gillot
 tags: []

@@ -5,7 +5,7 @@ title: The EXB staircase of magnetised plasmas
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - G. Hornung
 - X. Garbet
 - Ph. Ghendrih

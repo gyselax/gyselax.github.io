@@ -11,7 +11,7 @@ authors:
 - J. Bigot
 - T. Cartier-Michaud
 - N. Crouseilles
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Ch. Ehrlacher
 - D. Esteve
 - X. Garbet

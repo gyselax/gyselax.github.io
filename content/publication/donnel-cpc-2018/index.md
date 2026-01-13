@@ -13,7 +13,7 @@ authors:
 - Y. Asahi
 - N. Bouzat
 - E. Caschera
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Ch. Ehrlacher
 - Ph. Ghendrih
 tags:

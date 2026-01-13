@@ -11,7 +11,7 @@ authors:
 - A. Bottino
 - N. Crouseilles
 - G. Darmet
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - Ph. Ghendrih
 - S. Jolliet

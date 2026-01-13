@@ -13,7 +13,7 @@ authors:
 - Ph. Ghendrih
 - G. Latu
 - A. Strugarek
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. H. Diamond
 - S. Ku
 - C. S. Chang

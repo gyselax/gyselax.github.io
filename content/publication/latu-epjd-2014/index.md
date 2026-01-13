@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - J. Abiteboul
 - N. Crouseilles
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - P. Ghendrih
 - M. Mehrenberger

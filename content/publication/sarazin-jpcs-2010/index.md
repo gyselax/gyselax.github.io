@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Yanick Sarazin
 - A. Strugarek
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - J. Abiteboul
 - S. Allfrey
 - X. Garbet

@@ -12,7 +12,7 @@ authors:
 - J. Abiteboul
 - A. S. Brun
 - T. Cartier-Michaud
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - Ph. Ghendrih
 - Virginie Grandgirard

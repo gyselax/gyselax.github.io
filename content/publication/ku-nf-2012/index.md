@@ -8,7 +8,7 @@ authors:
 - S. Ku
 - J. Abiteboul
 - P. H. Diamond
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - J. M. Kwon
 - Yanick Sarazin
 - T. S. Hahm

@@ -5,7 +5,7 @@ title: 'Defining an equilibrium state in global full-f gyrokinetic models '
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - Virginie Grandgirard
 - Yanick Sarazin
 - X. Garbet

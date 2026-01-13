@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - X. Garbet
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - C. Nguyen
 - Yanick Sarazin
 - Virginie Grandgirard

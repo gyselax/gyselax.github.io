@@ -10,7 +10,7 @@ authors:
 - Ph. Ghendrih
 - Virginie Grandgirard
 - T. Cartier-Michaud
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - X. Garbet
 - G. Latu
 - Ch. Passeron

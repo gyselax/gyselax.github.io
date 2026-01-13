@@ -8,7 +8,7 @@ authors:
 - G. Latu
 - Virginie Grandgirard
 - N. Crouseilles
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 tags:
 - '"Quasineutrality solver"'
 - '"Gyrokinetics"'
