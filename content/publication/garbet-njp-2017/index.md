@@ -12,7 +12,7 @@ authors:
 - G Dif-Pradalier
 - P Ghendrih
 - Virginie Grandgirard
-- Y Sarazin
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2017-01-01'

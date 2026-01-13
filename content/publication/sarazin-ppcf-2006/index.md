@@ -5,7 +5,7 @@ title: Impact of large scale flows on turbulent transport
 subtitle: ''
 summary: ''
 authors:
-- Y Sarazin
+- Yanick Sarazin
 - Virginie Grandgirard
 - G Dif-Pradalier
 - E Fleurence
