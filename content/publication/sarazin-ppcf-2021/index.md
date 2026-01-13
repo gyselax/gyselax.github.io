@@ -5,7 +5,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yanick Sarazin
-- "G. Dif\u2010Pradalier"
+- Guilhem Dif-Pradalier"
 - Xavier Garbet
 - Philippe Ghendrih
 - Alexandre R. Berger
