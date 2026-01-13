@@ -9,7 +9,7 @@ authors:
 - M. Lesur
 - Yanick Sarazin
 - Xavier Garbet
-- L. Vermare
+- Laure Vermare
 - Kyungtak Lim
 - Alejandro Guillevic
 - Virginie Grandgirard

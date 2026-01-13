@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ö. D. Gürcan
-- L. Vermare
+- Laure Vermare
 - P. Hennequin
 - V. Berionni
 - P. H. Diamond

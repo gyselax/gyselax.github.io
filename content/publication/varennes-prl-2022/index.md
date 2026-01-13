@@ -3,9 +3,9 @@ title: Synergy of Turbulent Momentum Drive and Magnetic Braking
 subtitle: ''
 summary: ''
 authors:
-- R Varennes
+- Robin Varennes
 - Xavier Garbet
-- L. Vermare
+- Laure Vermare
 - Yanick Sarazin
 - "G. Dif\u2010Pradalier"
 - Virginie Grandgirard

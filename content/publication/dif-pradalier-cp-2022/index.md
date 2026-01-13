@@ -13,7 +13,7 @@ authors:
 - Xavier Garbet
 - Virginie Grandgirard
 - Yann Munschy
-- L. Vermare
+- Laure Vermare
 - Fabien Widmer
 tags: []
 categories: []

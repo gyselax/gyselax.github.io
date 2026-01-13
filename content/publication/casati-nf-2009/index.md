@@ -12,7 +12,7 @@ authors:
 - J. Candy
 - F. Clairet
 - Guilhem Dif-Pradalier
-- G. Falchetto
+- Gloria Falchetto
 - T. Gerbaud
 - Virginie Grandgirard
 - Ö. D. Gürcan
@@ -21,7 +21,7 @@ authors:
 - M. Ottaviani
 - R. Sabot
 - Yanick Sarazin
-- L. Vermare
+- Laure Vermare
 - R. E. Waltz
 tags: []
 categories: []

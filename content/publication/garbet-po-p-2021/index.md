@@ -5,13 +5,13 @@ summary: ''
 authors:
 - Xavier Garbet
 - Olivier Panico
-- R Varennes
-- C. Gillot
+- Robin Varennes
+- Camille Gillot
 - "G. Dif\u2010Pradalier"
 - Yanick Sarazin
 - Virginie Grandgirard
 - Philippe Ghendrih
-- L. Vermare
+- Laure Vermare
 tags: []
 categories: []
 date: '2021-04-01'

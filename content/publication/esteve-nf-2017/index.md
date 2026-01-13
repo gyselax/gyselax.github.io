@@ -18,7 +18,7 @@ authors:
 - C. Ehrlacher
 - C. Emeriau
 - P. Ghendrih
-- C. Gillot
+- Camille Gillot
 - G. Latu
 - C. Passeron
 tags: []

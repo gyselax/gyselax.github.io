@@ -3,7 +3,7 @@ title: The problem of capturing marginality in model reductions of turbulence
 subtitle: ''
 summary: ''
 authors:
-- C. Gillot
+- Camille Gillot
 - "G. Dif\u2010Pradalier"
 - Yanick Sarazin
 - C. Bourdelle

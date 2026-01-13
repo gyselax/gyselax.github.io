@@ -12,7 +12,7 @@ authors:
 - A. Casati
 - F. Clairet
 - N. Dubuit
-- G. Falchetto
+- Gloria Falchetto
 - C. Fenzi
 - S. Futatani
 - Virginie Grandgirard
@@ -27,7 +27,7 @@ authors:
 - J. L. Segui
 - A. Smolyakov
 - E. Trier
-- L. Vermare
+- Laure Vermare
 - D. Villegas
 tags: []
 categories: []

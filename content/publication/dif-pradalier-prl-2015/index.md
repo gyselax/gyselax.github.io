@@ -10,7 +10,7 @@ authors:
 - Philippe Ghendrih
 - Yanick Sarazin
 - F. Clairet
-- L. Vermare
+- Laure Vermare
 - P. H. Diamond
 - J. Abiteboul
 - T. Cartier-Michaud

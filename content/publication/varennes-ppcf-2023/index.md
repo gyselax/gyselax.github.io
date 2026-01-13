@@ -3,9 +3,9 @@ title: Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simu
 subtitle: ''
 summary: ''
 authors:
-- R Varennes
+- Robin Varennes
 - Xavier Garbet
-- L. Vermare
+- Laure Vermare
 - Yanick Sarazin
 - "G. Dif\u2010Pradalier"
 - Virginie Grandgirard

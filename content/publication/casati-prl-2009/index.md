@@ -21,7 +21,7 @@ authors:
 - F. Imbeaux
 - R. Sabot
 - Yanick Sarazin
-- L. Vermare
+- Laure Vermare
 - R. E. Waltz
 tags: []
 categories: []

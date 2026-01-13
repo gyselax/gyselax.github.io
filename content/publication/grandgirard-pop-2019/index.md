@@ -17,7 +17,7 @@ authors:
 - Guilhem Dif-Pradalier
 - P. Donnel
 - Philippe Ghendrih
-- C. Gillot
+- Camille Gillot
 - G. Latu
 - Ch. Passeron
 - Yanick Sarazin

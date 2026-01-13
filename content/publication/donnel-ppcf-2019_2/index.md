@@ -12,7 +12,7 @@ authors:
 - E. Caschera
 - "G. Dif\u2010Pradalier"
 - Philippe Ghendrih
-- C. Gillot
+- Camille Gillot
 - Guillaume Latu
 - C. Passeron
 tags: []

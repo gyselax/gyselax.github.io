@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Storelli
-- L. Vermare
+- Laure Vermare
 - P. Hennequin
 - Ö. Gürcan
 - Guilhem Dif-Pradalier

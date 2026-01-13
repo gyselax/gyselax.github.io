@@ -4,8 +4,8 @@ title: "Safety factor influence on the edge <i>E</i> \xD7 <i>B</i> velocity esta
 subtitle: ''
 summary: ''
 authors:
-- R Varennes
-- L. Vermare
+- Robin Varennes
+- Laure Vermare
 - Xavier Garbet
 - P. Hennequin
 - "G. Dif\u2010Pradalier"

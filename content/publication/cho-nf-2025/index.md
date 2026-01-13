@@ -5,7 +5,7 @@ summary: ''
 authors:
 - Y.W. Cho
 - Xavier Garbet
-- R Varennes
+- Robin Varennes
 - Zhisong Qu
 - Peter Donnel
 - Kevin Obrejan

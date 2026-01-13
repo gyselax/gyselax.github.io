@@ -17,7 +17,7 @@ authors:
 - Y Munschy
 - K Obrejan
 - Ch. Passeron
-- R Varennes
+- Robin Varennes
 - Yanick Sarazin
 tags: []
 categories: []

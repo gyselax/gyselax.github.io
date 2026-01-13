@@ -14,7 +14,7 @@ authors:
 - E. Caschera
 - Guilhem Dif-Pradalier
 - P. Ghendrih
-- C. Gillot
+- Camille Gillot
 tags: []
 categories: []
 date: '2019-01-01'

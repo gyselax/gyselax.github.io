@@ -9,7 +9,7 @@ authors:
 - Philippe Ghendrih
 - S. Benkadda
 - P. Beyer
-- G. Falchetto
+- Gloria Falchetto
 - C. Figarella
 - Xavier Garbet
 - Virginie Grandgirard

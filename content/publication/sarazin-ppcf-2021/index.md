@@ -9,11 +9,11 @@ authors:
 - Xavier Garbet
 - Philippe Ghendrih
 - Alexandre R. Berger
-- C. Gillot
+- Camille Gillot
 - Virginie Grandgirard
 - Kevin Obrejan
-- R Varennes
-- L. Vermare
+- Robin Varennes
+- Laure Vermare
 - Thomas Cartier-Michaud
 tags: []
 categories: []
