@@ -1,8 +1,7 @@
 name: Check format
 
 on:
-  push:
-  pull-request:
+  pull_request:
     branches: [ main ]
 
 jobs:
