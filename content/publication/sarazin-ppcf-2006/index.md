@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - Guilhem Dif-Pradalier
 - E Fleurence
-- X Garbet
+- Xavier Garbet
 - Ph Ghendrih
 - P Bertrand
 - N Besse

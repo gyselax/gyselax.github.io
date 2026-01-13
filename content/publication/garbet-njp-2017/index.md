@@ -5,7 +5,7 @@ title: Impact of poloidal convective cells on momentum flux in tokamaks
 subtitle: ''
 summary: ''
 authors:
-- X Garbet
+- Xavier Garbet
 - Y Asahi
 - P Donnel
 - C Ehrlacher
