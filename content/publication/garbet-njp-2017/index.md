@@ -9,7 +9,7 @@ authors:
 - Y Asahi
 - P Donnel
 - C Ehrlacher
-- G Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P Ghendrih
 - Virginie Grandgirard
 - Yanick Sarazin
