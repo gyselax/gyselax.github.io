@@ -17,7 +17,7 @@ authors:
 - Xavier Garbet
 - Philippe Ghendrih
 - G. Latu
-- M. Mehrenberger
+- Michel Mehrenberger
 - C. Norscini
 - Ch. Passeron
 - F. Rozar

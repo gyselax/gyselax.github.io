@@ -13,7 +13,7 @@ authors:
 - N. Crouseilles
 - Xavier Garbet
 - Philippe Ghendrih
-- M. Mehrenberger
+- Michel Mehrenberger
 - Yanick Sarazin
 - H. Sellama
 - E. Sonnendrücker

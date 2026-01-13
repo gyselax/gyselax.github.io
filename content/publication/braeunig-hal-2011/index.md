@@ -10,7 +10,7 @@ authors:
 - N. Crouseilles
 - Virginie Grandgirard
 - G. Latu
-- M. Mehrenberger
+- Michel Mehrenberger
 - E. Sonnendrücker
 tags:
 - '"plasma turbulence ; maximum principle ; conservative scheme ; numerical simulation"'

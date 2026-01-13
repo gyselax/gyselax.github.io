@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ch. Steiner
-- M. Mehrenberger
+- Michel Mehrenberger
 - N. Crouseilles
 - Virginie Grandgirard
 - G. Latu

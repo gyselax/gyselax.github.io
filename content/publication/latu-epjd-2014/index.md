@@ -12,7 +12,7 @@ authors:
 - Guilhem Dif-Pradalier
 - Xavier Garbet
 - Philippe Ghendrih
-- M. Mehrenberger
+- Michel Mehrenberger
 - E. Sonnendrücker
 - Yanick Sarazin
 tags: []

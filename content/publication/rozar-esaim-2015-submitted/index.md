@@ -7,7 +7,7 @@ summary: ''
 authors:
 - F. Rozar
 - Ch. Latu, G. Steiner
-- M. Mehrenberger
+- Michel Mehrenberger
 - Virginie Grandgirard
 - Julien Bigot
 - T. Cartier-Michaud
