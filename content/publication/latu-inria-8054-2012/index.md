@@ -12,7 +12,7 @@ authors:
 - M. Bergot
 - N. Crouseilles
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - M. Mehrenberger
 - Yanick Sarazin
 - H. Sellama

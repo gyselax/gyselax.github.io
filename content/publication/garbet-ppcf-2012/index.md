@@ -10,7 +10,7 @@ authors:
 - A. Strugarek
 - Yanick Sarazin
 - Guilhem Dif-Pradalier
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - C. Bourdelle
 - G. Latu

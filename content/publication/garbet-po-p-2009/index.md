@@ -10,7 +10,7 @@ authors:
 - C. Nguyen
 - Yanick Sarazin
 - Virginie Grandgirard
-- Ph. Ghendrih
+- Philippe Ghendrih
 tags: []
 categories: []
 date: '2009-01-01'

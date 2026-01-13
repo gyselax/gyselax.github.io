@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. Abiteboul
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier

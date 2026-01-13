@@ -12,7 +12,7 @@ authors:
 - J. Citrin
 - A. Di Siena
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - P. Manas
 - Fabien Widmer

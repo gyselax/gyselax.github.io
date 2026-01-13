@@ -15,7 +15,7 @@ authors:
 - Ch. Ehrlacher
 - D. Esteve
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - G. Latu
 - M. Mehrenberger
 - C. Norscini

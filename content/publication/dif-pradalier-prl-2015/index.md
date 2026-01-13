@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Guilhem Dif-Pradalier
 - G. Hornung
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Yanick Sarazin
 - F. Clairet
 - L. Vermare

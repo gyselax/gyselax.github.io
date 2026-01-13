@@ -10,7 +10,7 @@ authors:
 - L. Villard
 - A. Bottino
 - S. Jolliet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - B. F. McMillan
 - Yanick Sarazin

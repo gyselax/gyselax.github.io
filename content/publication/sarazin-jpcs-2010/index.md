@@ -12,7 +12,7 @@ authors:
 - J. Abiteboul
 - S. Allfrey
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - G. Latu
 tags: []

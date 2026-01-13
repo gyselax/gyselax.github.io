@@ -10,7 +10,7 @@ authors:
 - J. Abiteboul
 - S. Allfrey
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - G. Latu
 - A. Strugarek
 - Guilhem Dif-Pradalier

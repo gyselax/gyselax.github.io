@@ -10,7 +10,7 @@ authors:
 - Yanick Sarazin
 - Xavier Garbet
 - Guilhem Dif-Pradalier
-- Ph. Ghendrih
+- Philippe Ghendrih
 - N. Crouseilles
 - G. Latu
 - E. Sonnendrücker

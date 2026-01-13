@@ -13,7 +13,7 @@ authors:
 - G. Darmet
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - S. Jolliet
 - G. Latu
 - E. Sonnendrücker

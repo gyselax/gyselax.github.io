@@ -10,7 +10,7 @@ authors:
 - Virginie Grandgirard
 - Yanick Sarazin
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 tags: []
 categories: []
 date: '2009-08-01'

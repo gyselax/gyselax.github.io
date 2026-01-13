@@ -15,7 +15,7 @@ authors:
 - E. Caschera
 - Guilhem Dif-Pradalier
 - Ch. Ehrlacher
-- Ph. Ghendrih
+- Philippe Ghendrih
 tags:
 - '"Collision"'
 - '"Multispecies"'

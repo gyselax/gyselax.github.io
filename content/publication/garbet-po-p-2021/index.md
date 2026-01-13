@@ -10,7 +10,7 @@ authors:
 - "G. Dif\u2010Pradalier"
 - Yanick Sarazin
 - Virginie Grandgirard
-- Ph. Ghendrih
+- Philippe Ghendrih
 - L. Vermare
 tags: []
 categories: []

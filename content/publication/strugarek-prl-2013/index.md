@@ -14,7 +14,7 @@ authors:
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - G. Latu
 - Ch. Passeron

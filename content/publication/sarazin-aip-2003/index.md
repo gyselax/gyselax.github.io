@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yanick Sarazin
-- Ph. Ghendrih
+- Philippe Ghendrih
 - S. Benkadda
 - P. Beyer
 - G. Falchetto

@@ -11,7 +11,7 @@ authors:
 - Yanick Sarazin
 - J. Abiteboul
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - G. Latu
 - A. Strugarek
 - S. Ku

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yanick Sarazin
-- Ph. Ghendrih
+- Philippe Ghendrih
 - G. Attuel
 - C. Clément
 - Xavier Garbet

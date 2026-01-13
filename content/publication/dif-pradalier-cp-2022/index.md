@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - "G. Dif\u2010Pradalier"
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Yanick Sarazin
 - E. Caschera
 - F. Clairet

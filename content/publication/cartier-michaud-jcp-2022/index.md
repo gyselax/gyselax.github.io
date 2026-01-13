@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Thomas Cartier-Michaud
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - "\xC9. Serre"
 tags: []

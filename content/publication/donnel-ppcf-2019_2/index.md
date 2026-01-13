@@ -11,7 +11,7 @@ authors:
 - Nicolas Bouzat
 - E. Caschera
 - "G. Dif\u2010Pradalier"
-- Ph. Ghendrih
+- Philippe Ghendrih
 - C. Gillot
 - Guillaume Latu
 - C. Passeron

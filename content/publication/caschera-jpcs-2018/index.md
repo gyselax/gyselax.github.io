@@ -5,7 +5,7 @@ summary: ''
 authors:
 - E. Caschera
 - "G. Dif\u2010Pradalier"
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - Yuuichi Asahi
 - Nicolas Bouzat

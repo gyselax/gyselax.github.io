@@ -16,7 +16,7 @@ authors:
 - C. S. Chang
 - G. Latu
 - E. S. Yoon
-- Ph. Ghendrih
+- Philippe Ghendrih
 - S. Yi
 - A. Strugarek
 - W. Solomon

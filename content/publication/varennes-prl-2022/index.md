@@ -9,7 +9,7 @@ authors:
 - Yanick Sarazin
 - "G. Dif\u2010Pradalier"
 - Virginie Grandgirard
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Peter Donnel
 - M. Peret
 - Kevin Obrejan

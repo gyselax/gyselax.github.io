@@ -9,7 +9,7 @@ authors:
 - Guilhem Dif-Pradalier
 - D. Zarzoso
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 tags: []
 categories: []

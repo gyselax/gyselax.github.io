@@ -7,7 +7,7 @@ authors:
 - Yanick Sarazin
 - "G. Dif\u2010Pradalier"
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Alexandre R. Berger
 - C. Gillot
 - Virginie Grandgirard

@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - Yanick Sarazin
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 tags:
 - '"Tokamak plasma"'
 categories: []

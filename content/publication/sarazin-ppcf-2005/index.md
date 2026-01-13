@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - E. Fleurence
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - P. Bertrand
 - G. Depret
 tags: []

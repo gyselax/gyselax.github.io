@@ -10,7 +10,7 @@ authors:
 - "G. Dif\u2010Pradalier"
 - Peter Donnel
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - "Yaman G\xFC\xE7l\xFC"
 - Katharina Kormann
 - D. Midou

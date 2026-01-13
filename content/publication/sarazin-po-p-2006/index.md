@@ -9,7 +9,7 @@ authors:
 - Virginie Grandgirard
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 tags: []
 categories: []
 date: '2006-01-01'

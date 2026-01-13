@@ -11,7 +11,7 @@ authors:
 - A. Casati
 - Guilhem Dif-Pradalier
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - O. Gürcan
 - P. Hennequin
 - R. Sabot

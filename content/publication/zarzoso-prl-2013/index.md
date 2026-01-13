@@ -13,7 +13,7 @@ authors:
 - J. Abiteboul
 - T. Cartier-Michaud
 - Guilhem Dif-Pradalier
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - G. Latu
 - Ch. Passeron

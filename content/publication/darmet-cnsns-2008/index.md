@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - G. Darmet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Yanick Sarazin
 - Xavier Garbet
 - Virginie Grandgirard

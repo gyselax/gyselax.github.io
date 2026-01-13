@@ -10,7 +10,7 @@ authors:
 - Guilhem Dif-Pradalier
 - E Fleurence
 - Xavier Garbet
-- Ph Ghendrih
+- Philippe Ghendrih
 - P Bertrand
 - N Besse
 - N Crouseilles

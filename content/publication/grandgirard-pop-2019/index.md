@@ -16,7 +16,7 @@ authors:
 - E. Caschera
 - Guilhem Dif-Pradalier
 - P. Donnel
-- Ph. Ghendrih
+- Philippe Ghendrih
 - C. Gillot
 - G. Latu
 - Ch. Passeron

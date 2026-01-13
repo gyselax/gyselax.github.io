@@ -11,7 +11,7 @@ authors:
 - A. Smolyakov
 - S. Allfrey
 - Virginie Grandgirard
-- Ph. Ghendrih
+- Philippe Ghendrih
 - G. Latu
 - A. Strugarek
 tags: []

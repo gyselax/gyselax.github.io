@@ -8,7 +8,7 @@ authors:
 - Guilhem Dif-Pradalier
 - G. Hornung
 - Xavier Garbet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - Virginie Grandgirard
 - G. Latu
 - Yanick Sarazin
