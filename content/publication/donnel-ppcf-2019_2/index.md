@@ -10,7 +10,7 @@ authors:
 - Virginie Grandgirard
 - Nicolas Bouzat
 - E. Caschera
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Philippe Ghendrih
 - Camille Gillot
 - Guillaume Latu

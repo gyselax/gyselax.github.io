@@ -3,7 +3,7 @@ title: Transport barrier onset and edge turbulence shortfall in fusion plasmas
 subtitle: ''
 summary: ''
 authors:
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Philippe Ghendrih
 - Yanick Sarazin
 - E. Caschera

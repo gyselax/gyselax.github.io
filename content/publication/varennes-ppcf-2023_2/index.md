@@ -8,7 +8,7 @@ authors:
 - Laure Vermare
 - Xavier Garbet
 - P. Hennequin
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Yanick Sarazin
 - Virginie Grandgirard
 - Olivier Panico

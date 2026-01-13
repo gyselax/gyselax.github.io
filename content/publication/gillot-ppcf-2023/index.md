@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Camille Gillot
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Yanick Sarazin
 - C. Bourdelle
 - "A. Ba\xF1\xF3n Navarro"

@@ -7,7 +7,7 @@ authors:
 - A Medvedeva
 - F. Clairet
 - S. Hacquin
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 tags: []
 categories: []
 date: '2025-02-12'

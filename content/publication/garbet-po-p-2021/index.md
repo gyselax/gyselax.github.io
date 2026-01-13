@@ -7,7 +7,7 @@ authors:
 - Olivier Panico
 - Robin Varennes
 - Camille Gillot
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Yanick Sarazin
 - Virginie Grandgirard
 - Philippe Ghendrih

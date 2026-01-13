@@ -7,7 +7,7 @@ authors:
 - Yuuichi Asahi
 - Julien Bigot
 - E. Bourne
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Peter Donnel
 - Xavier Garbet
 - Philippe Ghendrih

@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - E. Caschera
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Philippe Ghendrih
 - Virginie Grandgirard
 - Yuuichi Asahi

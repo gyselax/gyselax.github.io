@@ -7,7 +7,7 @@ authors:
 - Xavier Garbet
 - Laure Vermare
 - Yanick Sarazin
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Virginie Grandgirard
 - Philippe Ghendrih
 - Peter Donnel

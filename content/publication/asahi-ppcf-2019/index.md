@@ -10,7 +10,7 @@ authors:
 - Peter Donnel
 - Xavier Garbet
 - Yasuhiro Idomura
-- "G. Dif\u2010Pradalier"
+- "Guilhem Dif-Pradalier"
 - Guillaume Latu
 tags: []
 categories: []
