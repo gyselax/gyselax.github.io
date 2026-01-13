@@ -42,7 +42,7 @@ for publication_folder in (home / "content/publication").iterdir():
                     message = "Full names should be used to facilitate linking to staff member pages"
                     print(f"::warning file={file.relative_to(home)},line={line},endLine={endLine},title={title}::{message}")
                     failure = True
-                if probable_names:
+                if probable_names and a.lower().replace(' ','-') != probable_names[0]:
                     print("Author should probably link to permanent staff member", file=sys.stderr)
                     print(f"{a} -> {probable_names}", file=sys.stderr)
                     print(f"", file=sys.stderr)
