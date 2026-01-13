@@ -7,19 +7,19 @@ subtitle: ''
 summary: ''
 authors:
 - D. Estève
-- Y. Sarazin
-- X. Garbet
-- V. Grandgirard
+- Yanick Sarazin
+- Xavier Garbet
+- Virginie Grandgirard
 - S. Breton
-- P. Donnel
-- Y. Asahi
+- Peter Donnel
+- Yuuichi Asahi
 - C. Bourdelle
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - C. Ehrlacher
 - C. Emeriau
-- P. Ghendrih
-- C. Gillot
-- G. Latu
+- Philippe Ghendrih
+- Camille Gillot
+- Guillaume Latu
 - C. Passeron
 tags: []
 categories: []
@@ -46,7 +46,7 @@ publishDate: '2021-03-18T22:39:05.833910Z'
 publication_types:
 - '2'
 abstract: Abstract Trace impurity transport is studied with the flux-driven gyrokinetic
-  GYSELA code [V. Grandgirard et al., emphComp. Phys. Commun. bf 207, 35 (2016)].
+  GYSELA code [Virginie Grandgirard et al., emphComp. Phys. Commun. bf 207, 35 (2016)].
   A reduced and linearized multi-species collision operator has been recently implemented,
   so that both neoclassical and turbulent transport channels can be treated self-consistently
   on an equal footing. In the Pfirsch-Schlüter regime likely relevant for tungsten,

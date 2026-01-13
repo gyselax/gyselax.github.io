@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - F. Palermo
-- X. Garbet
+- Xavier Garbet
 - A. Ghizzo
 - T. Cartier-Michaud
-- P. Ghendrih
-- V. Grandgirard
-- Y. Sarazin
+- Philippe Ghendrih
+- Virginie Grandgirard
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2015-01-01'

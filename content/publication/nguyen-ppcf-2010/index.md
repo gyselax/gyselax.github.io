@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - C Nguyen
-- X Garbet
-- V Grandgirard
+- Xavier Garbet
+- Virginie Grandgirard
 - J Decker
 - Z Guimarães-Filho
 - M Lesur

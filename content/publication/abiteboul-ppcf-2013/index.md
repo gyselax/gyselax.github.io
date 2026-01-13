@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - J. Abiteboul
-- Ph. Ghendrih
-- V. Grandgirard
+- Philippe Ghendrih
+- Virginie Grandgirard
 - T. Cartier-Michaud
-- G. Dif-Pradalier
-- X. Garbet
-- G. Latu
+- Guilhem Dif-Pradalier
+- Xavier Garbet
+- Guillaume Latu
 - Ch. Passeron
-- Y. Sarazin
+- Yanick Sarazin
 - A. Strugarek
 - O. Thomine
 - D. Zarzoso

@@ -12,19 +12,19 @@ authors:
 - J. Chowdhury
 - T. Dannert
 - R. Ganesh
-- X. Garbet
+- Xavier Garbet
 - T. Görler
-- V. Grandgirard
+- Virginie Grandgirard
 - R. Hatzky
 - Y. Idomura
 - F. Jenko
 - S. Jolliet
 - S. Khosh Aghdam
 - X. Lapillonne
-- G. Latu
+- Guillaume Latu
 - B. F. McMillan
 - F. Merz
-- Y. Sarazin
+- Yanick Sarazin
 - T. M. Tran
 - T. Vernay
 tags: []

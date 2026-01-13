@@ -6,17 +6,17 @@ subtitle: ''
 summary: ''
 authors:
 - Ö. D. Gürcan
-- L. Vermare
+- Laure Vermare
 - P. Hennequin
 - V. Berionni
 - P. H. Diamond
-- G. Dif-Pradalier
-- X. Garbet
-- P. Ghendrih
-- V. Grandgirard
+- Guilhem Dif-Pradalier
+- Xavier Garbet
+- Philippe Ghendrih
+- Virginie Grandgirard
 - C. J. McDevitt
 - P. Morel
-- Y. Sarazin
+- Yanick Sarazin
 - A. Storelli
 - C. Bourdelle
 - the Tore Supra Team

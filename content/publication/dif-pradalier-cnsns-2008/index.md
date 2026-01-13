@@ -5,11 +5,11 @@ title: 'Defining an equilibrium state in global full-f gyrokinetic models '
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
-- V. Grandgirard
-- Y. Sarazin
-- X. Garbet
-- Ph. Ghendrih
+- Guilhem Dif-Pradalier
+- Virginie Grandgirard
+- Yanick Sarazin
+- Xavier Garbet
+- Philippe Ghendrih
 tags:
 - '"Tokamak plasma"'
 categories: []

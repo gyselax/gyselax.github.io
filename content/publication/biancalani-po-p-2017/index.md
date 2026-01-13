@@ -9,12 +9,12 @@ authors:
 - A. Biancalani
 - A. Bottino
 - C. Ehrlacher
-- V. Grandgirard
+- Virginie Grandgirard
 - G. Merlo
 - I. Novikau
 - Z. Qiu
-- E. Sonnendrücker
-- X. Garbet
+- Eric Sonnendrücker
+- Xavier Garbet
 - T. Goerler
 - S. Leerink
 - F. Palermo
