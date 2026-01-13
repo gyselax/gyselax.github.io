@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Xavier Garbet
 - Y Asahi
-- P Donnel
+- Peter Donnel
 - C Ehrlacher
 - Guilhem Dif-Pradalier
 - Philippe Ghendrih

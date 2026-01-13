@@ -6,7 +6,7 @@ title: 'A multi-species collisional operator for full-F global gyrokinetics code
 subtitle: ''
 summary: ''
 authors:
-- P. Donnel
+- Peter Donnel
 - Xavier Garbet
 - Yanick Sarazin
 - Virginie Grandgirard

@@ -6,7 +6,7 @@ title: Turbulent generation of poloidal asymmetries of the electric potential in
 subtitle: ''
 summary: ''
 authors:
-- P. Donnel
+- Peter Donnel
 - Xavier Garbet
 - Yanick Sarazin
 - Y. Asahi

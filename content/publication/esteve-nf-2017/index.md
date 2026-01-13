@@ -11,7 +11,7 @@ authors:
 - Xavier Garbet
 - Virginie Grandgirard
 - S. Breton
-- P. Donnel
+- Peter Donnel
 - Y. Asahi
 - C. Bourdelle
 - Guilhem Dif-Pradalier

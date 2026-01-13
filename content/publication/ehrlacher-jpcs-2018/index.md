@@ -9,7 +9,7 @@ authors:
 - Xavier Garbet
 - Virginie Grandgirard
 - Yanick Sarazin
-- P. Donnel
+- Peter Donnel
 - E. Caschera
 - Philippe Ghendrih
 - D. Zarzoso

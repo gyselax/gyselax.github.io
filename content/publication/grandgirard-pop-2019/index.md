@@ -15,7 +15,7 @@ authors:
 - Y. Asahi
 - E. Caschera
 - Guilhem Dif-Pradalier
-- P. Donnel
+- Peter Donnel
 - Philippe Ghendrih
 - Camille Gillot
 - Guillaume Latu
