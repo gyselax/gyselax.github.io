@@ -36,11 +36,6 @@ for publication_folder in (home / "content/publication").iterdir():
                     print("Full names should be used to facilitate linking to staff member pages", file=sys.stderr)
                     print(f"Found : {a} in {file}", file=sys.stderr)
                     print(f"", file=sys.stderr)
-                    line = next(i for i,l in enumerate(lines) if a in l)
-                    endLine = line
-                    title = f"Full names"
-                    message = "Full names should be used to facilitate linking to staff member pages"
-                    print(f"::warning file={file.relative_to(home)},line={line},endLine={endLine},title={title}::{message}")
                 if probable_names and a.lower().replace(' ','-') != probable_names[0]:
                     print("Author should probably link to permanent staff member", file=sys.stderr)
                     print(f"{a} -> {probable_names}", file=sys.stderr)
