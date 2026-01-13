@@ -12,7 +12,7 @@ authors:
 - A. Biancalani
 - A. Bottino
 - I. Novikau
-- Y. Asahi
+- Yuuichi Asahi
 - E. Caschera
 - Guilhem Dif-Pradalier
 - Peter Donnel

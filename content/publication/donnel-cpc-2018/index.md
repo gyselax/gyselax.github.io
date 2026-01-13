@@ -10,7 +10,7 @@ authors:
 - Xavier Garbet
 - Yanick Sarazin
 - Virginie Grandgirard
-- Y. Asahi
+- Yuuichi Asahi
 - N. Bouzat
 - E. Caschera
 - Guilhem Dif-Pradalier

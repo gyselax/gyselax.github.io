@@ -6,7 +6,7 @@ title: Optimization of Fusion Kernels on Accelerators with Indirect or Strided M
 subtitle: ''
 summary: ''
 authors:
-- Y. Asahi
+- Yuuichi Asahi
 - Guillaume Latu
 - T. Ina
 - Y. Idomura

@@ -12,7 +12,7 @@ authors:
 - Virginie Grandgirard
 - S. Breton
 - Peter Donnel
-- Y. Asahi
+- Yuuichi Asahi
 - C. Bourdelle
 - Guilhem Dif-Pradalier
 - C. Ehrlacher

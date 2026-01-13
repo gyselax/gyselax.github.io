@@ -9,7 +9,7 @@ authors:
 - Peter Donnel
 - Xavier Garbet
 - Yanick Sarazin
-- Y. Asahi
+- Yuuichi Asahi
 - ' F.Wilczynsky'
 - E. Caschera
 - Guilhem Dif-Pradalier

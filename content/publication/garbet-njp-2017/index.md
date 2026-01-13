@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xavier Garbet
-- Y Asahi
+- Yuuichi Asahi
 - Peter Donnel
 - C Ehrlacher
 - Guilhem Dif-Pradalier
