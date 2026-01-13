@@ -6,12 +6,12 @@ title: Optimization of Fusion Kernels on Accelerators with Indirect or Strided M
 subtitle: ''
 summary: ''
 authors:
-- Y. Asahi
-- G. Latu
+- Yuuichi Asahi
+- Guillaume Latu
 - T. Ina
 - Y. Idomura
-- V. Grandgirard
-- X. Garbet
+- Virginie Grandgirard
+- Xavier Garbet
 categories: []
 date: '2017-07-01'
 lastmod: 2021-03-18T23:38:56+01:00

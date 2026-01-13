@@ -5,14 +5,14 @@ title: Entropy production rate in tokamak plasmas with helical magnetic perturba
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - J. Abiteboul
-- Y. Sarazin
+- Yanick Sarazin
 - A. Smolyakov
 - S. Allfrey
-- V. Grandgirard
-- Ph. Ghendrih
-- G. Latu
+- Virginie Grandgirard
+- Philippe Ghendrih
+- Guillaume Latu
 - A. Strugarek
 tags: []
 categories: []

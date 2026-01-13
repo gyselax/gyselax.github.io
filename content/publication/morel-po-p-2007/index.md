@@ -11,10 +11,10 @@ authors:
 - R. Klein
 - A. Ghizzo
 - P. Bertrand
-- X. Garbet
-- P. Ghendrih
-- V. Grandgirard
-- Y. Sarazin
+- Xavier Garbet
+- Philippe Ghendrih
+- Virginie Grandgirard
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2007-01-01'

@@ -3,22 +3,22 @@ title: How to prepare the GYSELA-X code to future exascale edge-core simulations
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - Yuuichi Asahi
 - Julien Bigot
-- E. Bourne
-- "G. Dif\u2010Pradalier"
+- Emily Bourne
+- "Guilhem Dif-Pradalier"
 - Peter Donnel
-- X. Garbet
-- Ph. Ghendrih
+- Xavier Garbet
+- Philippe Ghendrih
 - "Yaman G\xFC\xE7l\xFC"
 - Katharina Kormann
-- D. Midou
-- Y Munschy
-- K Obrejan
+- Dorian Midou
+- Yann Munschy
+- Kevin Obrejan
 - Ch. Passeron
-- R Varennes
-- Y. Sarazin
+- Robin Varennes
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2021-07-05'

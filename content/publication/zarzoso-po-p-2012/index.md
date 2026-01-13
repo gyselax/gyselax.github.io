@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - D. Zarzoso
-- X. Garbet
-- Y. Sarazin
+- Xavier Garbet
+- Yanick Sarazin
 - R. Dumont
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2012-01-01'

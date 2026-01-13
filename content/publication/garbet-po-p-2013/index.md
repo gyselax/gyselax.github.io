@@ -5,15 +5,15 @@ title: Turbulent acceleration and heating in toroidal magnetized plasmas
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - D. Esteve
-- Y. Sarazin
+- Yanick Sarazin
 - J. Abiteboul
 - C. Bourdelle
-- G. Dif-Pradalier
-- P. Ghendrih
-- V. Grandgirard
-- G. Latu
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
+- Virginie Grandgirard
+- Guillaume Latu
 - A. Smolyakov
 tags: []
 categories: []

@@ -5,16 +5,16 @@ title: 'A drift-kinetic Semi-Lagrangian 4D code for ion turbulence simulation '
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - M. Brunetti
 - P. Bertrand
 - N. Besse
-- X. Garbet
-- P. Ghendrih
+- Xavier Garbet
+- Philippe Ghendrih
 - G. Manfredi
-- Y. Sarazin
+- Yanick Sarazin
 - O. Sauter
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - J. Vaclavik
 - L. Villard
 tags:

@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Ch. Steiner
-- M. Mehrenberger
-- N. Crouseilles
-- V. Grandgirard
-- G. Latu
+- Michel Mehrenberger
+- Nicolas Crouseilles
+- Virginie Grandgirard
+- Guillaume Latu
 - F Rozar
 tags: []
 categories: []

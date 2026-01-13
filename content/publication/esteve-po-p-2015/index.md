@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - D. Estève
-- X. Garbet
-- Y. Sarazin
-- V. Grandgirard
+- Xavier Garbet
+- Yanick Sarazin
+- Virginie Grandgirard
 - T. Cartier-Michaud
-- G. Dif-Pradalier
-- P. Ghendrih
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
 - ' G.Latu'
 - C. Norscini
 tags: []

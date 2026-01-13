@@ -5,12 +5,12 @@ title: 'Theoretical understanding of turbulent transport in the SOL '
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- Ph. Ghendrih
+- Yanick Sarazin
+- Philippe Ghendrih
 - G. Attuel
 - C. Clément
-- X. Garbet
-- V. Grandgirard
+- Xavier Garbet
+- Virginie Grandgirard
 - M. Ottaviani
 - S. Benkadda
 - P. Beyer

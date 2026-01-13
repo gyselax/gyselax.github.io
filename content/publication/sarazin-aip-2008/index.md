@@ -5,13 +5,13 @@ title: Turbulence spectra and transport barriers in gyrokinetic simulations
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- V. Grandgirard
+- Yanick Sarazin
+- Virginie Grandgirard
 - P. Angelino
 - A. Casati
-- G. Dif-Pradalier
-- X. Garbet
-- Ph. Ghendrih
+- Guilhem Dif-Pradalier
+- Xavier Garbet
+- Philippe Ghendrih
 - O. Gürcan
 - P. Hennequin
 - R. Sabot

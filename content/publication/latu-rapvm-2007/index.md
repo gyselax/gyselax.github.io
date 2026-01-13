@@ -5,10 +5,10 @@ title: Gyrokinetic Semi-Lagrangian Parallel Simulation using a Hybrid OpenMP/MPI
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
-- N. Crouseilles
-- V. Grandgirard
-- E. Sonnendrücker
+- Guillaume Latu
+- Nicolas Crouseilles
+- Virginie Grandgirard
+- Eric Sonnendrücker
 tags: []
 categories: []
 date: '2007-01-01'

@@ -5,15 +5,15 @@ title: Thermodynamics of neoclassical and turbulent transport
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - J. Abiteboul
 - A. Strugarek
-- Y. Sarazin
-- G. Dif-Pradalier
-- Ph. Ghendrih
-- V. Grandgirard
+- Yanick Sarazin
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
+- Virginie Grandgirard
 - C. Bourdelle
-- G. Latu
+- Guillaume Latu
 - A. Smolyakov
 tags: []
 categories: []

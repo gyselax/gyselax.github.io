@@ -5,15 +5,15 @@ title: Large scale dynamics in flux driven gyrokinetic turbulence
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- V. Grandgirard
+- Yanick Sarazin
+- Virginie Grandgirard
 - J. Abiteboul
 - S. Allfrey
-- X. Garbet
-- Ph. Ghendrih
-- G. Latu
+- Xavier Garbet
+- Philippe Ghendrih
+- Guillaume Latu
 - A. Strugarek
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 tags: []
 categories: []
 date: '2010-01-01'

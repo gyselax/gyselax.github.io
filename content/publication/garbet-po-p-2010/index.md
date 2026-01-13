@@ -5,17 +5,17 @@ title: Entropy production rate in tokamaks with nonaxisymmetric magnetic fields
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - J. Abiteboul
 - E. Trier
 - Ö. Gürcan
-- Y. Sarazin
+- Yanick Sarazin
 - A. Smolyakov
 - S. Allfrey
 - C. Bourdelle
 - C. Fenzi
-- V. Grandgirard
-- P. Ghendrih
+- Virginie Grandgirard
+- Philippe Ghendrih
 - P. Hennequin
 tags: []
 categories: []

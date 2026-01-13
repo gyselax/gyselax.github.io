@@ -7,16 +7,16 @@ summary: ''
 authors:
 - R. J. Dumont
 - D. Zarzoso
-- Y. Sarazin
-- X. Garbet
+- Yanick Sarazin
+- Xavier Garbet
 - A. Strugarek
 - J. Abiteboul
 - T. Cartier-Michaud
-- G. Dif-Pradalier
-- Ph. Ghendrih
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
 - J-B. Girardo
-- V. Grandgirard
-- G. Latu
+- Virginie Grandgirard
+- Guillaume Latu
 - Ch. Passeron
 - O. Thomine
 tags: []

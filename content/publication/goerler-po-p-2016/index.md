@@ -10,9 +10,9 @@ authors:
 - W.A Hornsby
 - R. Kleiber
 - C. Norscini
-- V. Grandgirard
+- Virginie Grandgirard
 - F. Jenko
-- E. Sonnendrücker
+- Eric Sonnendrücker
 tags: []
 categories: []
 date: '2016-01-01'

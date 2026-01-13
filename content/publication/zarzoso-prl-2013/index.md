@@ -6,16 +6,16 @@ subtitle: ''
 summary: ''
 authors:
 - D. Zarzoso
-- Y. Sarazin
-- X. Garbet
+- Yanick Sarazin
+- Xavier Garbet
 - R. Dumont
 - A. Strugarek
 - J. Abiteboul
 - T. Cartier-Michaud
-- G. Dif-Pradalier
-- Ph. Ghendrih
-- V. Grandgirard
-- G. Latu
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
+- Virginie Grandgirard
+- Guillaume Latu
 - Ch. Passeron
 - O. Thomine
 tags: []

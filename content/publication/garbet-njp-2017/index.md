@@ -5,14 +5,14 @@ title: Impact of poloidal convective cells on momentum flux in tokamaks
 subtitle: ''
 summary: ''
 authors:
-- X Garbet
-- Y Asahi
-- P Donnel
+- Xavier Garbet
+- Yuuichi Asahi
+- Peter Donnel
 - C Ehrlacher
-- G Dif-Pradalier
-- P Ghendrih
-- V Grandgirard
-- Y Sarazin
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
+- Virginie Grandgirard
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2017-01-01'

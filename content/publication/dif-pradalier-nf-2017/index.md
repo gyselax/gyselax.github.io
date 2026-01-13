@@ -5,13 +5,13 @@ title: The EXB staircase of magnetised plasmas
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - G. Hornung
-- X. Garbet
-- Ph. Ghendrih
-- V. Grandgirard
-- G. Latu
-- Y. Sarazin
+- Xavier Garbet
+- Philippe Ghendrih
+- Virginie Grandgirard
+- Guillaume Latu
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2017-01-01'

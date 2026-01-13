@@ -5,21 +5,21 @@ title: Beyond scale separation in gyrokinetic turbulence
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
-- Y. Sarazin
-- V. Grandgirard
-- G. Dif-Pradalier
+- Xavier Garbet
+- Yanick Sarazin
+- Virginie Grandgirard
+- Guilhem Dif-Pradalier
 - G. Darmet
-- Ph. Ghendrih
+- Philippe Ghendrih
 - P. Angelino
 - P. Bertrand
 - N. Besse
 - E. Gravier
 - P. Morel
-- E. Sonnendrücker
-- N. Crouseilles
+- Eric Sonnendrücker
+- Nicolas Crouseilles
 - J. -M. Dischler
-- G. Latu
+- Guillaume Latu
 - E. Violard
 - M. Brunetti
 - S. Brunner

@@ -12,16 +12,16 @@ authors:
 - C. Bourdelle
 - J. Candy
 - F. Clairet
-- X. Garbet
-- V. Grandgirard
+- Xavier Garbet
+- Virginie Grandgirard
 - \.̈ D. Gürcan
 - S. Heuraux
 - G. T. Hoang
 - C. Honoré
 - F. Imbeaux
 - R. Sabot
-- Y. Sarazin
-- L. Vermare
+- Yanick Sarazin
+- Laure Vermare
 - R. E. Waltz
 tags: []
 categories: []

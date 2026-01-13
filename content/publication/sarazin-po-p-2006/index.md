@@ -5,11 +5,11 @@ title: Interplay between transport barriers and density gradient
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- V. Grandgirard
-- G. Dif-Pradalier
-- X. Garbet
-- Ph. Ghendrih
+- Yanick Sarazin
+- Virginie Grandgirard
+- Guilhem Dif-Pradalier
+- Xavier Garbet
+- Philippe Ghendrih
 tags: []
 categories: []
 date: '2006-01-01'

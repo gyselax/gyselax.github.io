@@ -5,17 +5,17 @@ title: Impact of large scale flows on turbulent transport
 subtitle: ''
 summary: ''
 authors:
-- Y Sarazin
-- V Grandgirard
-- G Dif-Pradalier
+- Yanick Sarazin
+- Virginie Grandgirard
+- Guilhem Dif-Pradalier
 - E Fleurence
-- X Garbet
-- Ph Ghendrih
+- Xavier Garbet
+- Philippe Ghendrih
 - P Bertrand
 - N Besse
-- N Crouseilles
-- E Sonnendrücker
-- G Latu
+- Nicolas Crouseilles
+- Eric Sonnendrücker
+- Guillaume Latu
 - E Violard
 tags: []
 categories: []

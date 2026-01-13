@@ -5,14 +5,14 @@ title: Impact of large scale flows on turbulent transport
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- Ph. Ghendrih
+- Yanick Sarazin
+- Philippe Ghendrih
 - S. Benkadda
 - P. Beyer
-- G. Falchetto
+- Gloria Falchetto
 - C. Figarella
-- X. Garbet
-- V. Grandgirard
+- Xavier Garbet
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2003-01-01'

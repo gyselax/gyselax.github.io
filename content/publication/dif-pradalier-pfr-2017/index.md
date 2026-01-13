@@ -5,7 +5,7 @@ title: Evidence for Global Edge-Core Interplay in Fusion Plasmas
 subtitle: ''
 summary: ''
 authors:
-- G Dif-Pradalier
+- Guilhem Dif-Pradalier
 tags: []
 categories: []
 date: '2017-01-01'

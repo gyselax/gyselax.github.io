@@ -5,23 +5,23 @@ title: Finding the Elusive ExB Staircase in Magnetised Plasmas
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - G. Hornung
-- Ph. Ghendrih
-- Y. Sarazin
+- Philippe Ghendrih
+- Yanick Sarazin
 - F. Clairet
-- L. Vermare
+- Laure Vermare
 - P. H. Diamond
 - J. Abiteboul
 - T. Cartier-Michaud
 - C. Ehrlacher
 - D. Esteve
-- X. Garbet
-- V. Grandgirard
+- Xavier Garbet
+- Virginie Grandgirard
 - Ö.D. Gürcan
 - P. Hennecquin
 - Y. Kosuga
-- G. Latu
+- Guillaume Latu
 - P. Maget
 - P. Morel
 - C. Norscini

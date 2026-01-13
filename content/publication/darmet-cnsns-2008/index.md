@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - G. Darmet
-- Ph. Ghendrih
-- Y. Sarazin
-- X. Garbet
-- V. Grandgirard
+- Philippe Ghendrih
+- Yanick Sarazin
+- Xavier Garbet
+- Virginie Grandgirard
 tags:
 - '"Gyrokinetics"'
 categories: []
