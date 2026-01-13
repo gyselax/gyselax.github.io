@@ -14,7 +14,7 @@ social:
   icon_pack: fas
   link: mailto:yuuichi.asahi@cea.fr
 user_groups:
-  - Core team
+  - Permanent Staff
 
 ---
 
