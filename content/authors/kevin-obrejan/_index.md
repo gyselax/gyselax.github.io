@@ -4,6 +4,7 @@ name: Kevin Obrejan
 email: kevin.obrejan@cea.fr
 title: Dr. Kevin Obrejan
 role: Senior Researcher
+orcid: 0000-0002-1906-4181
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA

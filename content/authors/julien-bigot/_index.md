@@ -4,6 +4,7 @@ name: Julien Bigot
 email: julien.bigot@cea.fr
 title: Dr. Julien Bigot
 role: PDI leader, DDC designer, Gysela & Voice++ developer
+orcid: 0000-0002-0015-4304
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA

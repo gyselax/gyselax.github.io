@@ -4,6 +4,7 @@ name: Emily Bourne
 email: emily.bourne@epfl.ch
 title: Dr. Emily Bourne
 role: GyselaX++ developer, Pyccel lead developer
+orcid: 0000-0002-3469-2338
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: EPFL

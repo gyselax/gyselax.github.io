@@ -4,6 +4,7 @@ name: Xavier Garbet
 email: xavier.garbet@cea.fr
 title: Dr. Xavier Garbet
 role: Research Director
+orcid: 0000-0001-5730-1259
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
