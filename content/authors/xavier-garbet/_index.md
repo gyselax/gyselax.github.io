@@ -3,13 +3,16 @@ authors: [ xavier-garbet ]
 name: Xavier Garbet
 email: xavier.garbet@cea.fr
 title: Dr. Xavier Garbet
-role: Research Director
+role: Research Director (CEA), Professor (NTU)
+orcid: 0000-0001-5730-1259
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: IRFM
   url: http://irfm.cea.fr
+- name: Nanyang Technological University
+  url: https://ntufusion.github.io/
 highlight_name: false
 social:
 - icon: envelope
@@ -17,4 +20,6 @@ social:
   link: mailto:xavier.garbet@cea.fr
 
 ---
-Dr Xavier Garbet graduated from Ecole Normale Supérieure Paris in 1985 and got the Agrégation in Physics. He received a PhD degree from Aix-Marseille University in 1988, and the Habilitation à Diriger des Recherches in 2001. He is presently Research Director at CEA, France. His current research interests are related to magnetic fusion energy. His scientific work is mainly dedicated to turbulent transport and stability issues, covering theory, modelling and experiments, for which he received the CNRS silver medal in 2010. X. Garbet has co-authored 255 publications in peer-reviewed journals (H factor = 50), supervised 14 PhD students and 7 post-docs, and led several European projects.
+Professor Xavier Garbet received a Batchelor’s degree in Physics from Paris Sorbonne University (France) in 1982, and a Master’s degree in plasma physics from Paris-Saclay University (France). He received a PhD degree in theoretical physics and high energy physics in 1988, and the Habilitation to conduct researches (HdR) in 2001 from Aix-Marseille University (France). Xavier Garbet is a fellow of the Ecole Normale Superieure Paris (1981 science). Xavier Garbet was hired by the French Alternative Energies and Atomic Energy Commission (CEA) in 1988, and became Research Director at CEA in 2008. He was visiting scientist at General Atomics (San Diego, USA) from 1994 to 1995, and led the Task Force Transport at JET (Joint European Torus, United Kingdom) from 2001 to 2004. He joined the Division of Physics and Applied Physics, School of Physical and Mathematical Sciences, NTU in 2022, where he holds the Temasek chair in Clean Energy as Professor of Theoretical and Computational Plasma Physics.
+
+The scientific activity of Professor Xavier Garbet covers various aspects of magnetic fusion energy. His favorite research topics are transport processes, turbulence, and stability issues in magnetized plasmas, with some predilection for theory and modelling.

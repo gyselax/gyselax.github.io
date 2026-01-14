@@ -4,6 +4,7 @@ name: Peter Donnel
 email: peter.donnel@cea.fr
 title: Dr. Peter Donnel
 role: Senior Researcher
+orcid: 0000-0002-6669-416X
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA

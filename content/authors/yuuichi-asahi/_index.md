@@ -4,6 +4,7 @@ name: Yuuichi Asahi
 email: yuuichi.asahi@cea.fr
 title: Dr. Yuuichi Asahi
 role: Senior developer
+orcid: 0000-0002-9997-1274
 organizations:
 - name: CEA
   url: https://www.cea.fr/
