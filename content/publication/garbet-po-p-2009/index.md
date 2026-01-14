@@ -5,12 +5,12 @@ title: Neoclassical equilibrium in gyrokinetic simulations
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
-- G. Dif-Pradalier
+- Xavier Garbet
+- Guilhem Dif-Pradalier
 - C. Nguyen
-- Y. Sarazin
-- V. Grandgirard
-- Ph. Ghendrih
+- Yanick Sarazin
+- Virginie Grandgirard
+- Philippe Ghendrih
 tags: []
 categories: []
 date: '2009-01-01'

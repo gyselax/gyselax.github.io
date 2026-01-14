@@ -7,21 +7,21 @@ summary: ''
 authors:
 - A. Casati
 - C. Bourdelle
-- X. Garbet
+- Xavier Garbet
 - F. Imbeaux
 - J. Candy
 - F. Clairet
-- G. Dif-Pradalier
-- G. Falchetto
+- Guilhem Dif-Pradalier
+- Gloria Falchetto
 - T. Gerbaud
-- V. Grandgirard
+- Virginie Grandgirard
 - Ö. D. Gürcan
 - P. Hennequin
 - J. Kinsey
 - M. Ottaviani
 - R. Sabot
-- Y. Sarazin
-- L. Vermare
+- Yanick Sarazin
+- Laure Vermare
 - R. E. Waltz
 tags: []
 categories: []

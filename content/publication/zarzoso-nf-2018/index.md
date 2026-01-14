@@ -8,11 +8,11 @@ authors:
 - D. Zarzoso
 - D. del-Castillo-Negrete
 - D. F. Escande
-- Y. Sarazin
-- X. Garbet
-- V. Grandgirard
+- Yanick Sarazin
+- Xavier Garbet
+- Virginie Grandgirard
 - C. Passeron
-- G. Latu
+- Guillaume Latu
 - S. Benkadda
 tags: []
 categories: []

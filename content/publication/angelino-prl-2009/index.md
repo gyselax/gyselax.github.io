@@ -6,15 +6,15 @@ subtitle: ''
 summary: ''
 authors:
 - P. Angelino
-- X. Garbet
+- Xavier Garbet
 - L. Villard
 - A. Bottino
 - S. Jolliet
-- Ph. Ghendrih
-- V. Grandgirard
+- Philippe Ghendrih
+- Virginie Grandgirard
 - B. F. McMillan
-- Y. Sarazin
-- G. Dif-Pradalier
+- Yanick Sarazin
+- Guilhem Dif-Pradalier
 - T. M. Tran
 tags: []
 categories: []

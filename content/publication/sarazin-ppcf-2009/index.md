@@ -5,12 +5,12 @@ title: Entropy production and collisionless fluid closure
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- G. Dif-Pradalier
+- Yanick Sarazin
+- Guilhem Dif-Pradalier
 - D. Zarzoso
-- X. Garbet
-- Ph. Ghendrih
-- V. Grandgirard
+- Xavier Garbet
+- Philippe Ghendrih
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2009-01-01'

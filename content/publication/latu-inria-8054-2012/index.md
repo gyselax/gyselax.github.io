@@ -6,17 +6,17 @@ title: Accuracy of unperturbed motion of particles in a gyrokinetic semi-Lagrang
 subtitle: ''
 summary: ''
 authors:
-- G. Latu
-- V. Grandgirard
+- Guillaume Latu
+- Virginie Grandgirard
 - J. Abiteboul
 - M. Bergot
-- N. Crouseilles
-- X. Garbet
-- Ph. Ghendrih
-- M. Mehrenberger
-- Y. Sarazin
+- Nicolas Crouseilles
+- Xavier Garbet
+- Philippe Ghendrih
+- Michel Mehrenberger
+- Yanick Sarazin
 - H. Sellama
-- E. Sonnendrücker
+- Eric Sonnendrücker
 - D. Zarzoso
 tags:
 - '"gyrokinetic ; conservation laws ; FSL"'

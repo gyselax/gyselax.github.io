@@ -6,23 +6,23 @@ title: A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion t
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
+- Virginie Grandgirard
 - J. Abiteboul
-- J. Bigot
+- Julien Bigot
 - T. Cartier-Michaud
-- N. Crouseilles
-- G. Dif-Pradalier
+- Nicolas Crouseilles
+- Guilhem Dif-Pradalier
 - Ch. Ehrlacher
 - D. Esteve
-- X. Garbet
-- Ph. Ghendrih
-- G. Latu
-- M. Mehrenberger
+- Xavier Garbet
+- Philippe Ghendrih
+- Guillaume Latu
+- Michel Mehrenberger
 - C. Norscini
 - Ch. Passeron
 - F. Rozar
-- Y. Sarazin
-- E. Sonnendrücker
+- Yanick Sarazin
+- Eric Sonnendrücker
 - A. Strugarek
 - D. Zarzoso
 tags: []

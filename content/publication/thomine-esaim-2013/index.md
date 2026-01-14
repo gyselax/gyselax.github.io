@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - O. Thomine
-- J. Bigot
-- V. Grandgirard
-- G. Latu
+- Julien Bigot
+- Virginie Grandgirard
+- Guillaume Latu
 - Ch. Passeron
 - F. Rozar
 tags: []

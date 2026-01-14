@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - J. Abiteboul
-- G. Latu
-- V. Grandgirard
+- Guillaume Latu
+- Virginie Grandgirard
 - A. Ratnani
-- ' Sonnendrücker'
+- 'Eric Sonnendrücker'
 - A. Strugarek
 tags: []
 categories: []

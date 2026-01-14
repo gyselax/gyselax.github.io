@@ -6,11 +6,11 @@ title: 'Interplay between Gyrokinetic Turbulence, Flows, and Collisions: Perspec
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
-- V. Grandgirard
-- Y. Sarazin
-- X. Garbet
-- Ph. Ghendrih
+- Guilhem Dif-Pradalier
+- Virginie Grandgirard
+- Yanick Sarazin
+- Xavier Garbet
+- Philippe Ghendrih
 tags: []
 categories: []
 date: '2009-08-01'

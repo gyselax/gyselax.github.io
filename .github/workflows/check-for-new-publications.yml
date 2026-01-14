@@ -34,6 +34,8 @@ jobs:
           CHECK_FROM=$(date -u -d "$last_run_iso -2 months" +"%Y-%m-%d")
           echo "CHECK_FROM=$CHECK_FROM"
           echo "CHECK_FROM=$CHECK_FROM" >> $GITHUB_ENV
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Create branch
         run: |
           branch_name="update-publications-$(date +'%Y%m%d')"

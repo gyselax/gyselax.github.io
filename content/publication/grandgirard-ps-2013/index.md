@@ -5,8 +5,8 @@ title: Gyrokinetic simulations of magnetic fusion plasmas
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
-- Y. Sarazin
+- Virginie Grandgirard
+- Yanick Sarazin
 tags: []
 categories: []
 date: '2013-01-01'

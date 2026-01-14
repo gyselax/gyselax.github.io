@@ -6,15 +6,15 @@ title: Turbulent generation of poloidal asymmetries of the electric potential in
 subtitle: ''
 summary: ''
 authors:
-- P. Donnel
-- X. Garbet
-- Y. Sarazin
-- Y. Asahi
+- Peter Donnel
+- Xavier Garbet
+- Yanick Sarazin
+- Yuuichi Asahi
 - ' F.Wilczynsky'
 - E. Caschera
-- G. Dif-Pradalier
-- P. Ghendrih
-- C. Gillot
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
+- Camille Gillot
 tags: []
 categories: []
 date: '2019-01-01'

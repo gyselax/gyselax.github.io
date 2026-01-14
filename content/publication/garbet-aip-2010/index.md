@@ -5,17 +5,17 @@ title: Measurements and Modeling of Turbulent Transport in the Tore Supra Tokama
 subtitle: ''
 summary: ''
 authors:
-- X. Garbet
+- Xavier Garbet
 - J. Abiteboul
 - S. Benkadda
 - C. Bourdelle
 - A. Casati
 - F. Clairet
 - N. Dubuit
-- G. Falchetto
+- Gloria Falchetto
 - C. Fenzi
 - S. Futatani
-- V. Grandgirard
+- Virginie Grandgirard
 - R. Guirlet
 - Ö. D. Gürcan
 - P. Hennequin
@@ -23,11 +23,11 @@ authors:
 - G. T. Hoang
 - C. Honoré
 - R. Sabot
-- Y. Sarazin
+- Yanick Sarazin
 - J. L. Segui
 - A. Smolyakov
 - E. Trier
-- L. Vermare
+- Laure Vermare
 - D. Villegas
 tags: []
 categories: []

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - A. Biancalani
 - G. Merlo
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2016-01-01'
