@@ -5,12 +5,20 @@
     <link>https://gyselax.github.io/author/dr.-peter-donnel/</link>
       <atom:link href="https://gyselax.github.io/author/dr.-peter-donnel/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Peter Donnel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/author/dr.-peter-donnel/avatar_huc39ad8ed2585f218e65184fa51cc0dc2_230477_270x270_fill_lanczos_center_2.png</url>
       <title>Dr. Peter Donnel</title>
       <link>https://gyselax.github.io/author/dr.-peter-donnel/</link>
     </image>
+    
+    <item>
+      <title>Gyselalib&#43;&#43;: A Portable C&#43;&#43; Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations</title>
+      <link>https://gyselax.github.io/publication/bourne-joss-2025/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/bourne-joss-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effect of modulated heat source on diffusive and avalanche-like transport</title>
@@ -54,9 +62,9 @@
     
     <item>
       <title>How to prepare the GYSELA-X code to future exascale edge-core simulations</title>
-      <link>https://gyselax.github.io/publication/grandgirard-2021/</link>
+      <link>https://gyselax.github.io/publication/grandgirard-pasc-2021/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://gyselax.github.io/publication/grandgirard-2021/</guid>
+      <guid>https://gyselax.github.io/publication/grandgirard-pasc-2021/</guid>
       <description></description>
     </item>
     
