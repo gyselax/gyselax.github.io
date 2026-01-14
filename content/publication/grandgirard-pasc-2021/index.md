@@ -34,6 +34,7 @@ publishDate: '2025-09-18T15:25:29.210107'
 publication_types:
 - '1'
 abstract: ''
-publication: ''
+publication: 'PASC 2021 - The Platform for Advanced Scientific Computing Conference'
+url_pdf: https://cea.hal.science/cea-03347970v1/file/VGrandgirard_PASC_2021-07-06.pdf
 doi: ''
 ---

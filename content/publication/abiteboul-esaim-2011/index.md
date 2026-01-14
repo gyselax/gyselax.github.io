@@ -9,7 +9,7 @@ authors:
 - Guillaume Latu
 - Virginie Grandgirard
 - A. Ratnani
-- ' Sonnendrücker'
+- 'Eric Sonnendrücker'
 - A. Strugarek
 tags: []
 categories: []
