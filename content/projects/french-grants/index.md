@@ -1,6 +1,6 @@
 ---
 title: French Grants
-summary: GYSELA-X was supported by many French grants in the last fourteen years.
+summary: Gysela-X was supported by many French grants in the last fourteen years.
 tags:
 - French Grants
 date: "2021-04-23T00:00:00Z"
