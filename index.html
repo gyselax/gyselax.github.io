@@ -26,7 +26,7 @@
   
     
   
-  <meta name="description" content="GYSELA-X, a GYrokinetic SEmi-LAgrangian code" />
+  <meta name="description" content="Gysela-X, a family of GYrokinetic SEmi-LAgrangian codes" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://gyselax.github.io/" />
@@ -295,7 +295,7 @@
   <meta property="og:site_name" content="GyselaX" />
   <meta property="og:url" content="https://gyselax.github.io/" />
   <meta property="og:title" content="GyselaX" />
-  <meta property="og:description" content="GYSELA-X, a GYrokinetic SEmi-LAgrangian code" /><meta property="og:image" content="https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png" />
+  <meta property="og:description" content="Gysela-X, a family of GYrokinetic SEmi-LAgrangian codes" /><meta property="og:image" content="https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png" />
     <meta property="twitter:image" content="https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -691,11 +691,11 @@
 
 
     
-      <h1 class="hero-title">GYSELA-X</h1>
+      <h1 class="hero-title">Gysela-X</h1>
     
 
     
-      <div class="hero-lead"><p>The GYSELA-X code models turbulence in tokamak plasmas.</p>
+      <div class="hero-lead"><p>The codes of the Gysela-X project model turbulence in tokamak plasmas.</p>
 </div>
     
 
@@ -713,7 +713,7 @@
         
       
     <p class="cta-btns">
-      <a href="https://github.com/gyselax/gyselalibxx" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><i class="fab fa-github pr-1" aria-hidden="true"></i>Git repository</a>
+      <a href="https://github.com/gyselax/gyselalibxx" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><i class="fab fa-github pr-1" aria-hidden="true"></i>gyselalib++</a>
 
       
       
@@ -757,7 +757,7 @@
       
       
 
-      <img src="/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_400x0_resize_lanczos_2.png" srcset="/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_1200x0_resize_lanczos_2.png 1200w,/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_800x0_resize_lanczos_2.png 800w,/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_400x0_resize_lanczos_2.png 400w" width="3571" height="1785" alt="GYSELA-X">
+      <img src="/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_400x0_resize_lanczos_2.png" srcset="/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_1200x0_resize_lanczos_2.png 1200w,/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_800x0_resize_lanczos_2.png 800w,/media/GYSELA_simu_hu2cd80fa9de07f75943f96ae0efbe83ce_1057076_400x0_resize_lanczos_2.png 400w" width="3571" height="1785" alt="Gysela-X">
     
   </div>
 </div>
@@ -828,14 +828,18 @@
 
 
   <div class="col-12">
-    <p>The 5D GYSELA-X (for GYrokinetic SEmi-LAgrangian) code<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> is developed at <a href="http://irfm.cea.fr/" target="_blank" rel="noopener">CEA/IRFM</a> for 20 years through national and international collaborations with a strong interaction between physicists, mathematicians and computer scientists. GYSELA-X is a global full-f nonlinear gyrokinetic code that simulates electrostatic plasma turbulence and transport in the core of Tokamak devices.
-It evolves the complete (so-called “full-f”) 5-dimensional (3 space coordinates, 2 velocity coordinates) guiding-centre distribution function in the electrostatic limit in a full portion of torus (so-called “global”). Versatile sources of heat, momentum, particles and vorticity are commonly used to achieve steady-state in long simulation runs. The time-evolution of this distribution function $f(r,\theta,\phi,v_\parallel,\mu)$ is governed by the gyro-averaged Vlasov equation, the so-called gyrokinetic equation, which is self-consistently coupled to the 3D quasi-neutrality equation (electrostatic and long wavelength limit of Maxwell&rsquo;s equations).
-From the numerical point of view, GYSELA-X is based on a semi-Lagrangian scheme.</p>
+    <p>The <strong>Gysela-X</strong> project consists in the development of a series of gyrokinetic codes with the main aim to allow exascale simulations of tokamak plasma turbulence and transport including a X-point geometry.</p>
+<p>The legacy Fortran code <strong>GYSELA</strong> (for GYrokinetic SEmi-LAgrangian)<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> has been developed at <a href="http://irfm.cea.fr/" target="_blank" rel="noopener">CEA/IRFM</a> for over 20 years through national and international collaborations with a strong interaction between physicists, mathematicians and computer scientists. It is a global full-f nonlinear gyrokinetic code that simulates plasma turbulence and transport in the core of Tokamak devices, including electromagnetic effects. It evolves the complete 5-dimensional (3 space coordinates, 2 velocity coordinates) guiding-centre distribution function of the plasma&rsquo;s ion and electron species, over a full torus. The time-evolution of this distribution function $f(r,\theta,\varphi,v_\parallel,\mu)$ is governed by the gyro-averaged Vlasov equation, the so-called gyrokinetic equation, which is self-consistently coupled to the 3D quasi-neutrality equation. Versatile sources of heat, momentum, particles and vorticity are also commonly used to achieve a steady-state in long simulation runs.</p>
+<p>However, upgrading such a long-lived code to run efficiently on massive numbers of GPUs while also extending the code&rsquo;s physics capacities has proven to be an impossible task. Therefore, we have been extracting key kernels from the Fortran code and developing new ones from scratch in order to create an open-source library written in modern C++ and using modern libraries including <a href="https://kokkos.org/kokkos-core-wiki/" target="_blank" rel="noopener">Kokkos</a>, <a href="https://ddc.mdls.fr/" target="_blank" rel="noopener">DDC</a>, and <a href="https://pdi.dev/main/" target="_blank" rel="noopener">PDI</a>. The development of this library, called <strong>Gyselalib++</strong><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, started during EoCoE-III. It contains the elementary kernels required for (gyro-)kinetic codes based on a semi-Lagrangian algorithm to evolve the distribution functions. This shared library reveals extremely efficient by easing the implementation in the two flagship codes of numerical optimizations tested in simplified configurations. These two flagship codes are <strong>Gysela-X++</strong> to simulate tokamak plasma turbulence and transport in the presence of a X-point, and <strong>Gysela-stellarator</strong> to account for 3D magnetic equilibria (stellarators, tokamaks with Resonant Magnetic Perturbations or ripple).</p>
+<p>We are currently working on finalising <strong>Gysela-Axi</strong>, a 4D (2D2V) code that simulates plasmas in axisymmetric configurations and will allow us to perform our first physics validation tests.</p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
 <p><a href="https://gyselax.github.io/publication/grandgirard-cpc-2016/">Virginie Grandgirard, Jérémie Abiteboul, Julien Bigot, Thomas Cartier-Michaud, Nicolas Crouseilles, et al.. A 5D gyrokinetic full-f global semi-lagrangian code for flux-driven ion turbulence simulations. 2015.</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p><a href="https://gyselax.github.io/publication/bourne-joss-2025/">Emily Bourne, Virginie Grandgirard, Yuuichi Asahi, Julien Bigot, Peter Donnel, et al.. Gyselalib++: A portable c++ library for semi-lagrangian kinetic and gyrokinetic simulations. 2025.</a> <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
@@ -918,7 +922,7 @@ From the numerical point of view, GYSELA-X is based on a semi-Lagrangian scheme.
 <div class="row justify-content-center people-widget">
   
   <div class="col-md-12 section-heading">
-    <h1>GYSELA-X Team</h1>
+    <h1>Gysela-X Team</h1>
     
   </div>
   
@@ -1256,7 +1260,7 @@ From the numerical point of view, GYSELA-X is based on a semi-Lagrangian scheme.
   
   <div class="col-md-12">
     <h2 id="non-permanent-staff">Non-permanent Staff</h2>
-<p>GYSELA-X could not be where it is without the many post-docs, temp engineers, PhD. students and interns that worked and still work on it.</p>
+<p>Gysela-X could not be where it is without the many post-docs, temp engineers, PhD. students and interns that worked and still work on it.</p>
 <p>Our warmest thanks go to them.</p>
 
   </div>
@@ -1404,7 +1408,7 @@ From the numerical point of view, GYSELA-X is based on a semi-Lagrangian scheme.
     
     <a href="/projects/european-grants/"  class="summary-link">
       <div class="article-style">
-        GYSELA-X was supported by 10 European grants in the last seven years
+        Gysela-X was supported by 10 European grants in the last seven years
       </div>
     </a>
     
@@ -1502,7 +1506,7 @@ From the numerical point of view, GYSELA-X is based on a semi-Lagrangian scheme.
     
     <a href="/projects/french-grants/"  class="summary-link">
       <div class="article-style">
-        GYSELA-X was supported by many French grants in the last fourteen years.
+        Gysela-X was supported by many French grants in the last fourteen years.
       </div>
     </a>
     
@@ -1600,7 +1604,7 @@ From the numerical point of view, GYSELA-X is based on a semi-Lagrangian scheme.
     
     <a href="/projects/hpc-programs/"  class="summary-link">
       <div class="article-style">
-        GYSELA-X was supported by more than 10 HPC programs in the last fifteen years.
+        Gysela-X was supported by more than 10 HPC programs in the last fifteen years.
       </div>
     </a>
     
