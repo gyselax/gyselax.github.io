@@ -19,5 +19,6 @@ cta:
 cta_alt:
   url: https://gyselax.github.io/gyselalibxx/
   label: View Documentation
+---
 
 The codes of the Gysela-X project model turbulence in tokamak plasmas.
