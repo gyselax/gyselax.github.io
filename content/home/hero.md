@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: GYSELA-X
+title: Gysela-X
 hero_media: GYSELA_simu.png
 design:
   background:
@@ -13,17 +13,11 @@ design:
     text_color_light: true
 cta:
   url: https://github.com/gyselax/gyselalibxx
-  label: Git repository
+  label: gyselalib++
   icon_pack: fab
   icon: github
 cta_alt:
   url: https://gyselax.github.io/gyselalibxx/
   label: View Documentation
-#cta_note:
-#  label: >-
-#    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-#      Show your product version here:<!-- Automatically filled based on data-repo value -->
-#    </span>
----
 
-The GYSELA-X code models turbulence in tokamak plasmas.
+The codes of the Gysela-X project model turbulence in tokamak plasmas.
