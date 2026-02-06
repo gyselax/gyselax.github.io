@@ -4,6 +4,7 @@ name: Thomas Padioleau
 email: thomas.padioleau@cea.fr
 title: Dr. Thomas Padioleau
 role: DDC lead developer, Voice++ developer
+orcid: 0000-0001-5496-0013
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA

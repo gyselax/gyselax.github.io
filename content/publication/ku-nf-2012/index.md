@@ -8,19 +8,19 @@ authors:
 - S. Ku
 - J. Abiteboul
 - P. H. Diamond
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - J. M. Kwon
-- Y. Sarazin
+- Yanick Sarazin
 - T. S. Hahm
-- X. Garbet
+- Xavier Garbet
 - C. S. Chang
-- G. Latu
+- Guillaume Latu
 - E. S. Yoon
-- Ph. Ghendrih
+- Philippe Ghendrih
 - S. Yi
 - A. Strugarek
 - W. Solomon
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2012-01-01'

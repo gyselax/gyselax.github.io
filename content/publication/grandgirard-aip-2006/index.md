@@ -6,14 +6,14 @@ title: GYSELA, a full-f global gyrokinetic Semi-Lagrangian code for ITG turbulen
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
-- Y. Sarazin
-- X. Garbet
-- G. Dif-Pradalier
-- Ph. Ghendrih
-- N. Crouseilles
-- G. Latu
-- E. Sonnendrücker
+- Virginie Grandgirard
+- Yanick Sarazin
+- Xavier Garbet
+- Guilhem Dif-Pradalier
+- Philippe Ghendrih
+- Nicolas Crouseilles
+- Guillaume Latu
+- Eric Sonnendrücker
 - N. Besse
 - P. Bertrand
 tags: []

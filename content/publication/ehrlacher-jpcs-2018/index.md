@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - C. Ehrlacher
-- X. Garbet
-- V. Grandgirard
-- Y. Sarazin
-- P. Donnel
+- Xavier Garbet
+- Virginie Grandgirard
+- Yanick Sarazin
+- Peter Donnel
 - E. Caschera
-- P. Ghendrih
+- Philippe Ghendrih
 - D. Zarzoso
 tags: []
 categories: []

@@ -34,3 +34,15 @@ Physical review. E:
 Physical Review Letters:
   slug: prl
   bibtex: "Phys. Rev. Lett."
+The Journal of Open Source Software:
+  slug: joss
+  bibtex: "J. Open Source Software"
+Journal of Physics Conference Series:
+  slug: jpcs
+  bibtex: "J. Phys. Conf. Ser."
+ESAIM Proceedings and Surveys:
+  slug: esaim
+  bibtex: "ESAIM Proceedings and Surveys"
+The European Physical Journal:
+  slug: epl
+  bibtex: "Eur. Phys. J."

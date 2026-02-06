@@ -5,18 +5,18 @@ title: Global full-f gyrokinetic simulations of plasma turbulence
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
-- Y. Sarazin
+- Virginie Grandgirard
+- Yanick Sarazin
 - P. Angelino
 - A. Bottino
-- N. Crouseilles
+- Nicolas Crouseilles
 - G. Darmet
-- G. Dif-Pradalier
-- X. Garbet
-- Ph. Ghendrih
+- Guilhem Dif-Pradalier
+- Xavier Garbet
+- Philippe Ghendrih
 - S. Jolliet
-- G. Latu
-- E. Sonnendrücker
+- Guillaume Latu
+- Eric Sonnendrücker
 - L. Villard
 tags: []
 categories: []

@@ -4,6 +4,7 @@ name: Yanick Sarazin
 email: yanick.sarazin@cea.fr
 title: Dr. Yanick Sarazin
 role: Senior Researcher
+orcid: 0000-0003-2479-563X
 user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
@@ -17,4 +18,4 @@ social:
   link: mailto:yanick.sarazin@cea.fr
 
 ---
-Dr Yanick Sarazin graduated from an engineering school in Grenoble in 1993, and defended his PhD thesis on edge turbulence modelling in fusion devices in 1997. He then obtained the Habilitation à Diriger des Recherches in 2008. His main activity deals with turbulence and transport theory and modelling in controlled fusion devices. He is responsible for HPC CPU-time demands on gyrokinetic at IRFM, and member of international HPC committees (IFERC/Helios in 2011-2016, Marconi-Fusion from 2015). He is full professor at the National Institute of Nuclear Science and Technology since 2009. He supervised 8 PhD students and 1 post-doc. He co-authored 130 publication in peer-review journals (H factor = 30) and led several European projects. He is the current leader of the "Fusion for Energy" work package in EoCoE-I.
+Dr Yanick Sarazin graduated from a physics and engineering school in Grenoble in 1993, and defended his PhD thesis on edge turbulence modelling in fusion devices in 1997. He then obtained the Habilitation à Diriger des Recherches in 2008. His main activity deals with turbulence and transport theory and modelling in controlled fusion devices. Most recently, he also developed an activity on the design of fusion power plants. Responsible for HPC CPU-time demands on gyrokinetics at IRFM from 2008 to 2023, he is also member of international HPC committees which allocate numerical resources (IFERC Broader Approach from 2011, EUROfusion from 2015). He is full professor at the National Institute of Nuclear Science and Technology since 2009. He co-supervised 16 PhD students and 4 post-docs. He co-authored more than 170 publications in peer-review journals and led several European projects. He is currently member of the STAC of EUROfusion (Scientific and Technical Advisory Committee) and of the Board of Editors of the journal Nuclear Fusion (since Sept. 2018).

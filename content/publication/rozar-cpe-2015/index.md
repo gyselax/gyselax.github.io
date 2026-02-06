@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - F. Rozar
-- G. Latu
+- Guillaume Latu
 - J. Roman
-- V. Grandgirard
+- Virginie Grandgirard
 tags: []
 categories: []
 date: '2015-01-01'

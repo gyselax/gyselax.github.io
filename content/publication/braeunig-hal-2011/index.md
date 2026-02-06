@@ -7,11 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - J-Ph. Braeunig
-- N. Crouseilles
-- V. Grandgirard
-- G. Latu
-- M. Mehrenberger
-- E. Sonnendrücker
+- Nicolas Crouseilles
+- Virginie Grandgirard
+- Guillaume Latu
+- Michel Mehrenberger
+- Eric Sonnendrücker
 tags:
 - '"plasma turbulence ; maximum principle ; conservative scheme ; numerical simulation"'
 categories: []

@@ -1,6 +1,6 @@
 ---
 title: European Grants
-summary: GYSELA-X was supported by 10 European grants in the last seven years
+summary: Gysela-X was supported by 10 European grants in the last seven years
 tags:
 - European Grants
 date: "2021-04-23T00:00:00Z"
@@ -22,4 +22,5 @@ date: "2021-04-23T00:00:00Z"
 - H2020 grant:
   - EoCoE: Energy oriented Centre of Excellence for Computing Applications, (2015-2019) (PI E. Audit, Maison de la Simulation)
   - EoCoE-II: Energy oriented Centre of Excellence for Computing Applications  (2019-2022) (PI E. Audit, Maison de la Simulation)
+  - EoCoE-III: Energy oriented Centre of Excellence for Computing Applications  (2024-2027) (PI E. Audit, Maison de la Simulation)
 

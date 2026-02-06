@@ -5,11 +5,11 @@ title: Kinetic features of interchange turbulence
 subtitle: ''
 summary: ''
 authors:
-- Y. Sarazin
-- V. Grandgirard
+- Yanick Sarazin
+- Virginie Grandgirard
 - E. Fleurence
-- X. Garbet
-- Ph. Ghendrih
+- Xavier Garbet
+- Philippe Ghendrih
 - P. Bertrand
 - G. Depret
 tags: []

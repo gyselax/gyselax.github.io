@@ -5,14 +5,14 @@ title: Neoclassical physics in full distribution function gyrokinetics
 subtitle: ''
 summary: ''
 authors:
-- G. Dif-Pradalier
+- Guilhem Dif-Pradalier
 - P. H. Diamond
-- V. Grandgirard
-- Y. Sarazin
+- Virginie Grandgirard
+- Yanick Sarazin
 - J. Abiteboul
-- X. Garbet
-- Ph. Ghendrih
-- G. Latu
+- Xavier Garbet
+- Philippe Ghendrih
+- Guillaume Latu
 - A. Strugarek
 - S. Ku
 - C. S. Chang

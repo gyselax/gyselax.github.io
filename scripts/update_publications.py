@@ -33,7 +33,7 @@ def load_key_authors():
             if "name" in data and "organizations" in data:
                 orgs = [o["name"] for o in data.get("organizations", []) if "name" in o]
                 key_authors.append({
-                    "name": " ".join(data["name"].split(" ")[1:]),
+                    "name": data["name"],
                     "organizations": orgs
                 })
     return key_authors
@@ -65,7 +65,7 @@ def author_matches(work_authorships, key_authors):
         author_name = a["raw_author_name"]
         institutions = [i["raw_affiliation_string"] for i in a["affiliations"]]
         for ka in key_authors:
-            if (ka["name"].lower() in author_name.lower()) and \
+            if (" ".join(ka["name"].split(" ")[1:]).lower() in author_name.lower()) and \
                     any(org.lower() in instit.lower() for org in ka["organizations"] for instit in institutions):
                 return True
     return False
@@ -75,7 +75,7 @@ def make_slug(meta, abbrev_map):
     if meta["venue_full"] in abbrev_map:
         venue = abbrev_map[meta["venue_full"]]['slug']
     else:
-        venue = meta["venue_full"]
+        venue = meta["venue_full"].replace(' ', '-')
     year = str(meta["year"])
     slug_base = f"{surname}-{venue}-{year}"
     slug = slug_base
@@ -128,15 +128,15 @@ def extract_metadata(work, abbrev_map):
         "abstract": abstract
     }
 
-def to_bibtex(meta, slug, abbrev_map):
+def to_bibtex(meta, author_list, slug, abbrev_map):
     if meta["venue_full"] in abbrev_map:
         venue = abbrev_map[meta["venue_full"]]['bibtex']
     else:
         venue = meta["venue_full"]
     fields = {
         "title": meta["title"],
-        "author": meta["authors_bibtex"],
-        "journal": venue, 
+        "author": ' and '.join(author_list),
+        "journal": venue,
         "year": meta["year"],
         "volume": meta["volume"],
         "number": meta["issue"],
@@ -150,12 +150,12 @@ def to_bibtex(meta, slug, abbrev_map):
     lines.append("}")
     return "\n".join(lines)
 
-def write_index_md(folder, meta):
+def write_index_md(folder, meta, author_list):
     front_matter = {
         "title": meta["title"],
         "subtitle": "",
         "summary": "",
-        "authors": meta["authors_list"],
+        "authors": author_list,
         "tags": [],
         "categories": [],
         "date": meta["pub_date"],
@@ -200,7 +200,7 @@ def main():
             meta = extract_metadata(work, abbrev_map)
 
             # Discard preprints
-            if "arxiv" in meta["venue_full"].lower():
+            if any(unpublished in meta["venue_full"] for unpublished in ("arXiv", "HAL", "Zenodo")):
                 continue
 
             # Check relevance
@@ -230,11 +230,27 @@ def main():
             folder = PUBLICATION_DIR / slug
             folder.mkdir(parents=True, exist_ok=True)
 
+            author_list = []
+            authors = meta["authorships"]
+            for i, a in enumerate(authors):
+                author_name = a["raw_author_name"]
+                institutions = [i["raw_affiliation_string"] for i in a["affiliations"]]
+                matching_author = next((ka for ka in key_authors
+                                        if (" ".join(ka["name"].split(" ")[1:]).lower() in author_name.lower()) and
+                                            any(org.lower() in instit.lower() for org in ka["organizations"]
+                                                                              for instit in institutions)
+                                       ),
+                                       None)
+                if matching_author:
+                    author_list.append(matching_author["name"])
+                else:
+                    author_list.append(a["raw_author_name"])
+
             # Write index.md
-            write_index_md(folder, meta)
+            write_index_md(folder, meta, author_list)
 
             # Write cite.bib
-            bibtex = to_bibtex(meta, slug, abbrev_map)
+            bibtex = to_bibtex(meta, author_list, slug, abbrev_map)
             (folder / "cite.bib").write_text(bibtex, encoding="utf-8")
 
 if __name__ == "__main__":

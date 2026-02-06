@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - J. Abiteboul
-- X. Garbet
-- V. Grandgirard
+- Xavier Garbet
+- Virginie Grandgirard
 - S. J. Allfrey
-- Ph. Ghendrih
-- G. Latu
-- Y. Sarazin
+- Philippe Ghendrih
+- Guillaume Latu
+- Yanick Sarazin
 - A. Strugarek
 tags: []
 categories: []

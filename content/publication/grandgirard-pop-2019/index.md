@@ -6,21 +6,21 @@ title: 'Linear collisionless dynamics of the GAM with kinetic electrons: Compari
 subtitle: ''
 summary: ''
 authors:
-- V. Grandgirard
-- X. Garbet
+- Virginie Grandgirard
+- Xavier Garbet
 - Ch. Ehrlacher
 - A. Biancalani
 - A. Bottino
 - I. Novikau
-- Y. Asahi
+- Yuuichi Asahi
 - E. Caschera
-- G. Dif-Pradalier
-- P. Donnel
-- Ph. Ghendrih
-- C. Gillot
-- G. Latu
+- Guilhem Dif-Pradalier
+- Peter Donnel
+- Philippe Ghendrih
+- Camille Gillot
+- Guillaume Latu
 - Ch. Passeron
-- Y. Sarazin
+- Yanick Sarazin
 - D. Zarzoso
 tags: []
 categories: []
