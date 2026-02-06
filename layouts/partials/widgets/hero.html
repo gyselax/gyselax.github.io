@@ -31,7 +31,7 @@
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
     <p class="cta-btns">
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-3 mb-md-1">{{ if $page.Params.cta.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta.label | markdownify | emojify | safeHTML }}</a>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-3 mb-md-1">{{ if $page.Params.cta.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta.label | markdownify | emojify | safeHTML }}<sup style="visibility:hidden">*</sup></a>
 
       {{/* Alternative Call-to-action link */}}
       {{ if $page.Params.cta_alt.url }}
@@ -58,14 +58,14 @@
       {{ $link := $page.Params.cta_gyselax.url }}
       {{ $scheme := (urls.Parse $link).Scheme }}
       {{ $target := "" }}
-      {{ if not $scheme }}
-        {{ $link = $link | relLangURL }}
-      {{ else if in (slice "http" "https") $scheme }}
+      {{ if in (slice "http" "https") $scheme }}
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
     <p class="cta-gyselax-btns">
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-3 mb-md-1">{{ if $page.Params.cta_gyselax.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta_gyselax.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta_gyselax.label | markdownify | emojify | safeHTML }}</a>
+    <a href="{{ $page.Params.cta_gyselax.url | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-3 mb-md-1 mr-4">{{ if $page.Params.cta_gyselax.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta_gyselax.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta_gyselax.label | markdownify | emojify | safeHTML }}<sup>*</sup></a>
+      <a href="{{ $page.Params.cta_gysela.url | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-3 mb-md-1">{{ if $page.Params.cta_gysela.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta_gysela.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta_gysela.label | markdownify | emojify | safeHTML }}<sup>*</sup></a>
     </p>
+    <p> *Please contact a member of team to get access to the GitLab repositories.</p>
     {{ end }}
 
     {{/* Call-to-action note */}}

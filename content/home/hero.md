@@ -22,7 +22,10 @@ cta_alt:
 cta_gyselax:
   url: https://gitlab.maisondelasimulation.fr/gysela-developpers/Gysela-X
   label: Gysela-X++
-  icon_pack: fab
+  icon: gitlab
+cta_gysela:
+  url: https://gitlab.maisondelasimulation.fr/gysela-developpers/Gysela
+  label: GYSELA
   icon: gitlab
 ---
 
