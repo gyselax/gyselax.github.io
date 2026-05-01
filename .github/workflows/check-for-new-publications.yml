@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - name: Install dependencies
@@ -25,7 +25,7 @@ jobs:
           pip install requests pyyaml unidecode
       - name: Get last run date
         run: |
-          last_run_iso=$(gh run list --workflow "Update Publications" --status success --limit 1 --json createdAt --jq '.[0].createdAt'  2>/dev/null || echo "")
+          last_run_iso=$(gh run list --event schedule --status success --limit 1 --json createdAt --jq '.[0].createdAt'  2>/dev/null || echo "")
           if [ -z "$last_run_iso" ]; then
             echo "No last run found"
             last_run_iso="2019-01-01T00:00:00Z"   # fallback default
