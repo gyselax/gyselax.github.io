@@ -193,10 +193,6 @@ def main():
         print(f"Found {len(results)} results for {PROJECT_NAME} since {CHECK_FROM}")
 
         for work in results:
-            # Discard preprints
-            if work.get("type") == "preprint":
-                continue
-
             meta = extract_metadata(work, abbrev_map)
 
             # Discard preprints
