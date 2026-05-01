@@ -101,7 +101,7 @@ def extract_metadata(work, abbrev_map):
             venue_primary = venue_primary.get("display_name")
     venue_full = venue_primary or venue_host or ""
     year = work.get("publication_year", "")
-    doi = work.get("doi")
+    doi = work.get("doi").removeprefix('https://doi.org/')
     url = f"https://doi.org/{doi}" if doi else None
     pub_date = work.get("publication_date", "1900-01-01")
     biblio = work.get("biblio", {})
