@@ -102,6 +102,8 @@ def extract_metadata(work, abbrev_map):
     venue_full = venue_primary or venue_host or ""
     year = work.get("publication_year", "")
     doi = work.get("doi")
+    if doi:
+        doi = doi.removeprefix('https://doi.org/')
     url = f"https://doi.org/{doi}" if doi else None
     pub_date = work.get("publication_date", "1900-01-01")
     biblio = work.get("biblio", {})
@@ -193,10 +195,6 @@ def main():
         print(f"Found {len(results)} results for {PROJECT_NAME} since {CHECK_FROM}")
 
         for work in results:
-            # Discard preprints
-            if work.get("type") == "preprint":
-                continue
-
             meta = extract_metadata(work, abbrev_map)
 
             # Discard preprints

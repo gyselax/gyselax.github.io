@@ -1,6 +1,6 @@
 ---
 title: European Grants
-summary: GYSELA-X was supported by 10 European grants in the last seven years
+summary: Gysela-X was supported by 10 European grants in the last seven years
 tags:
 - European Grants
 date: "2021-04-23T00:00:00Z"
