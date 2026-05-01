@@ -47,7 +47,7 @@ def load_known_dois():
             front_matter = content.split("---", 2)[1]
             data = yaml.safe_load(front_matter)
             if "doi" in data:
-                dois.add(data["doi"])
+                dois.add(data["doi"].removeprefix('https://doi.org/'))
     return dois
 
 def get_first_author_surname(authorships):
