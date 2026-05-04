@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Allocations in\_a\_Hierarchical Parallel Context"
+title: "Dynamic Allocations in a Hierarchical Parallel Context"
 subtitle: ''
 summary: ''
 authors:
