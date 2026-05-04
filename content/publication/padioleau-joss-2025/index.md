@@ -1,28 +1,16 @@
 ---
-title: 'Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic
-  Simulations'
+title: 'DDC: The Discrete Domain Computation library'
 subtitle: ''
 summary: ''
 authors:
-- Emily Bourne
-- Virginie Grandgirard
-- Yuuichi Asahi
-- Julien Bigot
-- Peter Donnel
-- A. C. D. Hoffmann
-- Abdelhadi Kara
-- Philipp Krah
-- Baptiste Legouix
-- Etienne Malaboeuf
-- Yann Munschy
-- Kevin Obrejan
 - Thomas Padioleau
-- Matthieu Protais
-- Pauline Vidal
+- Julien Bigot
+- Emily Bourne
+- Baptiste Legouix
 tags: []
 categories: []
-date: '2025-09-09'
-lastmod: '2025-09-18T15:25:29.946259'
+date: '2025-11-06'
+lastmod: '2026-05-04T08:55:41.056088'
 featured: false
 draft: false
 image:
@@ -30,10 +18,11 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-publishDate: '2025-09-18T15:25:29.946265'
+publishDate: '2026-05-04T08:55:41.056091'
 publication_types:
 - '1'
 abstract: ''
 publication: The Journal of Open Source Software
-doi: https://doi.org/10.21105/joss.08582
+doi: 10.21105/joss.09122
 ---
+
