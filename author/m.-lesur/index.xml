@@ -5,12 +5,20 @@
     <link>https://gyselax.github.io/author/m.-lesur/</link>
       <atom:link href="https://gyselax.github.io/author/m.-lesur/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Lesur</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>M. Lesur</title>
       <link>https://gyselax.github.io/author/m.-lesur/</link>
     </image>
+    
+    <item>
+      <title>Global gyrokinetic study of lithium core turbulent transport with and without transport barrier</title>
+      <link>https://gyselax.github.io/publication/avril-po-p-2026/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/avril-po-p-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics</title>
