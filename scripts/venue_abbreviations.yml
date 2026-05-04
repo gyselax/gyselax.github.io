@@ -46,3 +46,6 @@ ESAIM Proceedings and Surveys:
 The European Physical Journal:
   slug: epl
   bibtex: "Eur. Phys. J."
+Journal of Scientific Computing:
+  slug: jsc
+  bibtex: "J. Sci. Comput."
