@@ -8,9 +8,10 @@ import unidecode
 
 # === Config ===
 PROJECT_NAME = "gysela"     # change to your project keyword
-AUTHOR_DIR = Path(__file__).parent.parent / "content" / "authors"
+SCRIPT_DIR = Path(__file__).parent
+AUTHOR_DIR = SCRIPT_DIR.parent / "content" / "authors"
 PUBLICATION_DIR = Path(__file__).parent.parent / "content" / "publication"
-VENUE_ABBREVIATIONS_FILE = Path("venue_abbreviations.yml")
+VENUE_ABBREVIATIONS_FILE = SCRIPT_DIR / "venue_abbreviations.yml"
 CHECK_FROM=os.environ['CHECK_FROM']
 
 existing_slugs = {p.stem for p in PUBLICATION_DIR.iterdir() if p.is_dir()}
