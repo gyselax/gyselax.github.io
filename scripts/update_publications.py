@@ -199,7 +199,7 @@ def main():
             meta = extract_metadata(work, abbrev_map)
 
             # Discard preprints
-            if any(unpublished in meta["venue_full"] for unpublished in ("arXiv", "HAL", "Zenodo")):
+            if any(unpublished in meta["venue_full"] for unpublished in ("arXiv", "HAL", "Zenodo", "SSRN")):
                 continue
 
             # Check relevance
