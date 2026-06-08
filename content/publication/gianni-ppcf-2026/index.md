@@ -8,7 +8,7 @@ authors:
 - Peter Donnel
 - X. Garbet
 - Yanick Sarazin
-- "Rom\xE9o Bigu\xE9"
+- Roméo Bigué
 - G Dif-Pradalier
 - Virginie Grandgirard
 - Kevin Obrejan

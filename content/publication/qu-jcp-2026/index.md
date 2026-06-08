@@ -7,7 +7,7 @@ authors:
 - Youngwoo Cho
 - Chang Kai Chai
 - Michael Go
-- "Rom\xE9o Bigu\xE9"
+- Roméo Bigué
 - Peter Donnel
 - Kevin Obrejan
 - Yi Wen Ban
@@ -19,7 +19,7 @@ authors:
 - Jing Yang Ng
 - Shrish Raj
 - Yanick Sarazin
-- "Eric Sonnendr\xFCcker"
+- Eric Sonnendrücker
 - Robin Varennes
 - Chenguang Wan
 tags: []
