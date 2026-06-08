@@ -6,7 +6,7 @@ summary: ''
 authors:
 - Ludovica De Gianni
 - Peter Donnel
-- X. Garbet
+- Xavier Garbet
 - Yanick Sarazin
 - Roméo Bigué
 - G Dif-Pradalier
