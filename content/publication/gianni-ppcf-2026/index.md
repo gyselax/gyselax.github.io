@@ -32,21 +32,7 @@ projects: []
 publishDate: '2026-06-01T08:26:02.032012'
 publication_types:
 - '1'
-abstract: "Abstract Experiments have shown that negative triangularity (NT) configurations\
-  \ in tokamak plasmas&amp;#xD;exhibit good confinement properties associated to reduced\
-  \ turbulent transport. Trapped Electron Modes&amp;#xD;(TEMs) proven be particularly\
-  \ sensitive this shaping-driven stabilization. A semi-analytical&amp;#xD;model derived\
-  \ [Garbet et al. 2024 Nucl. Fusion 64 106055] unravels the origin of linear stabilization&amp;#xD;of\
-  \ TEMs NT plasmas. This model only includes trapped electrons curvature dynamics.\
-  \ Here, we en-&amp;#xD;rich introducing adiabatic response and a simplified term\
-  \ for ions This&amp;#xD;enables satisfactory benchmark with predictions obtained\
-  \ using GENE gyro-kinetic code.&amp;#xD;The ballooning character TEM turbulence\
-  \ is confirmed play central role stabilizing process,&amp;#xD;extending results\
-  \ broader parameter space. the&amp;#xD;key physical mechanism large weight given\
-  \ by deeply electrons, whose preces-&amp;#xD;sion frequency lower than PT \u2013\
-  \ conversely barely ones. The deeply&amp;#xD;trapped further supported analysis\
-  \ energy transfer resolved velocity phase space&amp;#xD;between electrostatic modes,\
-  \ both global code&amp;#xD;GYSELA."
+abstract: "Experiments have shown that negative triangularity (NT) configurations in tokamak plasmas exhibit good confinement properties associated to reduced turbulent transport. Trapped electron modes (TEMs) have proven to be particularly sensitive to this shaping-driven stabilization. A reduced semi-analytical model derived in Garbet et al (2024 Nucl. Fusion 64 106055) unravels the origin of the linear stabilization of TEMs in NT plasmas. This model only includes the trapped electrons curvature dynamics. Here, we enrich the model introducing the adiabatic response of electrons and a simplified term for ions dynamics. This enables a satisfactory benchmark with the linear predictions obtained using the GENE gyro-kinetic code. The ballooning character of TEM turbulence is confirmed to play a central role in the stabilizing process, extending the results of Garbet et al (2024 Nucl. Fusion 64 106055) to a broader parameter space. Here, the key physical mechanism is the large weight given by ballooning to deeply trapped electrons, whose precession frequency is lower in NT than in PT—conversely to barely trapped ones. The stabilizing role of deeply trapped electrons is further supported by the analysis of the energy transfer resolved in velocity phase space between electrons and electrostatic modes, using both the reduced model and the global gyro-kinetic code GYSELA."
 publication: Plasma Physics and Controlled Fusion
 doi: 10.1088/1361-6587/ae6bba
 ---
