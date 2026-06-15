@@ -5,12 +5,28 @@
     <link>https://gyselax.github.io/author/dr.-kevin-obrejan/</link>
       <atom:link href="https://gyselax.github.io/author/dr.-kevin-obrejan/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Kevin Obrejan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/author/dr.-kevin-obrejan/avatar_hu1d9e94f281ab6c8596c7ec26a113b5a7_57759_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Kevin Obrejan</title>
       <link>https://gyselax.github.io/author/dr.-kevin-obrejan/</link>
     </image>
+    
+    <item>
+      <title>Linear analysis of the effect of shaping on trapped electron mode instability: from a reduced model to gyro-kinetics</title>
+      <link>https://gyselax.github.io/publication/gianni-ppcf-2026/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/gianni-ppcf-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic version of the flux-driven full-F global gyrokinetic code GYSELA</title>
+      <link>https://gyselax.github.io/publication/qu-jcp-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/qu-jcp-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gyselalib&#43;&#43;: A Portable C&#43;&#43; Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations</title>

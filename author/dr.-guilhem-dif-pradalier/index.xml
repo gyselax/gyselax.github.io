@@ -5,12 +5,20 @@
     <link>https://gyselax.github.io/author/dr.-guilhem-dif-pradalier/</link>
       <atom:link href="https://gyselax.github.io/author/dr.-guilhem-dif-pradalier/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Guilhem Dif-Pradalier</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/author/dr.-guilhem-dif-pradalier/avatar_hu53d8b821c00a5f36f6c564f7a283764f_12481_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Guilhem Dif-Pradalier</title>
       <link>https://gyselax.github.io/author/dr.-guilhem-dif-pradalier/</link>
     </image>
+    
+    <item>
+      <title>Electromagnetic version of the flux-driven full-F global gyrokinetic code GYSELA</title>
+      <link>https://gyselax.github.io/publication/qu-jcp-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/qu-jcp-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigation of the sheared flows and staircases with a full-wave 2D synthetic diagnostic FeDoT</title>

@@ -5,12 +5,28 @@
     <link>https://gyselax.github.io/author/dr.-zhisong-qu/</link>
       <atom:link href="https://gyselax.github.io/author/dr.-zhisong-qu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Zhisong Qu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/author/dr.-zhisong-qu/avatar_huec860db2b9613fc8fa5ee95cb41ea8ac_20606_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Zhisong Qu</title>
       <link>https://gyselax.github.io/author/dr.-zhisong-qu/</link>
     </image>
+    
+    <item>
+      <title>Linear analysis of the effect of shaping on trapped electron mode instability: from a reduced model to gyro-kinetics</title>
+      <link>https://gyselax.github.io/publication/gianni-ppcf-2026/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/gianni-ppcf-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic version of the flux-driven full-F global gyrokinetic code GYSELA</title>
+      <link>https://gyselax.github.io/publication/qu-jcp-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/qu-jcp-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effect of modulated heat source on diffusive and avalanche-like transport</title>

@@ -5,12 +5,20 @@
     <link>https://gyselax.github.io/publication-type/1/</link>
       <atom:link href="https://gyselax.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/media/logo_hu4e631bacc59c815dbf54936fac87f440_74849_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://gyselax.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Linear analysis of the effect of shaping on trapped electron mode instability: from a reduced model to gyro-kinetics</title>
+      <link>https://gyselax.github.io/publication/gianni-ppcf-2026/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/gianni-ppcf-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Global gyrokinetic study of lithium core turbulent transport with and without transport barrier</title>
@@ -25,6 +33,22 @@
       <link>https://gyselax.github.io/publication/vidal-jsc-2026/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://gyselax.github.io/publication/vidal-jsc-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic version of the flux-driven full-F global gyrokinetic code GYSELA</title>
+      <link>https://gyselax.github.io/publication/qu-jcp-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/qu-jcp-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDC: The Discrete Domain Computation library</title>
+      <link>https://gyselax.github.io/publication/padioleau-joss-2025/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/padioleau-joss-2025/</guid>
       <description></description>
     </item>
     

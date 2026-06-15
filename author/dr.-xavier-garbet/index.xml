@@ -5,7 +5,7 @@
     <link>https://gyselax.github.io/author/dr.-xavier-garbet/</link>
       <atom:link href="https://gyselax.github.io/author/dr.-xavier-garbet/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Xavier Garbet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gyselax.github.io/author/dr.-xavier-garbet/avatar_hubf749428077d3e4b6495570a0cc1554d_3927_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Dr. Xavier Garbet</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Linear analysis of the effect of shaping on trapped electron mode instability: from a reduced model to gyro-kinetics</title>
+      <link>https://gyselax.github.io/publication/gianni-ppcf-2026/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/gianni-ppcf-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Global gyrokinetic study of lithium core turbulent transport with and without transport barrier</title>
       <link>https://gyselax.github.io/publication/avril-po-p-2026/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://gyselax.github.io/publication/avril-po-p-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic version of the flux-driven full-F global gyrokinetic code GYSELA</title>
+      <link>https://gyselax.github.io/publication/qu-jcp-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gyselax.github.io/publication/qu-jcp-2026/</guid>
       <description></description>
     </item>
     
